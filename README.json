@@ -1,0 +1,1628 @@
+{
+  "items": [
+    {
+      "description": "These servers support the IIIF Image API. Some may also have support for the Presentation API.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Loris",
+          "description": "Written in Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-09-07T14:24:42Z",
+            "owner": "loris-imageserver",
+            "repo": "loris",
+            "stars": 215
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "go-iiif",
+          "description": "IIIF server written in go (fork of greut/iiif).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-23T23:34:20Z",
+            "owner": "go-iiif",
+            "repo": "go-iiif",
+            "stars": 98
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RAIS",
+          "description": "100% open source tile server for JP2 images written in Go.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-06-16T16:24:05Z",
+            "owner": "uoregon-libraries",
+            "repo": "rais-image-server",
+            "stars": 84
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "riiif",
+          "description": "Written in Ruby as a Rails engine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-06-22T23:08:55Z",
+            "owner": "sul-dlss",
+            "repo": "riiif",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SIPI",
+          "description": "IIIFv3 image server written in C++.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T14:05:24Z",
+            "owner": "dasch-swiss",
+            "repo": "sipi",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hymir IIIF Server",
+          "description": "IIIF server written in Java supporting IIIF Image and Presentation API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-14T20:06:44Z",
+            "owner": "dbmdz",
+            "repo": "iiif-server-hymir",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iiif_s3",
+          "description": "Ruby library for generating a static IIIF level 0 Image and Presentation API server on Amazon S3.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2017-11-26T23:24:42Z",
+            "owner": "cmoa",
+            "repo": "iiif_s3",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wolpi",
+          "description": "A fast and extensible IIIF Image API 2.1 + 3.0 image server based on libvips, supporting Python and JavaScript extensions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-04T07:54:05Z",
+            "owner": "dbmdz",
+            "repo": "wolpi",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aws-batch-iiif-generator",
+          "description": "An automated pipeline to generate IIIF tiles and manifests and use AWS S3 as an IIIF image server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-09-24T17:14:33Z",
+            "owner": "vt-digital-libraries-platform",
+            "repo": "aws-batch-iiif-generator",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TremendousIIIF",
+          "description": "A .NET C# IIIF Image API 2.1 server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-08-30T14:32:29Z",
+            "owner": "britishlibrary",
+            "repo": "TremendousIIIF",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "triplet",
+          "description": "A fast IIIF Image API 3.0 and Presentation API 3.0 server written in Go, powered by libvips for image processing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T11:57:25Z",
+            "owner": "libops",
+            "repo": "triplet",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FSI Server",
+          "description": "FSI Server is a popular commercial solution for serving high resolution images in multiple formats. It accompanies the Flash-based FSI Viewer for zoom and pan. IIIF adaptor for FSI server",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2014-09-05T19:29:40Z",
+            "owner": "jhu-digital-manuscripts",
+            "repo": "rosa",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iiif-worker",
+          "description": "IIIF Image API 3.0 level 2 server that runs on a Cloudflare Worker with its images in R2, using WebAssembly for the image processing so there is no server process to operate.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-31T10:28:57Z",
+            "owner": "mkpoli",
+            "repo": "iiif-worker",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Image Servers"
+    },
+    {
+      "description": "As defined by Wikipedia a shim is a small library that transparently intercepts an API, changing the parameters passed, handling the operation itself, or redirecting the operation elsewhere. These shims allow you to use an image server that does not currently support IIIF. If you have not implemented an image server yet, this is probably not where you want to start.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Flask-IIIF",
+          "description": "Flask extension to support IIIF in Python/Flask applications. See Flask-IIIF previewer demo and Flask-IIIF RESTful demo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-10T08:32:18Z",
+            "owner": "inveniosoftware",
+            "repo": "flask-iiif",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Djatoka Ruby gem",
+          "description": "Convert IIIF URLs into the URLs that Djatoka requires.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2015-11-04T14:26:40Z",
+            "owner": "jronallo",
+            "repo": "djatoka",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shimmy",
+          "description": "Ruby gem designed to help you build shims for the IIIF Presentation API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2016-03-21T00:40:53Z",
+            "owner": "mejackreed",
+            "repo": "shimmy",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "djiiif",
+          "description": "Package designed to make integrating the IIIF Image API easier by extending Django's ImageField.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2026-07-08T13:38:03Z",
+            "owner": "rogerhoward",
+            "repo": "djiiif",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ContentDM Image translator",
+          "description": "Makes ContentDM images available through IIIF. Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-10-27T23:42:13Z",
+            "owner": "azaroth42",
+            "repo": "pi3f",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Image Server Shims"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Internet Archive BookReader",
+          "description": "A viewer developed by the Internet Archive, specially suited for viewing books.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T00:36:17Z",
+            "owner": "internetarchive",
+            "repo": "bookreader",
+            "stars": 1170
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tify",
+          "description": "Slim and fast IIIF document viewer built with Vue.js.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T00:01:06Z",
+            "owner": "tify-iiif-viewer",
+            "repo": "tify",
+            "stars": 129
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mirador",
+          "description": "Multi-up workspace. See also Awesome Mirador list.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-02-11T16:00:30Z",
+            "owner": "ProjectMirador",
+            "repo": "mirador-awesome",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Glycerine Viewer",
+          "description": "An elegant and contemporary Vue 3 Viewer with a comprehensive annotation feature set.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-05T05:58:58Z",
+            "owner": "Systemik-Solutions",
+            "repo": "glycerine-viewer",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tamerlane",
+          "description": "A lightweight IIIF viewer prioritising user experience for annotated resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-03T09:38:48Z",
+            "owner": "tamerlaneviewer",
+            "repo": "tamerlane",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mirador Video",
+          "description": "Mirador 4 fork supporting annotation on videos.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-01T03:35:03Z",
+            "owner": "TETRAS-IIIF",
+            "repo": "mirador-video",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "IIIF Viewers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Leaflet-IIIF",
+          "description": "Lightweight, extensible IIIF image viewer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-03-09T14:30:45Z",
+            "owner": "mejackreed",
+            "repo": "Leaflet-IIIF",
+            "stars": 138
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IIIFViewer",
+          "description": "IIIF WebGL / Canvas / DOM mobile-ready fast viewer powered by OpenLayers V3.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-06-25T10:15:46Z",
+            "owner": "klokantech",
+            "repo": "iiifviewer",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Imaging Helper Plugin",
+          "description": "OpenSeadragon plugin with utility functions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-20T16:45:41Z",
+            "owner": "msalsbery",
+            "repo": "OpenSeadragonImagingHelper",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "React Canvas Panel",
+          "description": "A wrapper around Atlas with IIIF Image API support for image services, and Manifests.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T15:02:06Z",
+            "owner": "digirati-co-uk",
+            "repo": "react-iiif-vault",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "OpenSeadragon",
+          "description": "IIIF tile support.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Curtain Viewer",
+              "description": "Viewer based on OpenSeadragon using the curtain-sync plugin for comparing naturally aligned image variants",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2024-09-02T15:35:23Z",
+                "owner": "vanda",
+                "repo": "curtain-viewer",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Scalebar Plugin",
+              "description": "OpenSeadragon plugin for physical scale overlay.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2016-04-13T15:36:55Z",
+                "owner": "NIST-ISG",
+                "repo": "OpenSeadragonScalebar",
+                "stars": 5
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Image viewers (Image API only)"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "iiif",
+          "description": "Python library providing a reference implementation of the Image API. Also includes a test server and static tile generator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-05-05T18:49:30Z",
+            "owner": "zimeon",
+            "repo": "iiif",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Node node-iiif",
+          "description": "a full-featured image processor supporting the IIIF Image API versions 2.1 and 3.0.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T15:30:50Z",
+            "owner": "samvera",
+            "repo": "node-iiif",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iiif-apis",
+          "description": "Java IIIF API libraries.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-07T12:49:23Z",
+            "owner": "dbmdz",
+            "repo": "iiif-apis",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iiif-tiler",
+          "description": "Java library for generating static IIIF tiles (compliant with the V2.1 and 3.0 of the IIIF Image API).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-12-19T23:45:42Z",
+            "owner": "glenrobson",
+            "repo": "iiif-tiler",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "image-iiif",
+          "description": "PHP 8 package for implementing IIIF Image API 3.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-06-22T14:22:26Z",
+            "owner": "conlect",
+            "repo": "image-iiif",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "piffle",
+          "description": "Python library for generating and parsing IIIF Image API URLs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-15T14:25:06Z",
+            "owner": "Princeton-CDH",
+            "repo": "piffle",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iOSTiledViewer",
+          "description": "IIIF image API and Zoomify viewer for iOS, written in Swift.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2018-04-23T06:20:46Z",
+            "owner": "moravianlibrary",
+            "repo": "iOSTiledViewer",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iiif_image_plug",
+          "description": "an Elixir library that implements the IIIF Image API as a Plug.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Elixir",
+            "last_commit": "2026-06-26T07:23:10Z",
+            "owner": "dainst",
+            "repo": "iiif_image_plug",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iiif_url",
+          "description": "Ruby library for creating and parsing IIIF Image API URLs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2016-08-30T21:44:49Z",
+            "owner": "NCSU-Libraries",
+            "repo": "iiif_url",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Image API Libraries"
+    },
+    {
+      "description": "Various tools for working with images such as cropping tools.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "dezoomify-rs",
+          "description": "A command-line tiled image downloader. Support IIIF, Deepzoom and others zoomable image formats.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-27T20:56:07Z",
+            "owner": "lovasoa",
+            "repo": "dezoomify-rs",
+            "stars": 1021
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iiif-dl",
+          "description": "Command-line tile downloader/assembler for IIIF endpoints/manifests. Download full-resolution image sequences from any IIIF server. Currently not compatible with IIIF 3.0.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-04-08T08:32:14Z",
+            "owner": "ryanfb",
+            "repo": "iiif-dl",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IIIF-imageManipulation",
+          "description": "UCD's tool to crop images and manipulate via IIIF attributes; integrate with Mirador via plugin.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-07-31T11:47:11Z",
+            "owner": "jbhoward-dublin",
+            "repo": "iiif-imageManipulation",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IIIF Downloader",
+          "description": "Lightweight Python image downloader that needs only standard libraries (CLI + API + GUI). Compliant with IIIF API 2.0, 2.1 and 3.0.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-07T16:24:18Z",
+            "owner": "ClaudioMartino",
+            "repo": "IIIF-Downloader",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "Image Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Manifesto",
+          "description": "IIIF Presentation API client and server utility library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T10:41:49Z",
+            "owner": "IIIF-Commons",
+            "repo": "manifesto",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iiif-prezi3",
+          "description": "Presentation 3 Python library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-03T05:42:58Z",
+            "owner": "iiif-prezi",
+            "repo": "iiif-prezi3",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iiif-prezi",
+          "description": "Presentation 2 Python library providing a reference implementation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-17T12:34:20Z",
+            "owner": "iiif-prezi",
+            "repo": "iiif-prezi",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "O'Sullivan",
+          "description": "Ruby API for creating IIIF manifests.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2025-12-10T19:13:57Z",
+            "owner": "iiif-prezi",
+            "repo": "osullivan",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iiif-apis",
+          "description": "Java IIIF API libraries.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-07T12:49:23Z",
+            "owner": "dbmdz",
+            "repo": "iiif-apis",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IIIF Manifest Generator",
+          "description": "PHP library for generating IIIF manifests.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-01-28T01:01:12Z",
+            "owner": "yale-web-technologies",
+            "repo": "IIIF-Manifest-Generator",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyIIIFpres",
+          "description": "A Python module built for easing the construction of JSON manifests compliant with IIIF API 3.0 in a production environment, similarly to iiif-prezi for earlier versions of the protocol.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-21T16:03:27Z",
+            "owner": "giacomomarchioro",
+            "repo": "pyIIIFpres",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IIIF Parser",
+          "description": "An NPM module (Node + Browser) for parsing IIIF Presentation 2.1, 3.0, 4.0 and upgrading from v2 to v3. demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T16:49:56Z",
+            "owner": "IIIF-Commons",
+            "repo": "parser",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IIIF Builder",
+          "description": "An NPM module for building IIIF Manifests programatically",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-02-12T15:56:25Z",
+            "owner": "IIIF-Commons",
+            "repo": "iiif-builder",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cozy-iiif",
+          "description": "A developer-friendly TypeScript API for working with IIIF resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T08:36:08Z",
+            "owner": "rsimon",
+            "repo": "cozy-iiif",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jiiify-presentation",
+          "description": "A Java IIIF Presentation library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-10T01:52:45Z",
+            "owner": "ksclarke",
+            "repo": "jiiify-presentation",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Manifold",
+          "description": "Wraps Manifesto to provide viewer state and related utilities.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-23T10:29:36Z",
+            "owner": "IIIF-Commons",
+            "repo": "manifold",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tiny-iiif-manifest-authoring-tool",
+          "description": "A node.js web app that provides a one-stop solution for publishing IIIF resources, offering various functionalities from image uploading to IIIF manifest authoring.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-08-02T21:29:11Z",
+            "owner": "yuta1984",
+            "repo": "tiny-iiif-manifest-authoring-tool",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IIIF Helpers",
+          "description": "An NPM module with a variety of helpers for working with IIIF Presentation resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T15:59:23Z",
+            "owner": "IIIF-Commons",
+            "repo": "iiif-helpers",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iiif-tree-component",
+          "description": "IIIF tree menu sortable by date with multi-select capability.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2025-07-03T13:09:44Z",
+            "owner": "IIIF-Commons",
+            "repo": "iiif-tree-component",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Swiiift",
+          "description": "IIIF presentation API library for Swift.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2018-02-07T01:13:52Z",
+            "owner": "mejackreed",
+            "repo": "Swiiift",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Presentation API Libraries"
+    },
+    {
+      "description": "These shims allow you to use systems with presentation metadata (e.g. structure or sequences) that do not currently support IIIF. If you have not implemented the Presentation API yet, this is probably not where you want to start.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Shimmy",
+          "description": "Ruby gem designed to help you build shims for the IIIF Presentation API, and has samples for NYPL, Flickr, and the US National Archives.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2016-03-21T00:40:53Z",
+            "owner": "mejackreed",
+            "repo": "shimmy",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chronicling America",
+          "description": "For newspapers digitized in the National Digital Newspaper Program.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2016-10-27T23:47:51Z",
+            "owner": "azaroth42",
+            "repo": "presentation-api-shims",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Presentation API Shims"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "biiif",
+          "description": "Organise your files according to a simple naming convention to generate IIIF v3 manifests.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-01-09T14:16:02Z",
+            "owner": "IIIF-Commons",
+            "repo": "biiif",
+            "stars": 94
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Manifest Editor",
+          "description": "Web application for importing, viewing, updating, and exporting manifests. See a demo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-03-01T10:11:47Z",
+            "owner": "bodleian",
+            "repo": "iiif-manifest-editor",
+            "stars": 84
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pdiiif",
+          "description": "a JavaScript library to create PDFs from IIIF manifests, completely client-side (with server-based fallback for unsupported browsers).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-10-04T23:47:48Z",
+            "owner": "jbaiter",
+            "repo": "pdiiif",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Digirati Manifest Editor",
+          "description": "An open-source, IIIF editing tool, designed to provide a visually intuitive interface for creating, editing and updating IIIF Manifests and more. View on Github | Demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T15:50:43Z",
+            "owner": "digirati-co-uk",
+            "repo": "iiif-manifest-editor",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "demetsiiify",
+          "description": "Web service for creating IIIF manifests from METS/MODS documents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-08T02:56:28Z",
+            "owner": "jbaiter",
+            "repo": "demetsiiify",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tropiiify",
+          "description": "Tropy plugin that exports images, metadata and annotations as a (level0) IIIF collection.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-08-27T17:32:42Z",
+            "owner": "arkalab",
+            "repo": "tropiiify",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iiif-producer",
+          "description": "A CLI tool that generates IIIF Presentation 2.1 Manifests from METS/MODS (produced by Kitodo).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-04-17T11:14:22Z",
+            "owner": "ubleipzig",
+            "repo": "iiif-producer",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Brif",
+          "description": "A boilerplate tool based on Docker and FastAPI, designed to streamline the development and deployment of IIIF compliant platforms. Powering up muzai.io. See live demo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-27T20:28:47Z",
+            "owner": "pierrz",
+            "repo": "brif",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Leiden's Islandora IIIF Manifest Generator",
+          "description": "A module to generate IIIF Manifest for Islandora.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-06-11T12:37:45Z",
+            "owner": "LeidenUniversityLibrary",
+            "repo": "islandora_iiif_manifests",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Presentation Manifest Tools"
+    },
+    {
+      "description": "Libraries and applications that support the Content Search API.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Ocracoke",
+          "description": "Rails application to create, index, and search text from page images and provide results in IIIF Content Search API format.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2022-12-14T04:41:29Z",
+            "owner": "NCSU-Libraries",
+            "repo": "ocracoke",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Whiiif",
+          "description": "Python/Flask/Solr application to index IIIF manifests alongside ALTO representations and provide a IIIF Content Search API endpoint.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-12-16T13:06:55Z",
+            "owner": "mbennett-uoe",
+            "repo": "whiiif",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blacklight IIIF Search",
+          "description": "Plugin that provides IIIF Content Search functionality for Blacklight-based Rails applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-03-17T16:37:01Z",
+            "owner": "boston-library",
+            "repo": "blacklight_iiif_search",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Annosearch",
+          "description": "TypeScript tool from The National Archives that indexes W3C Web Annotations from IIIF collections and annotation servers (e.g. Miiify) using Quickwit, exposing them via a IIIF Content Search 2.0 API endpoint.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-05T14:21:32Z",
+            "owner": "nationalarchives",
+            "repo": "annosearch",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "Content Search API"
+    },
+    {
+      "description": "Some resources about the IIIF Authorization Flow API.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "iiif-image-auth",
+          "description": "(IIIF Auth 1.0) A simple server implementation based on Docker and Flask.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-07-15T15:49:00Z",
+            "owner": "robcast",
+            "repo": "iiif-image-auth",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iiif-auth-client",
+          "description": "Client implementation of the IIIF Authorization Flow specification.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-03-26T12:56:58Z",
+            "owner": "tomcrane",
+            "repo": "iiif-auth-client",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iiif-auth-server",
+          "description": "A demo server implementation of all aspects of the IIIF Authorization Flow specification.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-12T18:16:44Z",
+            "owner": "tomcrane",
+            "repo": "iiif-auth-server",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Authentication"
+    },
+    {
+      "description": "Tutorials for how to accomplish functionality in your applications.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Experiments with IIIF and Gallica",
+          "description": "A guided tour of end user applications of IIIF to Gallica materials, by Jean-Philippe Moreux (BnF).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-11-16T15:54:59Z",
+            "owner": "altomator",
+            "repo": "IIIF",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IIIF Workshop for DHNord2020",
+          "description": "French langauge workshop with three exercises from a workshop entitled \"Adopt and use IIIF standards for your digital image corpora,\" created by Régis Robineau (technical coordinator of Biblissima) and Johann Holland (TGIR Huma-Num).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-11-18T08:33:44Z",
+            "owner": "regisrob",
+            "repo": "Atelier_IIIF_Conference_DHNord_2020",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "Tutorials"
+    },
+    {
+      "description": "Links to help you discover IIIF resources that have been shared, demonstrations of IIIF discovery and useful discovery tools.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "iiif-universe",
+          "description": "Repository that includes links to known IIIF presentation manifest collections.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-05-08T10:31:29Z",
+            "owner": "ryanfb",
+            "repo": "iiif-universe",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iNQUIRE source",
+          "description": "Github repository for iNQUIRE.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-03-03T03:09:08Z",
+            "owner": "armadillo-systems",
+            "repo": "inquire",
+            "stars": 11
+          }
+        }
+      ],
+      "title": "Discovery"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Open in IIIF Viewer",
+          "description": "A web browser extension to open IIIF manifest link in your favorite IIIF viewer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-07-09T18:30:10Z",
+            "owner": "2SC1815J",
+            "repo": "open-in-iiif-viewer",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iiif.link",
+          "description": "A url shortener for sharing a IIIF resource; upon opening the URL the viewer will open at the saved zoom and region of interest.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-05-24T08:31:43Z",
+            "owner": "atomotic",
+            "repo": "iiif.link",
+            "stars": 14
+          }
+        }
+      ],
+      "title": "Import to Viewers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "IMMARKUS",
+          "description": "A semantic image annotation tool for researchers, digital humanists and cultural heritage professionals.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T08:40:36Z",
+            "owner": "rsimon",
+            "repo": "immarkus",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "liiive",
+          "description": "A tool for real-time collaborative IIIF image annotation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-18T07:28:23Z",
+            "owner": "rsimon",
+            "repo": "liiive",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ALTO to Annotation list",
+          "description": "This XSLT converts an ALTO xml document to an annotation lists for use with a IIIF manifests.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-09-10T05:24:25Z",
+            "owner": "glenrobson",
+            "repo": "iiif_stuff",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Annocoda",
+          "description": "Mobile-friendly web app that uses IIIF Content Search 2.0 and Presentation 3.0 to provide image search capabilities",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2023-10-23T10:43:14Z",
+            "owner": "jptmoore",
+            "repo": "annocoda",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Annotations"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SimpleAnnotationServer",
+          "description": "Java annotation server backed by an Apache Jena triple store, Sesame, or Solr.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-03-01T23:00:38Z",
+            "owner": "glenrobson",
+            "repo": "SimpleAnnotationServer",
+            "stars": 104
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Elucidate",
+          "description": "Java and Postgres annotation server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2022-01-04T16:32:58Z",
+            "owner": "dlcs",
+            "repo": "elucidate-server",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Miiify",
+          "description": "Light-weight annotation server built on the same principles as Git.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "OCaml",
+            "last_commit": "2026-04-30T14:47:46Z",
+            "owner": "nationalarchives",
+            "repo": "miiify",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MangoServer",
+          "description": "[deprecated] - Mongo-backed annotation server written in Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-06-03T22:43:27Z",
+            "owner": "azaroth42",
+            "repo": "MangoServer",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Local IIIF Annotation Server",
+          "description": "[deprecated] - Jekyll front end, Flask backend, equipped with Vagrant Box that provides a Mirador viewer for creating and save annotations into Jekyll site. Annotations are sharable by using GitHub pages with Jekyll front end.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2024-06-05T14:36:53Z",
+            "owner": "dnoneill",
+            "repo": "annotate",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aiiinotate",
+          "description": "IIIF annotation server built for speed and scalability, based on NodeJS and MongoDB. Designed to handle massive quantities of annotations (>10M) produced by computer vision tools.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-07T16:07:31Z",
+            "owner": "Aikon-platform",
+            "repo": "aiiinotate",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "annotot",
+          "description": "Simple IIIF annotations mounted in a Ruby on Rails applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2025-11-25T18:05:30Z",
+            "owner": "PenguinParadigm",
+            "repo": "annotot",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ipfs-iiif-db",
+          "description": "[deprecated] - IIIF annotations JS client over IPFS.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2025-05-01T08:39:35Z",
+            "owner": "ipfs-shipyard",
+            "repo": "ipfs-iiif-db",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CatchPy",
+          "description": "Django-based annotation server with support for Web Annotation and AnnotatorJS APIs, using JWT for auth. Originally developed for the AnnotationsX LTI tool, CatchPy also supports tagging and responses.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-03T18:25:04Z",
+            "owner": "nmaekawa",
+            "repo": "catchpy",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Europeana",
+          "description": "Extension to the Europeana REST API that allows you to create, retrieve, and manage annotations on Europeana objects",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-06-26T21:23:13Z",
+            "owner": "europeana",
+            "repo": "annotation",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Annotation Servers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "IIIF Annotation Studio",
+          "description": "Mirador Viewer packaged as a desktop app (macos, linux) with an embedded annotation endpoint that saves annotations to a local sqlite database.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-03-11T19:58:08Z",
+            "owner": "atomotic",
+            "repo": "iiif-annotation-studio",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mirador Annotation Editor",
+          "description": "Mirador 4 plugin that adds annotation editing capabilities to Mirador. Embedded in Mirador Multi User.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-21T12:37:00Z",
+            "owner": "TETRAS-IIIF",
+            "repo": "mirador-annotation-editor",
+            "stars": 11
+          }
+        }
+      ],
+      "title": "Annotation Clients"
+    },
+    {
+      "description": "Content Management Systems (CMS) modules that implement or leverage the IIIF APIs.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "IIIF Toolkit",
+          "description": "IIIF Toolkit by University of Toronto Libraries is a plugin for Omeka Classic (2.3+) that integrates Mirador with a built-in annotator, a manifest generator, Simple Pages shortcodes and Exhibit Builder blocks for a rich presentation experience.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-11-08T20:31:44Z",
+            "owner": "utlib",
+            "repo": "IiifItems",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mirador Viewer Omeka S Module",
+          "description": "Omeka S module that integrates the Mirador image viewer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-05-23T14:32:50Z",
+            "owner": "Daniel-KM",
+            "repo": "Omeka-S-module-Mirador",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "CMS Integration"
+    },
+    {
+      "description": "These are resources that are specifically useful for working with newspapers. Many of them are outputs of the IIIF Newspaper Community Group (now on hiatus).",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Populating the Annotation Store with IIIF Annotation List",
+          "description": "Provides instructions on how to edit OCR text using annotations in Mirador.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-03-01T23:00:38Z",
+            "owner": "glenrobson",
+            "repo": "SimpleAnnotationServer",
+            "stars": 104
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open ONI (Open Online Newspaper Initiative)",
+          "description": "Open Online Newspaper Initiative (Open ONI) is a community-maintained project to make historic American newspapers browsable and searchable on the web.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-10T21:39:28Z",
+            "owner": "open-oni",
+            "repo": "open-oni",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ndnp_iiif",
+          "description": "Python program for turning National Digital Newspaper Program data into static IIIF JSON that is ready for mounting on the Web.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-06-07T21:16:37Z",
+            "owner": "umd-mith",
+            "repo": "ndnp_iiif",
+            "stars": 12
+          }
+        }
+      ],
+      "title": "Newspapers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Muzai.io platform",
+          "description": "(based on Brif)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-27T20:28:47Z",
+            "owner": "pierrz",
+            "repo": "brif",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Invenio",
+          "description": "(Image API implementation via invenio-iiif)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-11T03:45:31Z",
+            "owner": "inveniosoftware",
+            "repo": "invenio-iiif",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Collection Management Systems (CMSs) and Digital Asset Management (DAMs) that support IIIF"
+    },
+    {
+      "description": "To the extent possible under law, all contributors waive all copyright and related neighboring rights to this work.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:09:11.369Z",
+    "original_repository": "IIIF/awesome-iiif",
+    "original_repository_sha": "b72574afbdb05a587520d1f83b6df1af0e8d4090",
+    "enhanced_repository": "enhansome/enhansome-iiif",
+    "enhanced_repository_description": null,
+    "title": "Awesome International Image Interoperability Framework (IIIF) with stars"
+  }
+}
