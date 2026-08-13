@@ -275,7 +275,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-12T00:36:17Z",
+            "last_commit": "2026-08-13T04:30:17Z",
             "owner": "internetarchive",
             "repo": "bookreader",
             "stars": 1170
@@ -594,7 +594,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-07-27T20:56:07Z",
+            "last_commit": "2026-08-13T07:18:12Z",
             "owner": "lovasoa",
             "repo": "dezoomify-rs",
             "stars": 1021
@@ -1618,7 +1618,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:09:11.369Z",
+    "last_updated": "2026-08-13T10:32:12.578Z",
     "original_repository": "IIIF/awesome-iiif",
     "original_repository_sha": "b72574afbdb05a587520d1f83b6df1af0e8d4090",
     "enhanced_repository": "enhansome/enhansome-iiif",
