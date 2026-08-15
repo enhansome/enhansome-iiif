@@ -67,7 +67,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-14T10:02:36Z",
+            "last_commit": "2026-08-15T08:48:22Z",
             "owner": "dasch-swiss",
             "repo": "sipi",
             "stars": 38
@@ -151,7 +151,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-14T01:10:43Z",
+            "last_commit": "2026-08-14T22:58:30Z",
             "owner": "libops",
             "repo": "triplet",
             "stars": 4
@@ -345,7 +345,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-07-01T03:35:03Z",
+            "last_commit": "2026-08-15T09:26:51Z",
             "owner": "TETRAS-IIIF",
             "repo": "mirador-video",
             "stars": 5
@@ -407,7 +407,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T16:32:28Z",
+            "last_commit": "2026-08-14T15:55:04Z",
             "owner": "digirati-co-uk",
             "repo": "react-iiif-vault",
             "stars": 4
@@ -597,7 +597,7 @@
             "last_commit": "2026-08-13T07:18:12Z",
             "owner": "lovasoa",
             "repo": "dezoomify-rs",
-            "stars": 1022
+            "stars": 1023
           }
         },
         {
@@ -962,7 +962,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T15:50:43Z",
+            "last_commit": "2026-08-14T16:25:27Z",
             "owner": "digirati-co-uk",
             "repo": "iiif-manifest-editor",
             "stars": 45
@@ -1618,7 +1618,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T10:28:08.494Z",
+    "last_updated": "2026-08-15T09:45:37.753Z",
     "original_repository": "IIIF/awesome-iiif",
     "original_repository_sha": "b72574afbdb05a587520d1f83b6df1af0e8d4090",
     "enhanced_repository": "enhansome/enhansome-iiif",
