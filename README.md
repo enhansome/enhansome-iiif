@@ -101,7 +101,7 @@ These servers support the IIIF Image API. Some may also have support for the Pre
 * [Wolpi](https://github.com/dbmdz/wolpi) ⭐ 18 | 🐛 0 | 🌐 Java | 📅 2026-08-04 - A fast and extensible IIIF Image API 2.1 + 3.0 image server based on libvips, supporting Python and JavaScript extensions.
 * [aws-batch-iiif-generator](https://github.com/vt-digital-libraries-platform/aws-batch-iiif-generator) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2024-09-24 - An automated pipeline to generate IIIF tiles and manifests and use AWS S3 as an IIIF image server.
 * [TremendousIIIF](https://github.com/britishlibrary/TremendousIIIF) ⭐ 8 | 🐛 6 | 🌐 C# | 📅 2023-08-30 - A .NET C# IIIF Image API 2.1 server.
-* [triplet](https://github.com/libops/triplet) ⭐ 4 | 🐛 4 | 🌐 Go | 📅 2026-08-14 - A fast IIIF Image API 3.0 and Presentation API 3.0 server written in Go, powered by [libvips](https://github.com/libvips/libvips) ⭐ 11,570 | 🐛 81 | 🌐 C | 📅 2026-08-14 for image processing.
+* [triplet](https://github.com/libops/triplet) ⭐ 4 | 🐛 4 | 🌐 Go | 📅 2026-08-14 - A fast IIIF Image API 3.0 and Presentation API 3.0 server written in Go, powered by [libvips](https://github.com/libvips/libvips) ⭐ 11,573 | 🐛 82 | 🌐 C | 📅 2026-08-14 for image processing.
 * [FSI Server](https://www.neptunelabs.com/fsi-server/) - FSI Server is a popular commercial solution for serving high resolution images in multiple formats.  It accompanies the Flash-based FSI Viewer for zoom and pan. [IIIF adaptor for FSI server](https://github.com/jhu-digital-manuscripts/rosa/tree/master/rosa-iiif-endpoint) ⭐ 2 | 🐛 1 | 🌐 Java | 📅 2014-09-05
 * [iiif-worker](https://github.com/mkpoli/iiif-worker) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-31 - IIIF Image API 3.0 level 2 server that runs on a Cloudflare Worker with its images in R2, using WebAssembly for the image processing so there is no server process to operate.
 * [Cantaloupe](https://cantaloupe-project.github.io/) - Image server written in Java fully conformant to all IIIF Image API versions through 3.0.
@@ -124,12 +124,12 @@ As defined by Wikipedia a shim is a small library that transparently intercepts 
 
 ## IIIF Viewers
 
-* [Internet Archive BookReader](https://github.com/internetarchive/bookreader) ⭐ 1,169 | 🐛 287 | 🌐 JavaScript | 📅 2026-08-13 - A viewer developed by the Internet Archive, specially suited for viewing books.
+* [Internet Archive BookReader](https://github.com/internetarchive/bookreader) ⭐ 1,170 | 🐛 287 | 🌐 JavaScript | 📅 2026-08-13 - A viewer developed by the Internet Archive, specially suited for viewing books.
 * [Tify](https://github.com/subugoe/tify) ⭐ 129 | 🐛 29 | 🌐 JavaScript | 📅 2026-08-12 - Slim and fast IIIF document viewer built with Vue.js.
 * [Mirador](https://projectmirador.org/) - Multi-up workspace. See also [Awesome Mirador list](https://github.com/ProjectMirador/mirador-awesome) ⭐ 45 | 🐛 5 | 📅 2026-02-11.
 * [Glycerine Viewer](https://github.com/Systemik-Solutions/glycerine-viewer) ⭐ 15 | 🐛 0 | 🌐 JavaScript | 📅 2026-06-05 - An elegant and contemporary Vue 3 Viewer with a comprehensive annotation feature set.
 * [Tamerlane](https://github.com/tamerlaneviewer/tamerlane) ⭐ 14 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-03 - A lightweight IIIF viewer prioritising user experience for annotated resources.
-* [Mirador Video](https://github.com/TETRAS-IIIF/mirador-video) ⭐ 5 | 🐛 12 | 🌐 JavaScript | 📅 2026-08-15 - Mirador 4 fork supporting annotation on videos.
+* [Mirador Video](https://github.com/TETRAS-IIIF/mirador-video) ⭐ 5 | 🐛 9 | 🌐 JavaScript | 📅 2026-08-15 - Mirador 4 fork supporting annotation on videos.
 * [Allmaps](https://allmaps.org/) – A set of tools for curating, georeferencing and exploring IIIF maps.
 * [Archive Viewer](https://archiveviewer.org/) - A viewer for scanned images from various archives and repositories. (Presentation API v2 only)
 * [CanvasPanel](http://canvas-panel.netlify.com/) - React library to build IIIF Presentation 3 level viewing experiences including support for annotations.
@@ -172,7 +172,7 @@ As defined by Wikipedia a shim is a small library that transparently intercepts 
 
 Various tools for working with images such as cropping tools.
 
-* [dezoomify-rs](https://github.com/lovasoa/dezoomify-rs) ⭐ 1,023 | 🐛 88 | 🌐 Rust | 📅 2026-08-13 - A command-line tiled image downloader. Support IIIF, Deepzoom and others zoomable image formats.
+* [dezoomify-rs](https://github.com/lovasoa/dezoomify-rs) ⭐ 1,024 | 🐛 88 | 🌐 Rust | 📅 2026-08-13 - A command-line tiled image downloader. Support IIIF, Deepzoom and others zoomable image formats.
 * [iiif-dl](https://github.com/ryanfb/iiif-dl) ⭐ 35 | 🐛 4 | 🌐 Ruby | 📅 2026-04-08 - Command-line tile downloader/assembler for IIIF endpoints/manifests. Download full-resolution image sequences from any IIIF server. Currently not compatible with IIIF 3.0.
 * [IIIF-imageManipulation](https://github.com/jbhoward-dublin/iiif-imageManipulation) ⭐ 18 | 🐛 2 | 🌐 JavaScript | 📅 2017-07-31 - UCD's tool to crop images and manipulate via IIIF attributes; integrate with Mirador via plugin.
 * [IIIF Downloader](https://github.com/ClaudioMartino/IIIF-Downloader) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2026-08-07 - Lightweight Python image downloader that needs only standard libraries (CLI + API + GUI). Compliant with IIIF API 2.0, 2.1 and 3.0.
@@ -360,7 +360,7 @@ Links to help you discover IIIF resources that have been shared, demonstrations 
 ### Annotation Clients
 
 * [IIIF Annotation Studio](https://github.com/atomotic/iiif-annotation-studio) ⭐ 15 | 🐛 0 | 🌐 JavaScript | 📅 2019-03-11 - Mirador Viewer packaged as a desktop app (macos, linux) with an embedded annotation endpoint that saves annotations to a local sqlite database.
-* [Mirador Annotation Editor](https://github.com/TETRAS-IIIF/mirador-annotation-editor) ⭐ 11 | 🐛 11 | 🌐 JavaScript | 📅 2026-07-21 : Mirador 4 plugin that adds annotation editing capabilities to Mirador. Embedded in [Mirador Multi User](https://www.mirador-multi-user.com/).
+* [Mirador Annotation Editor](https://github.com/TETRAS-IIIF/mirador-annotation-editor) ⭐ 11 | 🐛 14 | 🌐 JavaScript | 📅 2026-08-15 : Mirador 4 plugin that adds annotation editing capabilities to Mirador. Embedded in [Mirador Multi User](https://www.mirador-multi-user.com/).
 * [Adno](https://adno.app/en/) - a web application for viewing, editing and sharing narratives and pathways on IIIF images.
 * [Annonatate](https://annonatate.fly.dev/) - Website that allows users to create annotations via their GitHub account. The website saves all the annotations to the user's GitHub. Also makes use of Annona and allows users to create custom Annona views.
 
@@ -487,4 +487,4 @@ To the extent possible under law, all contributors waive all copyright and relat
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
