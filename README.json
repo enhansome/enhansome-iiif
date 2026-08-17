@@ -67,7 +67,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-15T15:33:53Z",
+            "last_commit": "2026-08-16T20:27:20Z",
             "owner": "dasch-swiss",
             "repo": "sipi",
             "stars": 38
@@ -278,7 +278,7 @@
             "last_commit": "2026-08-13T04:30:17Z",
             "owner": "internetarchive",
             "repo": "bookreader",
-            "stars": 1170
+            "stars": 1171
           }
         },
         {
@@ -1618,7 +1618,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T09:46:40.011Z",
+    "last_updated": "2026-08-17T10:01:23.474Z",
     "original_repository": "IIIF/awesome-iiif",
     "original_repository_sha": "b72574afbdb05a587520d1f83b6df1af0e8d4090",
     "enhanced_repository": "enhansome/enhansome-iiif",
