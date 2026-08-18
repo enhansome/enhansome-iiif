@@ -67,7 +67,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-16T20:27:20Z",
+            "last_commit": "2026-08-18T07:51:42Z",
             "owner": "dasch-swiss",
             "repo": "sipi",
             "stars": 38
@@ -81,7 +81,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-07-14T20:06:44Z",
+            "last_commit": "2026-08-18T04:50:57Z",
             "owner": "dbmdz",
             "repo": "iiif-server-hymir",
             "stars": 34
@@ -275,7 +275,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T04:30:17Z",
+            "last_commit": "2026-08-18T06:10:05Z",
             "owner": "internetarchive",
             "repo": "bookreader",
             "stars": 1171
@@ -490,7 +490,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-07T12:49:23Z",
+            "last_commit": "2026-08-18T04:42:31Z",
             "owner": "dbmdz",
             "repo": "iiif-apis",
             "stars": 30
@@ -698,7 +698,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2025-12-10T19:13:57Z",
+            "last_commit": "2026-08-17T19:08:01Z",
             "owner": "iiif-prezi",
             "repo": "osullivan",
             "stars": 33
@@ -712,7 +712,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-07T12:49:23Z",
+            "last_commit": "2026-08-18T04:42:31Z",
             "owner": "dbmdz",
             "repo": "iiif-apis",
             "stars": 30
@@ -1618,7 +1618,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T10:01:23.474Z",
+    "last_updated": "2026-08-18T09:53:26.733Z",
     "original_repository": "IIIF/awesome-iiif",
     "original_repository_sha": "b72574afbdb05a587520d1f83b6df1af0e8d4090",
     "enhanced_repository": "enhansome/enhansome-iiif",
