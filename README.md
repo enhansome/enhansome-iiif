@@ -15,7 +15,7 @@ The lists below are a great place to start for inspiration and tooling, but they
 If you have a link or a resource to add, you have a few options:
 
 * check out the [Contributing Guidelines](./contributing.md) linked just above and submit a pull request yourself if you're familiar with Github worflows
-* [open a new issue ticket](https://github.com/IIIF/awesome-iiif/issues/new) ⭐ 560 | 🐛 14 | 📅 2026-08-03 mentioning the link or resource you want to add and some description, and the community may be able to help add it
+* [open a new issue ticket](https://github.com/IIIF/awesome-iiif/issues/new) ⭐ 560 | 🐛 15 | 📅 2026-08-03 mentioning the link or resource you want to add and some description, and the community may be able to help add it
 
 Likewise, there are other ways to see how people are implementing IIIF.
 
@@ -75,7 +75,7 @@ The IIIF community has developed [several standards](https://iiif.io/api/) for i
 
 ## Additional Lists
 
-* [Implementations](https://github.com/IIIF/awesome-iiif/blob/master/implementations.md) ⭐ 560 | 🐛 14 | 📅 2026-08-03
+* [Implementations](https://github.com/IIIF/awesome-iiif/blob/master/implementations.md) ⭐ 560 | 🐛 15 | 📅 2026-08-03
 
 ## Official Resources
 
@@ -91,17 +91,17 @@ The [IIIF Consortium (IIIF-C)](https://iiif.io/community/consortium/), with supp
 
 These servers support the IIIF Image API. Some may also have support for the Presentation API.
 
-* [Loris](https://github.com/loris-imageserver/loris) ⭐ 215 | 🐛 106 | 🌐 Python | 📅 2023-09-07 - Written in Python.
+* [Loris](https://github.com/loris-imageserver/loris) ⭐ 216 | 🐛 106 | 🌐 Python | 📅 2023-09-07 - Written in Python.
 * [go-iiif](https://github.com/thisisaaronland/go-iiif) ⭐ 98 | 🐛 50 | 🌐 Go | 📅 2026-07-23 - IIIF server written in go (fork of [greut/iiif](https://github.com/greut/iiif) ⭐ 11 | 🐛 3 | 🌐 Go | 📅 2021-02-15).
 * [RAIS](https://github.com/uoregon-libraries/rais-image-server) ⭐ 84 | 🐛 10 | 🌐 Go | 📅 2026-06-16 - 100% open source tile server for JP2 images written in Go.
 * [riiif](https://github.com/curationexperts/riiif) ⭐ 40 | 🐛 19 | 🌐 Ruby | 📅 2026-06-22 - Written in Ruby as a Rails engine.
-* [SIPI](https://github.com/dasch-swiss/sipi) ⭐ 38 | 🐛 20 | 🌐 C++ | 📅 2026-08-18 - IIIFv3 image server written in C++.
+* [SIPI](https://github.com/dasch-swiss/sipi) ⭐ 38 | 🐛 18 | 🌐 C++ | 📅 2026-08-18 - IIIFv3 image server written in C++.
 * [Hymir IIIF Server](https://github.com/dbmdz/iiif-server-hymir) ⭐ 34 | 🐛 19 | 🌐 Java | 📅 2026-08-18 - IIIF server written in Java supporting IIIF Image and Presentation API.
 * [iiif\_s3](https://github.com/cmoa/iiif_s3) ⭐ 31 | 🐛 2 | 🌐 Ruby | 📅 2017-11-26 - Ruby library for generating a static IIIF level 0 Image and Presentation API server on Amazon S3.
 * [Wolpi](https://github.com/dbmdz/wolpi) ⭐ 18 | 🐛 0 | 🌐 Java | 📅 2026-08-04 - A fast and extensible IIIF Image API 2.1 + 3.0 image server based on libvips, supporting Python and JavaScript extensions.
 * [aws-batch-iiif-generator](https://github.com/vt-digital-libraries-platform/aws-batch-iiif-generator) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2024-09-24 - An automated pipeline to generate IIIF tiles and manifests and use AWS S3 as an IIIF image server.
 * [TremendousIIIF](https://github.com/britishlibrary/TremendousIIIF) ⭐ 8 | 🐛 6 | 🌐 C# | 📅 2023-08-30 - A .NET C# IIIF Image API 2.1 server.
-* [triplet](https://github.com/libops/triplet) ⭐ 4 | 🐛 4 | 🌐 Go | 📅 2026-08-14 - A fast IIIF Image API 3.0 and Presentation API 3.0 server written in Go, powered by [libvips](https://github.com/libvips/libvips) ⭐ 11,576 | 🐛 82 | 🌐 C | 📅 2026-08-17 for image processing.
+* [triplet](https://github.com/libops/triplet) ⭐ 4 | 🐛 4 | 🌐 Go | 📅 2026-08-18 - A fast IIIF Image API 3.0 and Presentation API 3.0 server written in Go, powered by [libvips](https://github.com/libvips/libvips) ⭐ 11,579 | 🐛 82 | 🌐 C | 📅 2026-08-18 for image processing.
 * [FSI Server](https://www.neptunelabs.com/fsi-server/) - FSI Server is a popular commercial solution for serving high resolution images in multiple formats.  It accompanies the Flash-based FSI Viewer for zoom and pan. [IIIF adaptor for FSI server](https://github.com/jhu-digital-manuscripts/rosa/tree/master/rosa-iiif-endpoint) ⭐ 2 | 🐛 1 | 🌐 Java | 📅 2014-09-05
 * [iiif-worker](https://github.com/mkpoli/iiif-worker) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-31 - IIIF Image API 3.0 level 2 server that runs on a Cloudflare Worker with its images in R2, using WebAssembly for the image processing so there is no server process to operate.
 * [Cantaloupe](https://cantaloupe-project.github.io/) - Image server written in Java fully conformant to all IIIF Image API versions through 3.0.
@@ -125,7 +125,7 @@ As defined by Wikipedia a shim is a small library that transparently intercepts 
 ## IIIF Viewers
 
 * [Internet Archive BookReader](https://github.com/internetarchive/bookreader) ⭐ 1,171 | 🐛 287 | 🌐 JavaScript | 📅 2026-08-18 - A viewer developed by the Internet Archive, specially suited for viewing books.
-* [Tify](https://github.com/subugoe/tify) ⭐ 129 | 🐛 29 | 🌐 JavaScript | 📅 2026-08-12 - Slim and fast IIIF document viewer built with Vue.js.
+* [Tify](https://github.com/subugoe/tify) ⭐ 129 | 🐛 30 | 🌐 JavaScript | 📅 2026-08-12 - Slim and fast IIIF document viewer built with Vue.js.
 * [Mirador](https://projectmirador.org/) - Multi-up workspace. See also [Awesome Mirador list](https://github.com/ProjectMirador/mirador-awesome) ⭐ 45 | 🐛 5 | 📅 2026-02-11.
 * [Glycerine Viewer](https://github.com/Systemik-Solutions/glycerine-viewer) ⭐ 15 | 🐛 0 | 🌐 JavaScript | 📅 2026-06-05 - An elegant and contemporary Vue 3 Viewer with a comprehensive annotation feature set.
 * [Tamerlane](https://github.com/tamerlaneviewer/tamerlane) ⭐ 14 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-03 - A lightweight IIIF viewer prioritising user experience for annotated resources.
@@ -172,10 +172,10 @@ As defined by Wikipedia a shim is a small library that transparently intercepts 
 
 Various tools for working with images such as cropping tools.
 
-* [dezoomify-rs](https://github.com/lovasoa/dezoomify-rs) ⭐ 1,024 | 🐛 88 | 🌐 Rust | 📅 2026-08-13 - A command-line tiled image downloader. Support IIIF, Deepzoom and others zoomable image formats.
+* [dezoomify-rs](https://github.com/lovasoa/dezoomify-rs) ⭐ 1,024 | 🐛 84 | 🌐 Rust | 📅 2026-08-13 - A command-line tiled image downloader. Support IIIF, Deepzoom and others zoomable image formats.
 * [iiif-dl](https://github.com/ryanfb/iiif-dl) ⭐ 35 | 🐛 4 | 🌐 Ruby | 📅 2026-04-08 - Command-line tile downloader/assembler for IIIF endpoints/manifests. Download full-resolution image sequences from any IIIF server. Currently not compatible with IIIF 3.0.
 * [IIIF-imageManipulation](https://github.com/jbhoward-dublin/iiif-imageManipulation) ⭐ 18 | 🐛 2 | 🌐 JavaScript | 📅 2017-07-31 - UCD's tool to crop images and manipulate via IIIF attributes; integrate with Mirador via plugin.
-* [IIIF Downloader](https://github.com/ClaudioMartino/IIIF-Downloader) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2026-08-07 - Lightweight Python image downloader that needs only standard libraries (CLI + API + GUI). Compliant with IIIF API 2.0, 2.1 and 3.0.
+* [IIIF Downloader](https://github.com/ClaudioMartino/IIIF-Downloader) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2026-08-19 - Lightweight Python image downloader that needs only standard libraries (CLI + API + GUI). Compliant with IIIF API 2.0, 2.1 and 3.0.
 * [CanvasFinder](https://glenrobson.github.io/CanvasFinder/) - allows you to paste a IIIF Manifest URL into the box below and it will show you all of the Canvases which are present in that manifest.
 * [Compariscope](https://vanda.github.io/iiif-features/) - A demo app by the Victoria & Albert useful for the alignment of overlayed images, served by the IIIF Image API, and providing an interactive viewer for overlayed images, presented fluidly, using responsive image tags.
 * [IIIF cropping tool](https://ncsu-libraries.github.io/iiif-crop-tool/) - Website using [Leaflet-IIIF Cropping](https://bl.ocks.org/mejackreed/6936585f435b60aa9451ae2bc1c199f2) and Jekyll that allow users to enter the URL of a IIIF image and get the URL for the cropped section of the image.
@@ -487,4 +487,4 @@ To the extent possible under law, all contributors waive all copyright and relat
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._

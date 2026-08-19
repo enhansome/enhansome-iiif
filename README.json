@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5800709,
             "language": "Python",
             "last_commit": "2023-09-07T14:24:42Z",
             "owner": "loris-imageserver",
             "repo": "loris",
-            "stars": 215
+            "stars": 216
           }
         },
         {
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 67228421,
             "language": "Go",
             "last_commit": "2026-07-23T23:34:20Z",
             "owner": "go-iiif",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 35502871,
             "language": "Go",
             "last_commit": "2026-06-16T16:24:05Z",
             "owner": "uoregon-libraries",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 14399526,
             "language": "Ruby",
             "last_commit": "2026-06-22T23:08:55Z",
             "owner": "sul-dlss",
@@ -66,8 +70,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 54192472,
             "language": "C++",
-            "last_commit": "2026-08-18T07:51:42Z",
+            "last_commit": "2026-08-18T15:19:47Z",
             "owner": "dasch-swiss",
             "repo": "sipi",
             "stars": 38
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 63786754,
             "language": "Java",
             "last_commit": "2026-08-18T04:50:57Z",
             "owner": "dbmdz",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 46132445,
             "language": "Ruby",
             "last_commit": "2017-11-26T23:24:42Z",
             "owner": "cmoa",
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1237675602,
             "language": "Java",
             "last_commit": "2026-08-04T07:54:05Z",
             "owner": "dbmdz",
@@ -122,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 196035356,
             "language": "Python",
             "last_commit": "2024-09-24T17:14:33Z",
             "owner": "vt-digital-libraries-platform",
@@ -136,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 99807595,
             "language": "C#",
             "last_commit": "2023-08-30T14:32:29Z",
             "owner": "britishlibrary",
@@ -150,8 +160,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1220890293,
             "language": "Go",
-            "last_commit": "2026-08-14T22:58:30Z",
+            "last_commit": "2026-08-18T22:51:09Z",
             "owner": "libops",
             "repo": "triplet",
             "stars": 4
@@ -164,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11903740,
             "language": "Java",
             "last_commit": "2014-09-05T19:29:40Z",
             "owner": "jhu-digital-manuscripts",
@@ -178,6 +190,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1314815156,
             "language": "TypeScript",
             "last_commit": "2026-07-31T10:28:57Z",
             "owner": "mkpoli",
@@ -198,6 +211,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 25472022,
             "language": "Python",
             "last_commit": "2026-07-10T08:32:18Z",
             "owner": "inveniosoftware",
@@ -212,6 +226,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 776662,
             "language": "Ruby",
             "last_commit": "2015-11-04T14:26:40Z",
             "owner": "jronallo",
@@ -226,6 +241,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 43436518,
             "language": "Ruby",
             "last_commit": "2016-03-21T00:40:53Z",
             "owner": "mejackreed",
@@ -240,6 +256,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 107158583,
             "language": "Python",
             "last_commit": "2026-07-08T13:38:03Z",
             "owner": "rogerhoward",
@@ -254,6 +271,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 72156948,
             "language": "JavaScript",
             "last_commit": "2016-10-27T23:42:13Z",
             "owner": "azaroth42",
@@ -265,7 +283,7 @@
       "title": "Image Server Shims"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -274,6 +292,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 72221,
             "language": "JavaScript",
             "last_commit": "2026-08-18T06:10:05Z",
             "owner": "internetarchive",
@@ -288,6 +307,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 85699528,
             "language": "JavaScript",
             "last_commit": "2026-08-12T00:01:06Z",
             "owner": "tify-iiif-viewer",
@@ -302,6 +322,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 90312063,
             "language": null,
             "last_commit": "2026-02-11T16:00:30Z",
             "owner": "ProjectMirador",
@@ -316,6 +337,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 788357292,
             "language": "JavaScript",
             "last_commit": "2026-06-05T05:58:58Z",
             "owner": "Systemik-Solutions",
@@ -330,6 +352,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 931701090,
             "language": "TypeScript",
             "last_commit": "2026-08-03T09:38:48Z",
             "owner": "tamerlaneviewer",
@@ -344,115 +367,123 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 756321922,
             "language": "JavaScript",
             "last_commit": "2026-08-15T11:45:25Z",
             "owner": "TETRAS-IIIF",
             "repo": "mirador-video",
             "stars": 5
           }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Leaflet-IIIF",
+              "description": "Lightweight, extensible IIIF image viewer.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 27697854,
+                "language": "JavaScript",
+                "last_commit": "2023-03-09T14:30:45Z",
+                "owner": "mejackreed",
+                "repo": "Leaflet-IIIF",
+                "stars": 138
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "IIIFViewer",
+              "description": "IIIF WebGL / Canvas / DOM mobile-ready fast viewer powered by OpenLayers V3.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 23585369,
+                "language": "JavaScript",
+                "last_commit": "2019-06-25T10:15:46Z",
+                "owner": "klokantech",
+                "repo": "iiifviewer",
+                "stars": 53
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Imaging Helper Plugin",
+              "description": "OpenSeadragon plugin with utility functions.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 13337305,
+                "language": "JavaScript",
+                "last_commit": "2026-07-20T16:45:41Z",
+                "owner": "msalsbery",
+                "repo": "OpenSeadragonImagingHelper",
+                "stars": 18
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "React Canvas Panel",
+              "description": "A wrapper around Atlas with IIIF Image API support for image services, and Manifests.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 456632854,
+                "language": "TypeScript",
+                "last_commit": "2026-08-14T15:55:04Z",
+                "owner": "digirati-co-uk",
+                "repo": "react-iiif-vault",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "group",
+              "title": "OpenSeadragon",
+              "description": "IIIF tile support.",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Curtain Viewer",
+                  "description": "Viewer based on OpenSeadragon using the curtain-sync plugin for comparing naturally aligned image variants",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 297984354,
+                    "language": "JavaScript",
+                    "last_commit": "2024-09-02T15:35:23Z",
+                    "owner": "vanda",
+                    "repo": "curtain-viewer",
+                    "stars": 12
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Scalebar Plugin",
+                  "description": "OpenSeadragon plugin for physical scale overlay.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 12565599,
+                    "language": null,
+                    "last_commit": "2016-04-13T15:36:55Z",
+                    "owner": "NIST-ISG",
+                    "repo": "OpenSeadragonScalebar",
+                    "stars": 5
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Image viewers (Image API only)"
         }
       ],
       "title": "IIIF Viewers"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Leaflet-IIIF",
-          "description": "Lightweight, extensible IIIF image viewer.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-03-09T14:30:45Z",
-            "owner": "mejackreed",
-            "repo": "Leaflet-IIIF",
-            "stars": 138
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "IIIFViewer",
-          "description": "IIIF WebGL / Canvas / DOM mobile-ready fast viewer powered by OpenLayers V3.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2019-06-25T10:15:46Z",
-            "owner": "klokantech",
-            "repo": "iiifviewer",
-            "stars": 53
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Imaging Helper Plugin",
-          "description": "OpenSeadragon plugin with utility functions.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-07-20T16:45:41Z",
-            "owner": "msalsbery",
-            "repo": "OpenSeadragonImagingHelper",
-            "stars": 18
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "React Canvas Panel",
-          "description": "A wrapper around Atlas with IIIF Image API support for image services, and Manifests.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-14T15:55:04Z",
-            "owner": "digirati-co-uk",
-            "repo": "react-iiif-vault",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "group",
-          "title": "OpenSeadragon",
-          "description": "IIIF tile support.",
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Curtain Viewer",
-              "description": "Viewer based on OpenSeadragon using the curtain-sync plugin for comparing naturally aligned image variants",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": "JavaScript",
-                "last_commit": "2024-09-02T15:35:23Z",
-                "owner": "vanda",
-                "repo": "curtain-viewer",
-                "stars": 12
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Scalebar Plugin",
-              "description": "OpenSeadragon plugin for physical scale overlay.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "language": null,
-                "last_commit": "2016-04-13T15:36:55Z",
-                "owner": "NIST-ISG",
-                "repo": "OpenSeadragonScalebar",
-                "stars": 5
-              }
-            }
-          ]
-        }
-      ],
-      "title": "Image viewers (Image API only)"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -461,6 +492,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3441836,
             "language": "Python",
             "last_commit": "2021-05-05T18:49:30Z",
             "owner": "zimeon",
@@ -475,6 +507,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 160857213,
             "language": "TypeScript",
             "last_commit": "2026-08-10T15:30:50Z",
             "owner": "samvera",
@@ -489,6 +522,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 103931456,
             "language": "Java",
             "last_commit": "2026-08-18T04:42:31Z",
             "owner": "dbmdz",
@@ -503,6 +537,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 200942731,
             "language": "Java",
             "last_commit": "2025-12-19T23:45:42Z",
             "owner": "glenrobson",
@@ -517,6 +552,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 134360793,
             "language": "PHP",
             "last_commit": "2026-06-22T14:22:26Z",
             "owner": "conlect",
@@ -531,6 +567,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 64334467,
             "language": "Python",
             "last_commit": "2026-06-15T14:25:06Z",
             "owner": "Princeton-CDH",
@@ -545,6 +582,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 70103977,
             "language": "Swift",
             "last_commit": "2018-04-23T06:20:46Z",
             "owner": "moravianlibrary",
@@ -559,6 +597,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 950192138,
             "language": "Elixir",
             "last_commit": "2026-06-26T07:23:10Z",
             "owner": "dainst",
@@ -573,6 +612,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 53760998,
             "language": "Ruby",
             "last_commit": "2016-08-30T21:44:49Z",
             "owner": "NCSU-Libraries",
@@ -593,6 +633,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 181247435,
             "language": "Rust",
             "last_commit": "2026-08-13T07:18:12Z",
             "owner": "lovasoa",
@@ -607,6 +648,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 39205588,
             "language": "Ruby",
             "last_commit": "2026-04-08T08:32:14Z",
             "owner": "ryanfb",
@@ -621,6 +663,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 88861213,
             "language": "JavaScript",
             "last_commit": "2017-07-31T11:47:11Z",
             "owner": "jbhoward-dublin",
@@ -635,18 +678,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 947333303,
             "language": "Python",
-            "last_commit": "2026-08-07T16:24:18Z",
+            "last_commit": "2026-08-19T09:06:30Z",
             "owner": "ClaudioMartino",
             "repo": "IIIF-Downloader",
-            "stars": 7
+            "stars": 8
           }
         }
       ],
       "title": "Image Tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -655,6 +699,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 35223299,
             "language": "TypeScript",
             "last_commit": "2026-08-11T10:41:49Z",
             "owner": "IIIF-Commons",
@@ -669,6 +714,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 414971961,
             "language": "Python",
             "last_commit": "2026-08-03T05:42:58Z",
             "owner": "iiif-prezi",
@@ -683,6 +729,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 47895709,
             "language": "Python",
             "last_commit": "2024-04-17T12:34:20Z",
             "owner": "iiif-prezi",
@@ -697,6 +744,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 26245866,
             "language": "Ruby",
             "last_commit": "2026-08-17T19:08:01Z",
             "owner": "iiif-prezi",
@@ -711,6 +759,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 103931456,
             "language": "Java",
             "last_commit": "2026-08-18T04:42:31Z",
             "owner": "dbmdz",
@@ -725,6 +774,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 68936685,
             "language": "PHP",
             "last_commit": "2026-01-28T01:01:12Z",
             "owner": "yale-web-technologies",
@@ -739,6 +789,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 333341052,
             "language": "Python",
             "last_commit": "2026-01-21T16:03:27Z",
             "owner": "giacomomarchioro",
@@ -753,6 +804,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 446212239,
             "language": "TypeScript",
             "last_commit": "2026-08-10T16:49:56Z",
             "owner": "IIIF-Commons",
@@ -767,6 +819,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 461302875,
             "language": "TypeScript",
             "last_commit": "2024-02-12T15:56:25Z",
             "owner": "IIIF-Commons",
@@ -781,6 +834,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 932670938,
             "language": "TypeScript",
             "last_commit": "2026-08-11T08:36:08Z",
             "owner": "rsimon",
@@ -795,6 +849,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 100548178,
             "language": null,
             "last_commit": "2026-07-10T01:52:45Z",
             "owner": "ksclarke",
@@ -809,6 +864,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 60095668,
             "language": "TypeScript",
             "last_commit": "2026-04-23T10:29:36Z",
             "owner": "IIIF-Commons",
@@ -823,6 +879,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 672206821,
             "language": "TypeScript",
             "last_commit": "2023-08-02T21:29:11Z",
             "owner": "yuta1984",
@@ -837,6 +894,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 699530392,
             "language": "TypeScript",
             "last_commit": "2026-08-10T15:59:23Z",
             "owner": "IIIF-Commons",
@@ -851,6 +909,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 59562547,
             "language": "TypeScript",
             "last_commit": "2025-07-03T13:09:44Z",
             "owner": "IIIF-Commons",
@@ -865,6 +924,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 120544521,
             "language": "Swift",
             "last_commit": "2018-02-07T01:13:52Z",
             "owner": "mejackreed",
@@ -885,6 +945,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 43436518,
             "language": "Ruby",
             "last_commit": "2016-03-21T00:40:53Z",
             "owner": "mejackreed",
@@ -899,6 +960,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 72157268,
             "language": "HTML",
             "last_commit": "2016-10-27T23:47:51Z",
             "owner": "azaroth42",
@@ -910,7 +972,7 @@
       "title": "Presentation API Shims"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -919,6 +981,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 111013903,
             "language": "JavaScript",
             "last_commit": "2025-01-09T14:16:02Z",
             "owner": "IIIF-Commons",
@@ -933,6 +996,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 59294405,
             "language": "JavaScript",
             "last_commit": "2023-03-01T10:11:47Z",
             "owner": "bodleian",
@@ -947,6 +1011,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 295329463,
             "language": "TypeScript",
             "last_commit": "2025-10-04T23:47:48Z",
             "owner": "jbaiter",
@@ -961,6 +1026,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 405131946,
             "language": "TypeScript",
             "last_commit": "2026-08-14T16:25:27Z",
             "owner": "digirati-co-uk",
@@ -975,6 +1041,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 77155925,
             "language": "Python",
             "last_commit": "2022-12-08T02:56:28Z",
             "owner": "jbaiter",
@@ -989,6 +1056,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 692203803,
             "language": "JavaScript",
             "last_commit": "2025-08-27T17:32:42Z",
             "owner": "arkalab",
@@ -1003,6 +1071,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 108101992,
             "language": "Java",
             "last_commit": "2025-04-17T11:14:22Z",
             "owner": "ubleipzig",
@@ -1017,6 +1086,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 455209787,
             "language": "Python",
             "last_commit": "2026-05-27T20:28:47Z",
             "owner": "pierrz",
@@ -1031,6 +1101,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 210875314,
             "language": "PHP",
             "last_commit": "2026-06-11T12:37:45Z",
             "owner": "LeidenUniversityLibrary",
@@ -1051,6 +1122,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 67962976,
             "language": "Ruby",
             "last_commit": "2022-12-14T04:41:29Z",
             "owner": "NCSU-Libraries",
@@ -1065,6 +1137,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 179324514,
             "language": "Python",
             "last_commit": "2020-12-16T13:06:55Z",
             "owner": "mbennett-uoe",
@@ -1079,6 +1152,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 128404223,
             "language": "Ruby",
             "last_commit": "2026-03-17T16:37:01Z",
             "owner": "boston-library",
@@ -1093,6 +1167,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 880942245,
             "language": "TypeScript",
             "last_commit": "2026-05-05T14:21:32Z",
             "owner": "nationalarchives",
@@ -1113,6 +1188,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 196552814,
             "language": "Python",
             "last_commit": "2019-07-15T15:49:00Z",
             "owner": "robcast",
@@ -1127,6 +1203,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 351777678,
             "language": "JavaScript",
             "last_commit": "2024-03-26T12:56:58Z",
             "owner": "tomcrane",
@@ -1141,6 +1218,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 351723200,
             "language": "Python",
             "last_commit": "2024-03-12T18:16:44Z",
             "owner": "tomcrane",
@@ -1161,6 +1239,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 338267338,
             "language": "JavaScript",
             "last_commit": "2025-11-16T15:54:59Z",
             "owner": "altomator",
@@ -1175,6 +1254,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 313716548,
             "language": null,
             "last_commit": "2020-11-18T08:33:44Z",
             "owner": "regisrob",
@@ -1195,6 +1275,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 39510411,
             "language": "Ruby",
             "last_commit": "2026-05-08T10:31:29Z",
             "owner": "ryanfb",
@@ -1209,52 +1290,56 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 58231802,
             "language": "JavaScript",
             "last_commit": "2023-03-03T03:09:08Z",
             "owner": "armadillo-systems",
             "repo": "inquire",
             "stars": 11
           }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Open in IIIF Viewer",
+              "description": "A web browser extension to open IIIF manifest link in your favorite IIIF viewer.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 114815250,
+                "language": "JavaScript",
+                "last_commit": "2022-07-09T18:30:10Z",
+                "owner": "2SC1815J",
+                "repo": "open-in-iiif-viewer",
+                "stars": 22
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "iiif.link",
+              "description": "A url shortener for sharing a IIIF resource; upon opening the URL the viewer will open at the saved zoom and region of interest.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 299343795,
+                "language": "HTML",
+                "last_commit": "2026-05-24T08:31:43Z",
+                "owner": "atomotic",
+                "repo": "iiif.link",
+                "stars": 14
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Import to Viewers"
         }
       ],
       "title": "Discovery"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Open in IIIF Viewer",
-          "description": "A web browser extension to open IIIF manifest link in your favorite IIIF viewer.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-07-09T18:30:10Z",
-            "owner": "2SC1815J",
-            "repo": "open-in-iiif-viewer",
-            "stars": 22
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "iiif.link",
-          "description": "A url shortener for sharing a IIIF resource; upon opening the URL the viewer will open at the saved zoom and region of interest.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2026-05-24T08:31:43Z",
-            "owner": "atomotic",
-            "repo": "iiif.link",
-            "stars": 14
-          }
-        }
-      ],
-      "title": "Import to Viewers"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1263,6 +1348,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 684524371,
             "language": "TypeScript",
             "last_commit": "2026-08-11T08:40:36Z",
             "owner": "rsimon",
@@ -1277,6 +1363,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1139700191,
             "language": "TypeScript",
             "last_commit": "2026-04-18T07:28:23Z",
             "owner": "rsimon",
@@ -1291,6 +1378,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 88563033,
             "language": "JavaScript",
             "last_commit": "2025-09-10T05:24:25Z",
             "owner": "glenrobson",
@@ -1305,195 +1393,210 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 608814094,
             "language": "Python",
             "last_commit": "2023-10-23T10:43:14Z",
             "owner": "jptmoore",
             "repo": "annocoda",
             "stars": 5
           }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SimpleAnnotationServer",
+              "description": "Java annotation server backed by an Apache Jena triple store, Sesame, or Solr.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 38398489,
+                "language": "JavaScript",
+                "last_commit": "2026-03-01T23:00:38Z",
+                "owner": "glenrobson",
+                "repo": "SimpleAnnotationServer",
+                "stars": 104
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Elucidate",
+              "description": "Java and Postgres annotation server.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 75723141,
+                "language": "Java",
+                "last_commit": "2022-01-04T16:32:58Z",
+                "owner": "dlcs",
+                "repo": "elucidate-server",
+                "stars": 55
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Miiify",
+              "description": "Light-weight annotation server built on the same principles as Git.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 384707134,
+                "language": "OCaml",
+                "last_commit": "2026-04-30T14:47:46Z",
+                "owner": "nationalarchives",
+                "repo": "miiify",
+                "stars": 48
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MangoServer",
+              "description": "[deprecated] - Mongo-backed annotation server written in Python.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 41886131,
+                "language": "Python",
+                "last_commit": "2022-06-03T22:43:27Z",
+                "owner": "azaroth42",
+                "repo": "MangoServer",
+                "stars": 18
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Local IIIF Annotation Server",
+              "description": "[deprecated] - Jekyll front end, Flask backend, equipped with Vagrant Box that provides a Mirador viewer for creating and save annotations into Jekyll site. Annotations are sharable by using GitHub pages with Jekyll front end.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 151466764,
+                "language": "HTML",
+                "last_commit": "2024-06-05T14:36:53Z",
+                "owner": "dnoneill",
+                "repo": "annotate",
+                "stars": 16
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "aiiinotate",
+              "description": "IIIF annotation server built for speed and scalability, based on NodeJS and MongoDB. Designed to handle massive quantities of annotations (>10M) produced by computer vision tools.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1013238172,
+                "language": "JavaScript",
+                "last_commit": "2026-07-07T16:07:31Z",
+                "owner": "Aikon-platform",
+                "repo": "aiiinotate",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "annotot",
+              "description": "Simple IIIF annotations mounted in a Ruby on Rails applications.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 121975191,
+                "language": "Ruby",
+                "last_commit": "2025-11-25T18:05:30Z",
+                "owner": "PenguinParadigm",
+                "repo": "annotot",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ipfs-iiif-db",
+              "description": "[deprecated] - IIIF annotations JS client over IPFS.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 89004289,
+                "language": "JavaScript",
+                "last_commit": "2025-05-01T08:39:35Z",
+                "owner": "ipfs-shipyard",
+                "repo": "ipfs-iiif-db",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CatchPy",
+              "description": "Django-based annotation server with support for Web Annotation and AnnotatorJS APIs, using JWT for auth. Originally developed for the AnnotationsX LTI tool, CatchPy also supports tagging and responses.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 98905832,
+                "language": "Python",
+                "last_commit": "2025-04-03T18:25:04Z",
+                "owner": "nmaekawa",
+                "repo": "catchpy",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Europeana",
+              "description": "Extension to the Europeana REST API that allows you to create, retrieve, and manage annotations on Europeana objects",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 15039917,
+                "language": "Java",
+                "last_commit": "2026-06-26T21:23:13Z",
+                "owner": "europeana",
+                "repo": "annotation",
+                "stars": 5
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Annotation Servers"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "IIIF Annotation Studio",
+              "description": "Mirador Viewer packaged as a desktop app (macos, linux) with an embedded annotation endpoint that saves annotations to a local sqlite database.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 145458279,
+                "language": "JavaScript",
+                "last_commit": "2019-03-11T19:58:08Z",
+                "owner": "atomotic",
+                "repo": "iiif-annotation-studio",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Mirador Annotation Editor",
+              "description": "Mirador 4 plugin that adds annotation editing capabilities to Mirador. Embedded in Mirador Multi User.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 756274342,
+                "language": "JavaScript",
+                "last_commit": "2026-08-15T17:59:28Z",
+                "owner": "TETRAS-IIIF",
+                "repo": "mirador-annotation-editor",
+                "stars": 11
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Annotation Clients"
         }
       ],
       "title": "Annotations"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "SimpleAnnotationServer",
-          "description": "Java annotation server backed by an Apache Jena triple store, Sesame, or Solr.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-03-01T23:00:38Z",
-            "owner": "glenrobson",
-            "repo": "SimpleAnnotationServer",
-            "stars": 104
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Elucidate",
-          "description": "Java and Postgres annotation server.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2022-01-04T16:32:58Z",
-            "owner": "dlcs",
-            "repo": "elucidate-server",
-            "stars": 55
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Miiify",
-          "description": "Light-weight annotation server built on the same principles as Git.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "OCaml",
-            "last_commit": "2026-04-30T14:47:46Z",
-            "owner": "nationalarchives",
-            "repo": "miiify",
-            "stars": 48
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MangoServer",
-          "description": "[deprecated] - Mongo-backed annotation server written in Python.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-06-03T22:43:27Z",
-            "owner": "azaroth42",
-            "repo": "MangoServer",
-            "stars": 18
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Local IIIF Annotation Server",
-          "description": "[deprecated] - Jekyll front end, Flask backend, equipped with Vagrant Box that provides a Mirador viewer for creating and save annotations into Jekyll site. Annotations are sharable by using GitHub pages with Jekyll front end.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2024-06-05T14:36:53Z",
-            "owner": "dnoneill",
-            "repo": "annotate",
-            "stars": 16
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "aiiinotate",
-          "description": "IIIF annotation server built for speed and scalability, based on NodeJS and MongoDB. Designed to handle massive quantities of annotations (>10M) produced by computer vision tools.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-07-07T16:07:31Z",
-            "owner": "Aikon-platform",
-            "repo": "aiiinotate",
-            "stars": 12
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "annotot",
-          "description": "Simple IIIF annotations mounted in a Ruby on Rails applications.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2025-11-25T18:05:30Z",
-            "owner": "PenguinParadigm",
-            "repo": "annotot",
-            "stars": 12
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ipfs-iiif-db",
-          "description": "[deprecated] - IIIF annotations JS client over IPFS.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2025-05-01T08:39:35Z",
-            "owner": "ipfs-shipyard",
-            "repo": "ipfs-iiif-db",
-            "stars": 12
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CatchPy",
-          "description": "Django-based annotation server with support for Web Annotation and AnnotatorJS APIs, using JWT for auth. Originally developed for the AnnotationsX LTI tool, CatchPy also supports tagging and responses.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-04-03T18:25:04Z",
-            "owner": "nmaekawa",
-            "repo": "catchpy",
-            "stars": 11
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Europeana",
-          "description": "Extension to the Europeana REST API that allows you to create, retrieve, and manage annotations on Europeana objects",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-06-26T21:23:13Z",
-            "owner": "europeana",
-            "repo": "annotation",
-            "stars": 5
-          }
-        }
-      ],
-      "title": "Annotation Servers"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "IIIF Annotation Studio",
-          "description": "Mirador Viewer packaged as a desktop app (macos, linux) with an embedded annotation endpoint that saves annotations to a local sqlite database.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2019-03-11T19:58:08Z",
-            "owner": "atomotic",
-            "repo": "iiif-annotation-studio",
-            "stars": 15
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Mirador Annotation Editor",
-          "description": "Mirador 4 plugin that adds annotation editing capabilities to Mirador. Embedded in Mirador Multi User.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-15T17:59:28Z",
-            "owner": "TETRAS-IIIF",
-            "repo": "mirador-annotation-editor",
-            "stars": 11
-          }
-        }
-      ],
-      "title": "Annotation Clients"
     },
     {
       "description": "Content Management Systems (CMS) modules that implement or leverage the IIIF APIs.",
@@ -1505,6 +1608,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 95489693,
             "language": "JavaScript",
             "last_commit": "2024-11-08T20:31:44Z",
             "owner": "utlib",
@@ -1519,6 +1623,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 165929160,
             "language": "PHP",
             "last_commit": "2026-05-23T14:32:50Z",
             "owner": "Daniel-KM",
@@ -1539,6 +1644,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 38398489,
             "language": "JavaScript",
             "last_commit": "2026-03-01T23:00:38Z",
             "owner": "glenrobson",
@@ -1553,6 +1659,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 39592974,
             "language": "Python",
             "last_commit": "2026-07-10T21:39:28Z",
             "owner": "open-oni",
@@ -1567,6 +1674,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 42963679,
             "language": "JavaScript",
             "last_commit": "2016-06-07T21:16:37Z",
             "owner": "umd-mith",
@@ -1578,7 +1686,7 @@
       "title": "Newspapers"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1587,6 +1695,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 455209787,
             "language": "Python",
             "last_commit": "2026-05-27T20:28:47Z",
             "owner": "pierrz",
@@ -1601,6 +1710,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 128040666,
             "language": "Python",
             "last_commit": "2026-06-11T03:45:31Z",
             "owner": "inveniosoftware",
@@ -1610,15 +1720,10 @@
         }
       ],
       "title": "Collection Management Systems (CMSs) and Digital Asset Management (DAMs) that support IIIF"
-    },
-    {
-      "description": "To the extent possible under law, all contributors waive all copyright and related neighboring rights to this work.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T09:53:26.733Z",
+    "last_updated": "2026-08-19T09:53:59.626Z",
     "original_repository": "IIIF/awesome-iiif",
     "original_repository_sha": "b72574afbdb05a587520d1f83b6df1af0e8d4090",
     "enhanced_repository": "enhansome/enhansome-iiif",
