@@ -72,7 +72,7 @@
             "archived": false,
             "id": 54192472,
             "language": "C++",
-            "last_commit": "2026-08-18T15:19:47Z",
+            "last_commit": "2026-08-19T11:15:58Z",
             "owner": "dasch-swiss",
             "repo": "sipi",
             "stars": 38
@@ -372,6 +372,21 @@
             "last_commit": "2026-08-15T11:45:25Z",
             "owner": "TETRAS-IIIF",
             "repo": "mirador-video",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tactum Viewer",
+          "description": "A web-based viewer for high-resolution 3D surface scans, streaming albedo and height tiles with interactive relighting and measurement tools, with IIIF Presentation 3 and Image API support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1290375721,
+            "language": "JavaScript",
+            "last_commit": "2026-07-29T13:39:43Z",
+            "owner": "FactumFoundation",
+            "repo": "tactum-viewer",
             "stars": 5
           }
         },
@@ -779,7 +794,7 @@
             "last_commit": "2026-01-28T01:01:12Z",
             "owner": "yale-web-technologies",
             "repo": "IIIF-Manifest-Generator",
-            "stars": 22
+            "stars": 23
           }
         },
         {
@@ -1723,9 +1738,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T09:53:59.626Z",
+    "last_updated": "2026-08-19T12:40:16.574Z",
     "original_repository": "IIIF/awesome-iiif",
-    "original_repository_sha": "b72574afbdb05a587520d1f83b6df1af0e8d4090",
+    "original_repository_id": 58644759,
+    "original_repository_sha": "c60d10a7b57069f62fcc6e8dcd9dfd56d6278c2f",
     "enhanced_repository": "enhansome/enhansome-iiif",
     "enhanced_repository_description": null,
     "title": "Awesome International Image Interoperability Framework (IIIF) with stars"

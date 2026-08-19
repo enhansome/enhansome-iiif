@@ -15,7 +15,7 @@ The lists below are a great place to start for inspiration and tooling, but they
 If you have a link or a resource to add, you have a few options:
 
 * check out the [Contributing Guidelines](./contributing.md) linked just above and submit a pull request yourself if you're familiar with Github worflows
-* [open a new issue ticket](https://github.com/IIIF/awesome-iiif/issues/new) ⭐ 560 | 🐛 15 | 📅 2026-08-03 mentioning the link or resource you want to add and some description, and the community may be able to help add it
+* [open a new issue ticket](https://github.com/IIIF/awesome-iiif/issues/new) ⭐ 560 | 🐛 14 | 📅 2026-08-19 mentioning the link or resource you want to add and some description, and the community may be able to help add it
 
 Likewise, there are other ways to see how people are implementing IIIF.
 
@@ -75,7 +75,7 @@ The IIIF community has developed [several standards](https://iiif.io/api/) for i
 
 ## Additional Lists
 
-* [Implementations](https://github.com/IIIF/awesome-iiif/blob/master/implementations.md) ⭐ 560 | 🐛 15 | 📅 2026-08-03
+* [Implementations](https://github.com/IIIF/awesome-iiif/blob/master/implementations.md) ⭐ 560 | 🐛 14 | 📅 2026-08-19
 
 ## Official Resources
 
@@ -95,13 +95,13 @@ These servers support the IIIF Image API. Some may also have support for the Pre
 * [go-iiif](https://github.com/thisisaaronland/go-iiif) ⭐ 98 | 🐛 50 | 🌐 Go | 📅 2026-07-23 - IIIF server written in go (fork of [greut/iiif](https://github.com/greut/iiif) ⭐ 11 | 🐛 3 | 🌐 Go | 📅 2021-02-15).
 * [RAIS](https://github.com/uoregon-libraries/rais-image-server) ⭐ 84 | 🐛 10 | 🌐 Go | 📅 2026-06-16 - 100% open source tile server for JP2 images written in Go.
 * [riiif](https://github.com/curationexperts/riiif) ⭐ 40 | 🐛 19 | 🌐 Ruby | 📅 2026-06-22 - Written in Ruby as a Rails engine.
-* [SIPI](https://github.com/dasch-swiss/sipi) ⭐ 38 | 🐛 18 | 🌐 C++ | 📅 2026-08-18 - IIIFv3 image server written in C++.
+* [SIPI](https://github.com/dasch-swiss/sipi) ⭐ 38 | 🐛 18 | 🌐 C++ | 📅 2026-08-19 - IIIFv3 image server written in C++.
 * [Hymir IIIF Server](https://github.com/dbmdz/iiif-server-hymir) ⭐ 34 | 🐛 19 | 🌐 Java | 📅 2026-08-18 - IIIF server written in Java supporting IIIF Image and Presentation API.
 * [iiif\_s3](https://github.com/cmoa/iiif_s3) ⭐ 31 | 🐛 2 | 🌐 Ruby | 📅 2017-11-26 - Ruby library for generating a static IIIF level 0 Image and Presentation API server on Amazon S3.
 * [Wolpi](https://github.com/dbmdz/wolpi) ⭐ 18 | 🐛 0 | 🌐 Java | 📅 2026-08-04 - A fast and extensible IIIF Image API 2.1 + 3.0 image server based on libvips, supporting Python and JavaScript extensions.
 * [aws-batch-iiif-generator](https://github.com/vt-digital-libraries-platform/aws-batch-iiif-generator) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2024-09-24 - An automated pipeline to generate IIIF tiles and manifests and use AWS S3 as an IIIF image server.
 * [TremendousIIIF](https://github.com/britishlibrary/TremendousIIIF) ⭐ 8 | 🐛 6 | 🌐 C# | 📅 2023-08-30 - A .NET C# IIIF Image API 2.1 server.
-* [triplet](https://github.com/libops/triplet) ⭐ 4 | 🐛 4 | 🌐 Go | 📅 2026-08-18 - A fast IIIF Image API 3.0 and Presentation API 3.0 server written in Go, powered by [libvips](https://github.com/libvips/libvips) ⭐ 11,579 | 🐛 82 | 🌐 C | 📅 2026-08-18 for image processing.
+* [triplet](https://github.com/libops/triplet) ⭐ 4 | 🐛 4 | 🌐 Go | 📅 2026-08-18 - A fast IIIF Image API 3.0 and Presentation API 3.0 server written in Go, powered by [libvips](https://github.com/libvips/libvips) ⭐ 11,578 | 🐛 82 | 🌐 C | 📅 2026-08-18 for image processing.
 * [FSI Server](https://www.neptunelabs.com/fsi-server/) - FSI Server is a popular commercial solution for serving high resolution images in multiple formats.  It accompanies the Flash-based FSI Viewer for zoom and pan. [IIIF adaptor for FSI server](https://github.com/jhu-digital-manuscripts/rosa/tree/master/rosa-iiif-endpoint) ⭐ 2 | 🐛 1 | 🌐 Java | 📅 2014-09-05
 * [iiif-worker](https://github.com/mkpoli/iiif-worker) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-31 - IIIF Image API 3.0 level 2 server that runs on a Cloudflare Worker with its images in R2, using WebAssembly for the image processing so there is no server process to operate.
 * [Cantaloupe](https://cantaloupe-project.github.io/) - Image server written in Java fully conformant to all IIIF Image API versions through 3.0.
@@ -130,6 +130,7 @@ As defined by Wikipedia a shim is a small library that transparently intercepts 
 * [Glycerine Viewer](https://github.com/Systemik-Solutions/glycerine-viewer) ⭐ 15 | 🐛 0 | 🌐 JavaScript | 📅 2026-06-05 - An elegant and contemporary Vue 3 Viewer with a comprehensive annotation feature set.
 * [Tamerlane](https://github.com/tamerlaneviewer/tamerlane) ⭐ 14 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-03 - A lightweight IIIF viewer prioritising user experience for annotated resources.
 * [Mirador Video](https://github.com/TETRAS-IIIF/mirador-video) ⭐ 5 | 🐛 9 | 🌐 JavaScript | 📅 2026-08-15 - Mirador 4 fork supporting annotation on videos.
+* [Tactum Viewer](https://github.com/FactumFoundation/tactum-viewer) ⭐ 5 | 🐛 5 | 🌐 JavaScript | 📅 2026-07-29 - A web-based viewer for high-resolution 3D surface scans, streaming albedo and height tiles with interactive relighting and measurement tools, with IIIF Presentation 3 and Image API support.
 * [Allmaps](https://allmaps.org/) – A set of tools for curating, georeferencing and exploring IIIF maps.
 * [Archive Viewer](https://archiveviewer.org/) - A viewer for scanned images from various archives and repositories. (Presentation API v2 only)
 * [CanvasPanel](http://canvas-panel.netlify.com/) - React library to build IIIF Presentation 3 level viewing experiences including support for annotations.
@@ -191,7 +192,7 @@ Various tools for working with images such as cropping tools.
 * [iiif-prezi](https://github.com/iiif-prezi/iiif-prezi) ⭐ 35 | 🐛 13 | 🌐 Python | 📅 2024-04-17 - Presentation 2 Python library providing a reference implementation.
 * [O'Sullivan](https://github.com/IIIF/osullivan) ⭐ 33 | 🐛 28 | 🌐 Ruby | 📅 2026-08-17 - Ruby API for creating IIIF manifests.
 * [iiif-apis](https://github.com/dbmdz/iiif-apis) ⭐ 30 | 🐛 11 | 🌐 Java | 📅 2026-08-18 - Java IIIF API libraries.
-* [IIIF Manifest Generator](https://github.com/yale-web-technologies/IIIF-Manifest-Generator) ⭐ 22 | 🐛 3 | 🌐 PHP | 📅 2026-01-28 - PHP library for generating IIIF manifests.
+* [IIIF Manifest Generator](https://github.com/yale-web-technologies/IIIF-Manifest-Generator) ⭐ 23 | 🐛 3 | 🌐 PHP | 📅 2026-01-28 - PHP library for generating IIIF manifests.
 * [pyIIIFpres](https://github.com/giacomomarchioro/pyIIIFpres) ⭐ 20 | 🐛 2 | 🌐 Python | 📅 2026-01-21 - A Python module built for easing the construction of JSON manifests compliant with IIIF API 3.0 in a production environment, similarly to iiif-prezi for earlier versions of the protocol.
 * [IIIF Parser](https://github.com/iiif-commons/parser) ⭐ 19 | 🐛 15 | 🌐 TypeScript | 📅 2026-08-10 - An NPM module (Node + Browser) for parsing IIIF Presentation 2.1, 3.0, 4.0 and upgrading from v2 to v3. [demo](https://iiif-studio.netlify.app/)
 * [IIIF Builder](https://github.com/iiif-commons/iiif-builder) ⭐ 17 | 🐛 7 | 🌐 TypeScript | 📅 2024-02-12 - An NPM module for building IIIF Manifests programatically
