@@ -72,7 +72,7 @@
             "archived": false,
             "id": 54192472,
             "language": "C++",
-            "last_commit": "2026-08-20T09:29:56Z",
+            "last_commit": "2026-08-21T07:09:19Z",
             "owner": "dasch-swiss",
             "repo": "sipi",
             "stars": 38
@@ -162,7 +162,7 @@
             "archived": false,
             "id": 1220890293,
             "language": "Go",
-            "last_commit": "2026-08-20T04:47:53Z",
+            "last_commit": "2026-08-20T13:50:38Z",
             "owner": "libops",
             "repo": "triplet",
             "stars": 4
@@ -309,10 +309,10 @@
             "archived": false,
             "id": 85699528,
             "language": "JavaScript",
-            "last_commit": "2026-08-20T07:11:13Z",
+            "last_commit": "2026-08-21T01:31:36Z",
             "owner": "tify-iiif-viewer",
             "repo": "tify",
-            "stars": 129
+            "stars": 130
           }
         },
         {
@@ -369,7 +369,7 @@
             "archived": false,
             "id": 756321922,
             "language": "JavaScript",
-            "last_commit": "2026-08-15T11:45:25Z",
+            "last_commit": "2026-08-20T13:55:45Z",
             "owner": "TETRAS-IIIF",
             "repo": "mirador-video",
             "stars": 5
@@ -650,10 +650,10 @@
             "archived": false,
             "id": 181247435,
             "language": "Rust",
-            "last_commit": "2026-08-13T07:18:12Z",
+            "last_commit": "2026-08-20T20:44:01Z",
             "owner": "lovasoa",
             "repo": "dezoomify-rs",
-            "stars": 1024
+            "stars": 1023
           }
         },
         {
@@ -1599,7 +1599,7 @@
                 "archived": false,
                 "id": 756274342,
                 "language": "JavaScript",
-                "last_commit": "2026-08-20T09:24:29Z",
+                "last_commit": "2026-08-20T12:25:40Z",
                 "owner": "TETRAS-IIIF",
                 "repo": "mirador-annotation-editor",
                 "stars": 11
@@ -1679,7 +1679,7 @@
             "last_commit": "2026-07-10T21:39:28Z",
             "owner": "open-oni",
             "repo": "open-oni",
-            "stars": 55
+            "stars": 56
           }
         },
         {
@@ -1738,7 +1738,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T09:54:12.975Z",
+    "last_updated": "2026-08-21T09:55:30.980Z",
     "original_repository": "IIIF/awesome-iiif",
     "original_repository_id": 58644759,
     "original_repository_sha": "c60d10a7b57069f62fcc6e8dcd9dfd56d6278c2f",
