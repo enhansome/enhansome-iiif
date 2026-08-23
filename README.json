@@ -72,7 +72,7 @@
             "archived": false,
             "id": 54192472,
             "language": "Rust",
-            "last_commit": "2026-08-21T18:51:55Z",
+            "last_commit": "2026-08-22T23:07:47Z",
             "owner": "dasch-swiss",
             "repo": "sipi",
             "stars": 38
@@ -162,7 +162,7 @@
             "archived": false,
             "id": 1220890293,
             "language": "Go",
-            "last_commit": "2026-08-20T13:50:38Z",
+            "last_commit": "2026-08-22T21:42:53Z",
             "owner": "libops",
             "repo": "triplet",
             "stars": 4
@@ -297,7 +297,7 @@
             "last_commit": "2026-08-18T06:10:05Z",
             "owner": "internetarchive",
             "repo": "bookreader",
-            "stars": 1171
+            "stars": 1172
           }
         },
         {
@@ -1738,7 +1738,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T09:47:04.773Z",
+    "last_updated": "2026-08-23T09:47:46.264Z",
     "original_repository": "IIIF/awesome-iiif",
     "original_repository_id": 58644759,
     "original_repository_sha": "c60d10a7b57069f62fcc6e8dcd9dfd56d6278c2f",
