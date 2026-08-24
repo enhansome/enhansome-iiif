@@ -14,8 +14,8 @@ The lists below are a great place to start for inspiration and tooling, but they
 
 If you have a link or a resource to add, you have a few options:
 
-* check out the [Contributing Guidelines](./contributing.md) linked just above and submit a pull request yourself if you're familiar with Github worflows
 * [open a new issue ticket](https://github.com/IIIF/awesome-iiif/issues/new) ⭐ 560 | 🐛 14 | 📅 2026-08-19 mentioning the link or resource you want to add and some description, and the community may be able to help add it
+* check out the [Contributing Guidelines](./contributing.md) linked just above and submit a pull request yourself if you're familiar with Github worflows
 
 Likewise, there are other ways to see how people are implementing IIIF.
 
@@ -173,7 +173,7 @@ As defined by Wikipedia a shim is a small library that transparently intercepts 
 
 Various tools for working with images such as cropping tools.
 
-* [dezoomify-rs](https://github.com/lovasoa/dezoomify-rs) ⭐ 1,023 | 🐛 79 | 🌐 Rust | 📅 2026-08-21 - A command-line tiled image downloader. Support IIIF, Deepzoom and others zoomable image formats.
+* [dezoomify-rs](https://github.com/lovasoa/dezoomify-rs) ⭐ 1,023 | 🐛 78 | 🌐 Rust | 📅 2026-08-21 - A command-line tiled image downloader. Support IIIF, Deepzoom and others zoomable image formats.
 * [iiif-dl](https://github.com/ryanfb/iiif-dl) ⭐ 35 | 🐛 4 | 🌐 Ruby | 📅 2026-04-08 - Command-line tile downloader/assembler for IIIF endpoints/manifests. Download full-resolution image sequences from any IIIF server. Currently not compatible with IIIF 3.0.
 * [IIIF-imageManipulation](https://github.com/jbhoward-dublin/iiif-imageManipulation) ⭐ 18 | 🐛 2 | 🌐 JavaScript | 📅 2017-07-31 - UCD's tool to crop images and manipulate via IIIF attributes; integrate with Mirador via plugin.
 * [IIIF Downloader](https://github.com/ClaudioMartino/IIIF-Downloader) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2026-08-19 - Lightweight Python image downloader that needs only standard libraries (CLI + API + GUI). Compliant with IIIF API 2.0, 2.1 and 3.0.
@@ -219,7 +219,7 @@ These shims allow you to use systems with presentation metadata (e.g. structure 
 * [biiif](https://github.com/edsilv/biiif/) ⭐ 94 | 🐛 23 | 🌐 JavaScript | 📅 2025-01-09 - Organise your files according to a simple naming convention to generate IIIF v3 manifests.
 * [Manifest Editor](https://github.com/bodleian/iiif-manifest-editor) ⭐ 84 | 🐛 23 | 🌐 JavaScript | 📅 2023-03-01 - Web application for importing, viewing, updating, and exporting manifests. See a [demo](https://digital.bodleian.ox.ac.uk/manifest-editor/).
 * [pdiiif](https://github.com/jbaiter/pdiiif) ⭐ 50 | 🐛 8 | 🌐 TypeScript | 📅 2025-10-04 - a JavaScript library to create PDFs from IIIF manifests, completely client-side (with server-based fallback for unsupported browsers).
-* [Digirati Manifest Editor](https://manifest-editor-docs.netlify.app/) - An open-source, IIIF editing tool, designed to provide a visually intuitive interface for creating, editing and updating IIIF Manifests and more. [View on Github](https://github.com/digirati-co-uk/iiif-manifest-editor) ⭐ 45 | 🐛 64 | 🌐 TypeScript | 📅 2026-08-21 | [Demo](https://manifest-editor.digirati.services/)
+* [Digirati Manifest Editor](https://manifest-editor-docs.netlify.app/) - An open-source, IIIF editing tool, designed to provide a visually intuitive interface for creating, editing and updating IIIF Manifests and more. [View on Github](https://github.com/digirati-co-uk/iiif-manifest-editor) ⭐ 45 | 🐛 64 | 🌐 TypeScript | 📅 2026-08-24 | [Demo](https://manifest-editor.digirati.services/)
 * [demetsiiify](https://github.com/jbaiter/demetsiiify) ⭐ 36 | 🐛 16 | 🌐 Python | 📅 2022-12-08 - Web service for creating IIIF manifests from METS/MODS documents.
 * [tropiiify](https://github.com/martimpassos/tropiiify) ⭐ 30 | 🐛 7 | 🌐 JavaScript | 📅 2025-08-27 Tropy plugin that exports images, metadata and annotations as a (level0) IIIF collection.
 * [iiif-producer](https://github.com/ubleipzig/iiif-producer) ⭐ 24 | 🐛 1 | 🌐 Java | 📅 2025-04-17 - A CLI tool that generates IIIF Presentation 2.1 Manifests from METS/MODS (produced by Kitodo).
@@ -231,21 +231,21 @@ These shims allow you to use systems with presentation metadata (e.g. structure 
 
 ## Validators
 
+* [Hyperion](https://www.npmjs.com/package/@hyperion-framework/validator) - IIIF Presentation API 3 Validator in JavaScript \[N.B. being replaced by [Vault](https://github.com/IIIF-Commons/vault) ⚠️ Archived as part of the [IIIF Commons](https://github.com/IIIF-Commons/)]
 * [Presentation API validator](https://iiif.io/api/presentation/validator/service/) - A service to validate a IIIF Presentation API resource against the specification.
 * [Image API validator](https://iiif.io/api/image/validator/) - A service to validate a IIIF Image API resource against the specification.
-* [Hyperion](https://www.npmjs.com/package/@hyperion-framework/validator) - IIIF Presentation API 3 Validator in JavaScript \[N.B. being replaced by [Vault](https://github.com/IIIF-Commons/vault) ⚠️ Archived as part of the [IIIF Commons](https://github.com/IIIF-Commons/)]
 * [Tripoli](https://ddmal.github.io/tripoli/) - IIIF Presentation API 2.0+ validation library.
 
 ## Exhibition and Guided Viewing Tools
 
 Tools and resources that provide functionality for presenting IIIF materials in an exhibition-like setting (and potentially other functionality).
 
+* [Exhibition Editor](https://manifest-editor-docs.netlify.app/docs/exhibition-building) - an extension to the [Digirati Manifest Editor](https://github.com/digirati-co-uk/iiif-manifest-editor) ⭐ 45 | 🐛 64 | 🌐 TypeScript | 📅 2026-08-24 which supports the creation and development of IIIF content for storytelling or exhibition style presentations.
 * [Adno](https://adno.app/en/) - a web application for viewing, editing and sharing narratives and pathways on IIIF images.
 * [Anaver.se](https://anaver.se/) - a web application for loading generative 3D spaces in which users can build exhibitions by hanging IIIF images as frames.
 * [Annona Range Storyboard](https://ncsu-libraries.github.io/annona/range/) - [Annona](https://ncsu-libraries.github.io/annona/) toolkit which allows for the guided viewing of segments of a manifest, in addition to the [Annona Multi Storyboard Viewer](https://ncsu-libraries.github.io/annona/multistoryboard/) for guided comparison of multiple manifests.
 * [Canopy IIIF](https://canopy-iiif.github.io/app/) - Create fast & light digital collections, humanities, and exhibitions with natural markdown and IIIF materials
 * [Curation Tools](http://codh.rois.ac.jp/software/) - Set of tools, including a Viewer, Curation Manager, Curation Board, and more from the Center for Open Data in the Humanities (all tool descriptions in Japanese, some also available in English).
-* [Exhibition Editor](https://manifest-editor-docs.netlify.app/docs/exhibition-building) - an extension to the [Digirati Manifest Editor](https://github.com/digirati-co-uk/iiif-manifest-editor) ⭐ 45 | 🐛 64 | 🌐 TypeScript | 📅 2026-08-21 which supports the creation and development of IIIF content for storytelling or exhibition style presentations.
 * [Exhibit](https://exhibit.so/) - A free IIIF storytelling tool that allows for guided navigation of one or more IIIF Manifests using annotations.
 * [Micrio](https://micr.io/iiif) - High-performance client with WebAssembly/WebGL engine and additional storytelling elements. Also offering full server IIIF support.
 * [Juncture](https://www.juncture-digital.org/) - a suite of tools and services that enable anyone to easily create engaging web pages with rich visualizations, including interactive images, videos, maps, and more.
@@ -395,12 +395,12 @@ Wiki software tools that implement or leverage the IIIF APIs
 
 Internet file hosting that provides IIIF support (including both paid and free options).
 
+* [tiny.iiif](https://github.com/rsimon/tiny-iiif/) ⭐ 63 | 🐛 10 | 🌐 TypeScript | 📅 2026-03-24 - An open-source IIIF server for self-hosting
 * [Digirati IIIF Cloud Services](https://iiif-cloud.digirati.com/)
 * [Internet Archive](https://archive.org/)
 * [Klokan](http://iiifhosting.com/)
 * [Micrio](https://micr.io/iiif)
 * [iiif.fr](https://iiif.fr/) from Teklia
-* [tiny.iiif](https://github.com/rsimon/tiny-iiif/) ⭐ 63 | 🐛 10 | 🌐 TypeScript | 📅 2026-03-24 - An open-source IIIF server for self-hosting
 
 ## Newspapers
 

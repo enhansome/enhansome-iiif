@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "description": "The lists below are a great place to start for inspiration and tooling, but they are certainly not complete!\nIf you have a link or a resource to add, you have a few options:\nLikewise, there are other ways to see how people are implementing IIIF.\nDisclaimer: The lists below are presented in alphabetical order within each section, and do not suggest any recommendation. Likewise, these lists are created for informational purposes only and any links do not constitute an endorsement, recommendation, or favoring by the IIIF Consortium.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "open a new issue ticket",
+          "description": "mentioning the link or resource you want to add and some description, and the community may be able to help add it",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 58644759,
+            "language": null,
+            "last_commit": "2026-08-19T12:36:39Z",
+            "owner": "IIIF",
+            "repo": "awesome-iiif",
+            "stars": 560
+          }
+        }
+      ],
+      "title": "More Resources"
+    },
+    {
       "description": "These servers support the IIIF Image API. Some may also have support for the Presentation API.",
       "items": [
         {
@@ -1043,7 +1064,7 @@
             "archived": false,
             "id": 405131946,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T13:10:03Z",
+            "last_commit": "2026-08-24T14:18:49Z",
             "owner": "digirati-co-uk",
             "repo": "iiif-manifest-editor",
             "stars": 45
@@ -1126,6 +1147,48 @@
         }
       ],
       "title": "Presentation Manifest Tools"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Hyperion",
+          "description": "IIIF Presentation API 3 Validator in JavaScript [N.B. being replaced by Vault as part of the IIIF Commons]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 448716810,
+            "language": "TypeScript",
+            "last_commit": "2024-01-22T11:10:21Z",
+            "owner": "IIIF-Commons",
+            "repo": "vault",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "Validators"
+    },
+    {
+      "description": "Tools and resources that provide functionality for presenting IIIF materials in an exhibition-like setting (and potentially other functionality).",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Exhibition Editor",
+          "description": "an extension to the Digirati Manifest Editor which supports the creation and development of IIIF content for storytelling or exhibition style presentations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 405131946,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T14:18:49Z",
+            "owner": "digirati-co-uk",
+            "repo": "iiif-manifest-editor",
+            "stars": 45
+          }
+        }
+      ],
+      "title": "Exhibition and Guided Viewing Tools"
     },
     {
       "description": "Libraries and applications that support the Content Search API.",
@@ -1650,6 +1713,48 @@
       "title": "CMS Integration"
     },
     {
+      "description": "Wiki software tools that implement or leverage the IIIF APIs",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Mirador extension to MediaWiki",
+          "description": "MediaWiki extension which offers the Mirador Viewer along with a number of open-source plugins.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 553149439,
+            "language": "JavaScript",
+            "last_commit": "2026-06-23T22:51:23Z",
+            "owner": "a-g-van-hamel-foundation",
+            "repo": "Mirador",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Wiki Integration"
+    },
+    {
+      "description": "Internet file hosting that provides IIIF support (including both paid and free options).",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "tiny.iiif",
+          "description": "An open-source IIIF server for self-hosting",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1139024643,
+            "language": "TypeScript",
+            "last_commit": "2026-03-24T11:57:37Z",
+            "owner": "rsimon",
+            "repo": "tiny-iiif",
+            "stars": 63
+          }
+        }
+      ],
+      "title": "Hosting"
+    },
+    {
       "description": "These are resources that are specifically useful for working with newspapers. Many of them are outputs of the IIIF Newspaper Community Group (now on hiatus).",
       "items": [
         {
@@ -1738,7 +1843,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T10:08:03.138Z",
+    "last_updated": "2026-08-24T14:22:39.167Z",
     "original_repository": "IIIF/awesome-iiif",
     "original_repository_id": 58644759,
     "original_repository_sha": "c60d10a7b57069f62fcc6e8dcd9dfd56d6278c2f",
