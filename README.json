@@ -93,7 +93,7 @@
             "archived": false,
             "id": 54192472,
             "language": "Rust",
-            "last_commit": "2026-08-22T23:07:47Z",
+            "last_commit": "2026-08-24T15:16:01Z",
             "owner": "dasch-swiss",
             "repo": "sipi",
             "stars": 38
@@ -183,7 +183,7 @@
             "archived": false,
             "id": 1220890293,
             "language": "Go",
-            "last_commit": "2026-08-22T21:42:53Z",
+            "last_commit": "2026-08-24T23:05:12Z",
             "owner": "libops",
             "repo": "triplet",
             "stars": 4
@@ -560,7 +560,7 @@
             "archived": false,
             "id": 103931456,
             "language": "Java",
-            "last_commit": "2026-08-18T04:42:31Z",
+            "last_commit": "2026-08-24T20:58:59Z",
             "owner": "dbmdz",
             "repo": "iiif-apis",
             "stars": 30
@@ -797,7 +797,7 @@
             "archived": false,
             "id": 103931456,
             "language": "Java",
-            "last_commit": "2026-08-18T04:42:31Z",
+            "last_commit": "2026-08-24T20:58:59Z",
             "owner": "dbmdz",
             "repo": "iiif-apis",
             "stars": 30
@@ -1610,7 +1610,7 @@
                 "archived": false,
                 "id": 98905832,
                 "language": "Python",
-                "last_commit": "2025-04-03T18:25:04Z",
+                "last_commit": "2026-08-24T21:53:16Z",
                 "owner": "nmaekawa",
                 "repo": "catchpy",
                 "stars": 11
@@ -1843,7 +1843,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:22:39.167Z",
+    "last_updated": "2026-08-25T06:13:44.924Z",
     "original_repository": "IIIF/awesome-iiif",
     "original_repository_id": 58644759,
     "original_repository_sha": "c60d10a7b57069f62fcc6e8dcd9dfd56d6278c2f",

@@ -95,13 +95,13 @@ These servers support the IIIF Image API. Some may also have support for the Pre
 * [go-iiif](https://github.com/thisisaaronland/go-iiif) ⭐ 98 | 🐛 50 | 🌐 Go | 📅 2026-07-23 - IIIF server written in go (fork of [greut/iiif](https://github.com/greut/iiif) ⭐ 11 | 🐛 3 | 🌐 Go | 📅 2021-02-15).
 * [RAIS](https://github.com/uoregon-libraries/rais-image-server) ⭐ 84 | 🐛 10 | 🌐 Go | 📅 2026-06-16 - 100% open source tile server for JP2 images written in Go.
 * [riiif](https://github.com/curationexperts/riiif) ⭐ 40 | 🐛 19 | 🌐 Ruby | 📅 2026-06-22 - Written in Ruby as a Rails engine.
-* [SIPI](https://github.com/dasch-swiss/sipi) ⭐ 38 | 🐛 6 | 🌐 Rust | 📅 2026-08-22 - IIIFv3 image server written in C++.
+* [SIPI](https://github.com/dasch-swiss/sipi) ⭐ 38 | 🐛 6 | 🌐 Rust | 📅 2026-08-24 - IIIFv3 image server written in C++.
 * [Hymir IIIF Server](https://github.com/dbmdz/iiif-server-hymir) ⚠️ Archived - IIIF server written in Java supporting IIIF Image and Presentation API.
 * [iiif\_s3](https://github.com/cmoa/iiif_s3) ⭐ 31 | 🐛 2 | 🌐 Ruby | 📅 2017-11-26 - Ruby library for generating a static IIIF level 0 Image and Presentation API server on Amazon S3.
 * [Wolpi](https://github.com/dbmdz/wolpi) ⭐ 18 | 🐛 0 | 🌐 Java | 📅 2026-08-04 - A fast and extensible IIIF Image API 2.1 + 3.0 image server based on libvips, supporting Python and JavaScript extensions.
 * [aws-batch-iiif-generator](https://github.com/vt-digital-libraries-platform/aws-batch-iiif-generator) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2024-09-24 - An automated pipeline to generate IIIF tiles and manifests and use AWS S3 as an IIIF image server.
 * [TremendousIIIF](https://github.com/britishlibrary/TremendousIIIF) ⭐ 8 | 🐛 6 | 🌐 C# | 📅 2023-08-30 - A .NET C# IIIF Image API 2.1 server.
-* [triplet](https://github.com/libops/triplet) ⭐ 4 | 🐛 5 | 🌐 Go | 📅 2026-08-22 - A fast IIIF Image API 3.0 and Presentation API 3.0 server written in Go, powered by [libvips](https://github.com/libvips/libvips) ⭐ 11,594 | 🐛 83 | 🌐 C | 📅 2026-08-21 for image processing.
+* [triplet](https://github.com/libops/triplet) ⭐ 4 | 🐛 2 | 🌐 Go | 📅 2026-08-24 - A fast IIIF Image API 3.0 and Presentation API 3.0 server written in Go, powered by [libvips](https://github.com/libvips/libvips) ⭐ 11,597 | 🐛 84 | 🌐 C | 📅 2026-08-21 for image processing.
 * [FSI Server](https://www.neptunelabs.com/fsi-server/) - FSI Server is a popular commercial solution for serving high resolution images in multiple formats.  It accompanies the Flash-based FSI Viewer for zoom and pan. [IIIF adaptor for FSI server](https://github.com/jhu-digital-manuscripts/rosa/tree/master/rosa-iiif-endpoint) ⭐ 2 | 🐛 1 | 🌐 Java | 📅 2014-09-05
 * [iiif-worker](https://github.com/mkpoli/iiif-worker) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-31 - IIIF Image API 3.0 level 2 server that runs on a Cloudflare Worker with its images in R2, using WebAssembly for the image processing so there is no server process to operate.
 * [Cantaloupe](https://cantaloupe-project.github.io/) - Image server written in Java fully conformant to all IIIF Image API versions through 3.0.
@@ -160,7 +160,7 @@ As defined by Wikipedia a shim is a small library that transparently intercepts 
 
 * [iiif](https://github.com/zimeon/iiif) ⭐ 56 | 🐛 11 | 🌐 Python | 📅 2021-05-05 - Python library providing a reference implementation of the Image API. Also includes a test server and static tile generator.
 * [Node node-iiif](https://github.com/samvera/node-iiif) ⭐ 33 | 🐛 3 | 🌐 TypeScript | 📅 2026-08-10 - a full-featured image processor supporting the IIIF Image API versions 2.1 and 3.0.
-* [iiif-apis](https://github.com/dbmdz/iiif-apis) ⭐ 30 | 🐛 11 | 🌐 Java | 📅 2026-08-18 - Java IIIF API libraries.
+* [iiif-apis](https://github.com/dbmdz/iiif-apis) ⭐ 30 | 🐛 11 | 🌐 Java | 📅 2026-08-24 - Java IIIF API libraries.
 * [iiif-tiler](https://github.com/glenrobson/iiif-tiler) ⭐ 26 | 🐛 6 | 🌐 Java | 📅 2025-12-19 - Java library for generating static IIIF tiles (compliant with the V2.1 and 3.0 of the IIIF Image API).
 * [image-iiif](https://github.com/conlect/image-iiif) ⭐ 20 | 🐛 4 | 🌐 PHP | 📅 2026-06-22 - PHP 8 package for implementing IIIF Image API 3.
 * [piffle](https://github.com/emory-lits-labs/piffle) ⭐ 20 | 🐛 9 | 🌐 Python | 📅 2026-06-15 - Python library for generating and parsing IIIF Image API URLs.
@@ -173,7 +173,7 @@ As defined by Wikipedia a shim is a small library that transparently intercepts 
 
 Various tools for working with images such as cropping tools.
 
-* [dezoomify-rs](https://github.com/lovasoa/dezoomify-rs) ⭐ 1,023 | 🐛 78 | 🌐 Rust | 📅 2026-08-21 - A command-line tiled image downloader. Support IIIF, Deepzoom and others zoomable image formats.
+* [dezoomify-rs](https://github.com/lovasoa/dezoomify-rs) ⭐ 1,023 | 🐛 77 | 🌐 Rust | 📅 2026-08-21 - A command-line tiled image downloader. Support IIIF, Deepzoom and others zoomable image formats.
 * [iiif-dl](https://github.com/ryanfb/iiif-dl) ⭐ 35 | 🐛 4 | 🌐 Ruby | 📅 2026-04-08 - Command-line tile downloader/assembler for IIIF endpoints/manifests. Download full-resolution image sequences from any IIIF server. Currently not compatible with IIIF 3.0.
 * [IIIF-imageManipulation](https://github.com/jbhoward-dublin/iiif-imageManipulation) ⭐ 18 | 🐛 2 | 🌐 JavaScript | 📅 2017-07-31 - UCD's tool to crop images and manipulate via IIIF attributes; integrate with Mirador via plugin.
 * [IIIF Downloader](https://github.com/ClaudioMartino/IIIF-Downloader) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2026-08-19 - Lightweight Python image downloader that needs only standard libraries (CLI + API + GUI). Compliant with IIIF API 2.0, 2.1 and 3.0.
@@ -191,7 +191,7 @@ Various tools for working with images such as cropping tools.
 * [iiif-prezi3](https://github.com/iiif-prezi/iiif-prezi3) ⭐ 41 | 🐛 38 | 🌐 Python | 📅 2026-08-03 - Presentation 3 Python library.
 * [iiif-prezi](https://github.com/iiif-prezi/iiif-prezi) ⭐ 35 | 🐛 13 | 🌐 Python | 📅 2024-04-17 - Presentation 2 Python library providing a reference implementation.
 * [O'Sullivan](https://github.com/IIIF/osullivan) ⭐ 33 | 🐛 28 | 🌐 Ruby | 📅 2026-08-17 - Ruby API for creating IIIF manifests.
-* [iiif-apis](https://github.com/dbmdz/iiif-apis) ⭐ 30 | 🐛 11 | 🌐 Java | 📅 2026-08-18 - Java IIIF API libraries.
+* [iiif-apis](https://github.com/dbmdz/iiif-apis) ⭐ 30 | 🐛 11 | 🌐 Java | 📅 2026-08-24 - Java IIIF API libraries.
 * [IIIF Manifest Generator](https://github.com/yale-web-technologies/IIIF-Manifest-Generator) ⭐ 23 | 🐛 3 | 🌐 PHP | 📅 2026-01-28 - PHP library for generating IIIF manifests.
 * [pyIIIFpres](https://github.com/giacomomarchioro/pyIIIFpres) ⭐ 20 | 🐛 2 | 🌐 Python | 📅 2026-01-21 - A Python module built for easing the construction of JSON manifests compliant with IIIF API 3.0 in a production environment, similarly to iiif-prezi for earlier versions of the protocol.
 * [IIIF Parser](https://github.com/iiif-commons/parser) ⭐ 19 | 🐛 15 | 🌐 TypeScript | 📅 2026-08-10 - An NPM module (Node + Browser) for parsing IIIF Presentation 2.1, 3.0, 4.0 and upgrading from v2 to v3. [demo](https://iiif-studio.netlify.app/)
@@ -355,7 +355,7 @@ Links to help you discover IIIF resources that have been shared, demonstrations 
 * [aiiinotate](https://github.com/Aikon-platform/aiiinotate) ⭐ 12 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-07 - IIIF annotation server built for speed and scalability, based on NodeJS and MongoDB. Designed to handle massive quantities of annotations (>10M) produced by computer vision tools.
 * [annotot](https://github.com/PenguinParadigm/annotot) ⭐ 12 | 🐛 2 | 🌐 Ruby | 📅 2025-11-25 - Simple IIIF annotations mounted in a Ruby on Rails applications.
 * [ipfs-iiif-db](https://github.com/pgte/ipfs-iiif-db) ⚠️ Archived\[deprecated] - IIIF annotations JS client over IPFS.
-* [CatchPy](https://github.com/nmaekawa/catchpy) ⭐ 11 | 🐛 1 | 🌐 Python | 📅 2025-04-03 - Django-based annotation server with support for Web Annotation and AnnotatorJS APIs, using JWT for auth. Originally developed for the AnnotationsX LTI tool, CatchPy also supports tagging and responses.
+* [CatchPy](https://github.com/nmaekawa/catchpy) ⭐ 11 | 🐛 1 | 🌐 Python | 📅 2026-08-24 - Django-based annotation server with support for Web Annotation and AnnotatorJS APIs, using JWT for auth. Originally developed for the AnnotationsX LTI tool, CatchPy also supports tagging and responses.
 * [Europeana](https://github.com/europeana/annotation) ⭐ 5 | 🐛 12 | 🌐 Java | 📅 2026-06-26 - Extension to the Europeana REST API that allows you to create, retrieve, and manage annotations on Europeana objects
 
 ### Annotation Clients
@@ -488,4 +488,4 @@ To the extent possible under law, all contributors waive all copyright and relat
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
