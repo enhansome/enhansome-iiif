@@ -93,7 +93,7 @@
             "archived": false,
             "id": 54192472,
             "language": "Rust",
-            "last_commit": "2026-08-24T15:16:01Z",
+            "last_commit": "2026-08-25T15:23:06Z",
             "owner": "dasch-swiss",
             "repo": "sipi",
             "stars": 38
@@ -183,7 +183,7 @@
             "archived": false,
             "id": 1220890293,
             "language": "Go",
-            "last_commit": "2026-08-24T23:05:12Z",
+            "last_commit": "2026-08-26T02:58:09Z",
             "owner": "libops",
             "repo": "triplet",
             "stars": 4
@@ -318,7 +318,7 @@
             "last_commit": "2026-08-18T06:10:05Z",
             "owner": "internetarchive",
             "repo": "bookreader",
-            "stars": 1173
+            "stars": 1174
           }
         },
         {
@@ -330,7 +330,7 @@
             "archived": false,
             "id": 85699528,
             "language": "JavaScript",
-            "last_commit": "2026-08-21T17:45:16Z",
+            "last_commit": "2026-08-25T20:19:30Z",
             "owner": "tify-iiif-viewer",
             "repo": "tify",
             "stars": 130
@@ -1064,7 +1064,7 @@
             "archived": false,
             "id": 405131946,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T14:18:49Z",
+            "last_commit": "2026-08-25T16:28:31Z",
             "owner": "digirati-co-uk",
             "repo": "iiif-manifest-editor",
             "stars": 45
@@ -1139,7 +1139,7 @@
             "archived": false,
             "id": 210875314,
             "language": "PHP",
-            "last_commit": "2026-06-11T12:37:45Z",
+            "last_commit": "2026-08-25T12:53:50Z",
             "owner": "LeidenUniversityLibrary",
             "repo": "islandora_iiif_manifests",
             "stars": 0
@@ -1181,7 +1181,7 @@
             "archived": false,
             "id": 405131946,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T14:18:49Z",
+            "last_commit": "2026-08-25T16:28:31Z",
             "owner": "digirati-co-uk",
             "repo": "iiif-manifest-editor",
             "stars": 45
@@ -1843,7 +1843,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T09:55:37.059Z",
+    "last_updated": "2026-08-26T10:01:38.088Z",
     "original_repository": "IIIF/awesome-iiif",
     "original_repository_id": 58644759,
     "original_repository_sha": "c60d10a7b57069f62fcc6e8dcd9dfd56d6278c2f",
