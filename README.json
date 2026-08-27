@@ -330,7 +330,7 @@
             "archived": false,
             "id": 85699528,
             "language": "JavaScript",
-            "last_commit": "2026-08-25T20:19:30Z",
+            "last_commit": "2026-08-26T21:13:32Z",
             "owner": "tify-iiif-viewer",
             "repo": "tify",
             "stars": 130
@@ -671,7 +671,7 @@
             "archived": false,
             "id": 181247435,
             "language": "Rust",
-            "last_commit": "2026-08-21T23:57:53Z",
+            "last_commit": "2026-08-27T11:30:01Z",
             "owner": "lovasoa",
             "repo": "dezoomify-rs",
             "stars": 1023
@@ -842,7 +842,7 @@
             "archived": false,
             "id": 446212239,
             "language": "TypeScript",
-            "last_commit": "2026-08-10T16:49:56Z",
+            "last_commit": "2026-08-26T10:07:01Z",
             "owner": "IIIF-Commons",
             "repo": "parser",
             "stars": 19
@@ -1843,9 +1843,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T10:01:38.088Z",
-    "original_repository": "IIIF/awesome-iiif",
-    "original_repository_id": 58644759,
+    "last_updated": "2026-08-27T11:46:38.874Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 58644759,
+      "language": null,
+      "last_commit": "2026-08-19T12:36:39Z",
+      "owner": "IIIF",
+      "repo": "awesome-iiif",
+      "stars": 560
+    },
     "original_repository_sha": "c60d10a7b57069f62fcc6e8dcd9dfd56d6278c2f",
     "enhanced_repository": "enhansome/enhansome-iiif",
     "enhanced_repository_description": null,
