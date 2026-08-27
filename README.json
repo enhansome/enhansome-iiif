@@ -93,7 +93,7 @@
             "archived": false,
             "id": 54192472,
             "language": "Rust",
-            "last_commit": "2026-08-25T15:23:06Z",
+            "last_commit": "2026-08-27T17:21:40Z",
             "owner": "dasch-swiss",
             "repo": "sipi",
             "stars": 38
@@ -330,7 +330,7 @@
             "archived": false,
             "id": 85699528,
             "language": "JavaScript",
-            "last_commit": "2026-08-26T21:13:32Z",
+            "last_commit": "2026-08-27T19:45:50Z",
             "owner": "tify-iiif-viewer",
             "repo": "tify",
             "stars": 130
@@ -671,7 +671,7 @@
             "archived": false,
             "id": 181247435,
             "language": "Rust",
-            "last_commit": "2026-08-27T11:30:01Z",
+            "last_commit": "2026-08-27T15:46:42Z",
             "owner": "lovasoa",
             "repo": "dezoomify-rs",
             "stars": 1023
@@ -1843,7 +1843,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:46:38.874Z",
+    "last_updated": "2026-08-27T19:53:07.621Z",
     "original_repository_info": {
       "archived": false,
       "id": 58644759,
