@@ -16,7 +16,8 @@
             "owner": "IIIF",
             "repo": "awesome-iiif",
             "stars": 560
-          }
+          },
+          "first_seen": "2026-08-28T20:57:12.539Z"
         }
       ],
       "title": "More Resources"
@@ -37,7 +38,8 @@
             "owner": "loris-imageserver",
             "repo": "loris",
             "stars": 216
-          }
+          },
+          "first_seen": "2026-08-28T20:57:12.539Z"
         },
         {
           "node_type": "item",
@@ -52,7 +54,8 @@
             "owner": "go-iiif",
             "repo": "go-iiif",
             "stars": 98
-          }
+          },
+          "first_seen": "2026-08-28T20:57:12.539Z"
         },
         {
           "node_type": "item",
@@ -67,7 +70,8 @@
             "owner": "uoregon-libraries",
             "repo": "rais-image-server",
             "stars": 84
-          }
+          },
+          "first_seen": "2026-08-28T20:57:12.539Z"
         },
         {
           "node_type": "item",
@@ -82,7 +86,8 @@
             "owner": "sul-dlss",
             "repo": "riiif",
             "stars": 40
-          }
+          },
+          "first_seen": "2026-08-28T20:57:12.539Z"
         },
         {
           "node_type": "item",
@@ -92,12 +97,13 @@
           "repo_info": {
             "archived": false,
             "id": 54192472,
-            "language": "Rust",
-            "last_commit": "2026-08-27T17:21:40Z",
+            "language": "C++",
+            "last_commit": "2026-08-28T20:26:38Z",
             "owner": "dasch-swiss",
             "repo": "sipi",
             "stars": 38
-          }
+          },
+          "first_seen": "2026-08-28T20:57:12.539Z"
         },
         {
           "node_type": "item",
@@ -112,7 +118,8 @@
             "owner": "dbmdz",
             "repo": "iiif-server-hymir",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-28T20:57:12.539Z"
         },
         {
           "node_type": "item",
@@ -127,7 +134,8 @@
             "owner": "cmoa",
             "repo": "iiif_s3",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T20:57:12.539Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "dbmdz",
             "repo": "wolpi",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T20:57:12.539Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "vt-digital-libraries-platform",
             "repo": "aws-batch-iiif-generator",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T20:57:12.539Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "britishlibrary",
             "repo": "TremendousIIIF",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T20:57:12.539Z"
         },
         {
           "node_type": "item",
@@ -187,7 +198,8 @@
             "owner": "libops",
             "repo": "triplet",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T20:57:12.539Z"
         },
         {
           "node_type": "item",
@@ -202,7 +214,8 @@
             "owner": "jhu-digital-manuscripts",
             "repo": "rosa",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T20:57:12.539Z"
         },
         {
           "node_type": "item",
@@ -217,7 +230,8 @@
             "owner": "mkpoli",
             "repo": "iiif-worker",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T20:57:12.539Z"
         }
       ],
       "title": "Image Servers"
@@ -238,7 +252,8 @@
             "owner": "inveniosoftware",
             "repo": "flask-iiif",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-28T20:57:12.539Z"
         },
         {
           "node_type": "item",
@@ -253,7 +268,8 @@
             "owner": "jronallo",
             "repo": "djatoka",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T20:57:12.539Z"
         },
         {
           "node_type": "item",
@@ -268,7 +284,8 @@
             "owner": "mejackreed",
             "repo": "shimmy",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T20:57:12.539Z"
         },
         {
           "node_type": "item",
@@ -283,7 +300,8 @@
             "owner": "rogerhoward",
             "repo": "djiiif",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T20:57:12.539Z"
         },
         {
           "node_type": "item",
@@ -298,7 +316,8 @@
             "owner": "azaroth42",
             "repo": "pi3f",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T20:57:12.539Z"
         }
       ],
       "title": "Image Server Shims"
@@ -319,7 +338,8 @@
             "owner": "internetarchive",
             "repo": "bookreader",
             "stars": 1174
-          }
+          },
+          "first_seen": "2026-08-28T20:57:12.539Z"
         },
         {
           "node_type": "item",
@@ -330,11 +350,12 @@
             "archived": false,
             "id": 85699528,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T19:45:50Z",
+            "last_commit": "2026-08-28T11:28:56Z",
             "owner": "tify-iiif-viewer",
             "repo": "tify",
             "stars": 130
-          }
+          },
+          "first_seen": "2026-08-28T20:57:12.539Z"
         },
         {
           "node_type": "item",
@@ -349,7 +370,8 @@
             "owner": "ProjectMirador",
             "repo": "mirador-awesome",
             "stars": 45
-          }
+          },
+          "first_seen": "2026-08-28T20:57:12.539Z"
         },
         {
           "node_type": "item",
@@ -364,7 +386,8 @@
             "owner": "Systemik-Solutions",
             "repo": "glycerine-viewer",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T20:57:12.539Z"
         },
         {
           "node_type": "item",
@@ -379,7 +402,8 @@
             "owner": "tamerlaneviewer",
             "repo": "tamerlane",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T20:57:12.539Z"
         },
         {
           "node_type": "item",
@@ -394,7 +418,8 @@
             "owner": "TETRAS-IIIF",
             "repo": "mirador-video",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T20:57:12.539Z"
         },
         {
           "node_type": "item",
@@ -409,7 +434,8 @@
             "owner": "FactumFoundation",
             "repo": "tactum-viewer",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T20:57:12.539Z"
         },
         {
           "children": [
@@ -426,7 +452,8 @@
                 "owner": "mejackreed",
                 "repo": "Leaflet-IIIF",
                 "stars": 138
-              }
+              },
+              "first_seen": "2026-08-28T20:57:12.539Z"
             },
             {
               "node_type": "item",
@@ -441,7 +468,8 @@
                 "owner": "klokantech",
                 "repo": "iiifviewer",
                 "stars": 53
-              }
+              },
+              "first_seen": "2026-08-28T20:57:12.539Z"
             },
             {
               "node_type": "item",
@@ -456,7 +484,8 @@
                 "owner": "msalsbery",
                 "repo": "OpenSeadragonImagingHelper",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T20:57:12.539Z"
             },
             {
               "node_type": "item",
@@ -471,7 +500,8 @@
                 "owner": "digirati-co-uk",
                 "repo": "react-iiif-vault",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T20:57:12.539Z"
             },
             {
               "node_type": "group",
@@ -491,7 +521,8 @@
                     "owner": "vanda",
                     "repo": "curtain-viewer",
                     "stars": 12
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:57:12.539Z"
                 },
                 {
                   "node_type": "item",
@@ -506,7 +537,8 @@
                     "owner": "NIST-ISG",
                     "repo": "OpenSeadragonScalebar",
                     "stars": 5
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:57:12.539Z"
                 }
               ]
             }
@@ -534,7 +566,8 @@
             "owner": "zimeon",
             "repo": "iiif",
             "stars": 56
-          }
+          },
+          "first_seen": "2026-08-28T20:57:12.539Z"
         },
         {
           "node_type": "item",
@@ -549,7 +582,8 @@
             "owner": "samvera",
             "repo": "node-iiif",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T20:57:12.539Z"
         },
         {
           "node_type": "item",
@@ -564,7 +598,8 @@
             "owner": "dbmdz",
             "repo": "iiif-apis",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-28T20:57:12.539Z"
         },
         {
           "node_type": "item",
@@ -579,7 +614,8 @@
             "owner": "glenrobson",
             "repo": "iiif-tiler",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T20:57:12.539Z"
         },
         {
           "node_type": "item",
@@ -594,7 +630,8 @@
             "owner": "conlect",
             "repo": "image-iiif",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T20:57:12.539Z"
         },
         {
           "node_type": "item",
@@ -609,7 +646,8 @@
             "owner": "Princeton-CDH",
             "repo": "piffle",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T20:57:12.539Z"
         },
         {
           "node_type": "item",
@@ -624,7 +662,8 @@
             "owner": "moravianlibrary",
             "repo": "iOSTiledViewer",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T20:57:12.539Z"
         },
         {
           "node_type": "item",
@@ -639,7 +678,8 @@
             "owner": "dainst",
             "repo": "iiif_image_plug",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T20:57:12.539Z"
         },
         {
           "node_type": "item",
@@ -654,7 +694,8 @@
             "owner": "NCSU-Libraries",
             "repo": "iiif_url",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T20:57:12.539Z"
         }
       ],
       "title": "Image API Libraries"
@@ -671,11 +712,12 @@
             "archived": false,
             "id": 181247435,
             "language": "Rust",
-            "last_commit": "2026-08-27T15:46:42Z",
+            "last_commit": "2026-08-28T09:25:38Z",
             "owner": "lovasoa",
             "repo": "dezoomify-rs",
             "stars": 1023
-          }
+          },
+          "first_seen": "2026-08-28T20:57:12.539Z"
         },
         {
           "node_type": "item",
@@ -690,7 +732,8 @@
             "owner": "ryanfb",
             "repo": "iiif-dl",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-28T20:57:12.539Z"
         },
         {
           "node_type": "item",
@@ -705,7 +748,8 @@
             "owner": "jbhoward-dublin",
             "repo": "iiif-imageManipulation",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T20:57:12.539Z"
         },
         {
           "node_type": "item",
@@ -720,7 +764,8 @@
             "owner": "ClaudioMartino",
             "repo": "IIIF-Downloader",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T20:57:12.539Z"
         }
       ],
       "title": "Image Tools"
@@ -741,7 +786,8 @@
             "owner": "IIIF-Commons",
             "repo": "manifesto",
             "stars": 50
-          }
+          },
+          "first_seen": "2026-08-28T20:57:12.539Z"
         },
         {
           "node_type": "item",
@@ -756,7 +802,8 @@
             "owner": "iiif-prezi",
             "repo": "iiif-prezi3",
             "stars": 41
-          }
+          },
+          "first_seen": "2026-08-28T20:57:12.539Z"
         },
         {
           "node_type": "item",
@@ -771,7 +818,8 @@
             "owner": "iiif-prezi",
             "repo": "iiif-prezi",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-28T20:57:12.539Z"
         },
         {
           "node_type": "item",
@@ -786,7 +834,8 @@
             "owner": "iiif-prezi",
             "repo": "osullivan",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T20:57:12.539Z"
         },
         {
           "node_type": "item",
@@ -801,7 +850,8 @@
             "owner": "dbmdz",
             "repo": "iiif-apis",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-28T20:57:12.539Z"
         },
         {
           "node_type": "item",
@@ -816,7 +866,8 @@
             "owner": "yale-web-technologies",
             "repo": "IIIF-Manifest-Generator",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T20:57:12.539Z"
         },
         {
           "node_type": "item",
@@ -831,7 +882,8 @@
             "owner": "giacomomarchioro",
             "repo": "pyIIIFpres",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T20:57:12.539Z"
         },
         {
           "node_type": "item",
@@ -846,7 +898,8 @@
             "owner": "IIIF-Commons",
             "repo": "parser",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T20:57:12.539Z"
         },
         {
           "node_type": "item",
@@ -861,7 +914,8 @@
             "owner": "IIIF-Commons",
             "repo": "iiif-builder",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T20:57:12.539Z"
         },
         {
           "node_type": "item",
@@ -876,7 +930,8 @@
             "owner": "rsimon",
             "repo": "cozy-iiif",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T20:57:12.539Z"
         },
         {
           "node_type": "item",
@@ -891,7 +946,8 @@
             "owner": "ksclarke",
             "repo": "jiiify-presentation",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T20:57:12.539Z"
         },
         {
           "node_type": "item",
@@ -906,7 +962,8 @@
             "owner": "IIIF-Commons",
             "repo": "manifold",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T20:57:12.539Z"
         },
         {
           "node_type": "item",
@@ -921,7 +978,8 @@
             "owner": "yuta1984",
             "repo": "tiny-iiif-manifest-authoring-tool",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T20:57:12.539Z"
         },
         {
           "node_type": "item",
@@ -936,7 +994,8 @@
             "owner": "IIIF-Commons",
             "repo": "iiif-helpers",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T20:57:12.539Z"
         },
         {
           "node_type": "item",
@@ -951,7 +1010,8 @@
             "owner": "IIIF-Commons",
             "repo": "iiif-tree-component",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T20:57:12.539Z"
         },
         {
           "node_type": "item",
@@ -966,7 +1026,8 @@
             "owner": "mejackreed",
             "repo": "Swiiift",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T20:57:12.539Z"
         }
       ],
       "title": "Presentation API Libraries"
@@ -987,7 +1048,8 @@
             "owner": "mejackreed",
             "repo": "shimmy",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T20:57:12.539Z"
         },
         {
           "node_type": "item",
@@ -1002,7 +1064,8 @@
             "owner": "azaroth42",
             "repo": "presentation-api-shims",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T20:57:12.539Z"
         }
       ],
       "title": "Presentation API Shims"
@@ -1023,7 +1086,8 @@
             "owner": "IIIF-Commons",
             "repo": "biiif",
             "stars": 94
-          }
+          },
+          "first_seen": "2026-08-28T20:57:12.539Z"
         },
         {
           "node_type": "item",
@@ -1038,7 +1102,8 @@
             "owner": "bodleian",
             "repo": "iiif-manifest-editor",
             "stars": 84
-          }
+          },
+          "first_seen": "2026-08-28T20:57:12.539Z"
         },
         {
           "node_type": "item",
@@ -1053,7 +1118,8 @@
             "owner": "jbaiter",
             "repo": "pdiiif",
             "stars": 50
-          }
+          },
+          "first_seen": "2026-08-28T20:57:12.539Z"
         },
         {
           "node_type": "item",
@@ -1068,7 +1134,8 @@
             "owner": "digirati-co-uk",
             "repo": "iiif-manifest-editor",
             "stars": 45
-          }
+          },
+          "first_seen": "2026-08-28T20:57:12.539Z"
         },
         {
           "node_type": "item",
@@ -1083,7 +1150,8 @@
             "owner": "jbaiter",
             "repo": "demetsiiify",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-28T20:57:12.539Z"
         },
         {
           "node_type": "item",
@@ -1098,7 +1166,8 @@
             "owner": "arkalab",
             "repo": "tropiiify",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-28T20:57:12.539Z"
         },
         {
           "node_type": "item",
@@ -1113,7 +1182,8 @@
             "owner": "ubleipzig",
             "repo": "iiif-producer",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T20:57:12.539Z"
         },
         {
           "node_type": "item",
@@ -1128,7 +1198,8 @@
             "owner": "pierrz",
             "repo": "brif",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T20:57:12.539Z"
         },
         {
           "node_type": "item",
@@ -1139,11 +1210,12 @@
             "archived": false,
             "id": 210875314,
             "language": "PHP",
-            "last_commit": "2026-08-25T12:53:50Z",
+            "last_commit": "2026-08-28T07:59:19Z",
             "owner": "LeidenUniversityLibrary",
             "repo": "islandora_iiif_manifests",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T20:57:12.539Z"
         }
       ],
       "title": "Presentation Manifest Tools"
@@ -1164,7 +1236,8 @@
             "owner": "IIIF-Commons",
             "repo": "vault",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T20:57:12.539Z"
         }
       ],
       "title": "Validators"
@@ -1185,7 +1258,8 @@
             "owner": "digirati-co-uk",
             "repo": "iiif-manifest-editor",
             "stars": 45
-          }
+          },
+          "first_seen": "2026-08-28T20:57:12.539Z"
         }
       ],
       "title": "Exhibition and Guided Viewing Tools"
@@ -1206,7 +1280,8 @@
             "owner": "NCSU-Libraries",
             "repo": "ocracoke",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T20:57:12.539Z"
         },
         {
           "node_type": "item",
@@ -1221,7 +1296,8 @@
             "owner": "mbennett-uoe",
             "repo": "whiiif",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T20:57:12.539Z"
         },
         {
           "node_type": "item",
@@ -1236,7 +1312,8 @@
             "owner": "boston-library",
             "repo": "blacklight_iiif_search",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T20:57:12.539Z"
         },
         {
           "node_type": "item",
@@ -1251,7 +1328,8 @@
             "owner": "nationalarchives",
             "repo": "annosearch",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T20:57:12.539Z"
         }
       ],
       "title": "Content Search API"
@@ -1272,7 +1350,8 @@
             "owner": "robcast",
             "repo": "iiif-image-auth",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T20:57:12.539Z"
         },
         {
           "node_type": "item",
@@ -1287,7 +1366,8 @@
             "owner": "tomcrane",
             "repo": "iiif-auth-client",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T20:57:12.539Z"
         },
         {
           "node_type": "item",
@@ -1302,7 +1382,8 @@
             "owner": "tomcrane",
             "repo": "iiif-auth-server",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T20:57:12.539Z"
         }
       ],
       "title": "Authentication"
@@ -1323,7 +1404,8 @@
             "owner": "altomator",
             "repo": "IIIF",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T20:57:12.539Z"
         },
         {
           "node_type": "item",
@@ -1338,7 +1420,8 @@
             "owner": "regisrob",
             "repo": "Atelier_IIIF_Conference_DHNord_2020",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T20:57:12.539Z"
         }
       ],
       "title": "Tutorials"
@@ -1359,7 +1442,8 @@
             "owner": "ryanfb",
             "repo": "iiif-universe",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-28T20:57:12.539Z"
         },
         {
           "node_type": "item",
@@ -1374,7 +1458,8 @@
             "owner": "armadillo-systems",
             "repo": "inquire",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T20:57:12.539Z"
         },
         {
           "children": [
@@ -1391,7 +1476,8 @@
                 "owner": "2SC1815J",
                 "repo": "open-in-iiif-viewer",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T20:57:12.539Z"
             },
             {
               "node_type": "item",
@@ -1406,7 +1492,8 @@
                 "owner": "atomotic",
                 "repo": "iiif.link",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T20:57:12.539Z"
             }
           ],
           "description": null,
@@ -1432,7 +1519,8 @@
             "owner": "rsimon",
             "repo": "immarkus",
             "stars": 63
-          }
+          },
+          "first_seen": "2026-08-28T20:57:12.539Z"
         },
         {
           "node_type": "item",
@@ -1447,7 +1535,8 @@
             "owner": "rsimon",
             "repo": "liiive",
             "stars": 50
-          }
+          },
+          "first_seen": "2026-08-28T20:57:12.539Z"
         },
         {
           "node_type": "item",
@@ -1462,7 +1551,8 @@
             "owner": "glenrobson",
             "repo": "iiif_stuff",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T20:57:12.539Z"
         },
         {
           "node_type": "item",
@@ -1477,7 +1567,8 @@
             "owner": "jptmoore",
             "repo": "annocoda",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T20:57:12.539Z"
         },
         {
           "children": [
@@ -1494,7 +1585,8 @@
                 "owner": "glenrobson",
                 "repo": "SimpleAnnotationServer",
                 "stars": 104
-              }
+              },
+              "first_seen": "2026-08-28T20:57:12.539Z"
             },
             {
               "node_type": "item",
@@ -1509,7 +1601,8 @@
                 "owner": "dlcs",
                 "repo": "elucidate-server",
                 "stars": 55
-              }
+              },
+              "first_seen": "2026-08-28T20:57:12.539Z"
             },
             {
               "node_type": "item",
@@ -1524,7 +1617,8 @@
                 "owner": "nationalarchives",
                 "repo": "miiify",
                 "stars": 48
-              }
+              },
+              "first_seen": "2026-08-28T20:57:12.539Z"
             },
             {
               "node_type": "item",
@@ -1539,7 +1633,8 @@
                 "owner": "azaroth42",
                 "repo": "MangoServer",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T20:57:12.539Z"
             },
             {
               "node_type": "item",
@@ -1554,7 +1649,8 @@
                 "owner": "dnoneill",
                 "repo": "annotate",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T20:57:12.539Z"
             },
             {
               "node_type": "item",
@@ -1569,7 +1665,8 @@
                 "owner": "Aikon-platform",
                 "repo": "aiiinotate",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T20:57:12.539Z"
             },
             {
               "node_type": "item",
@@ -1584,7 +1681,8 @@
                 "owner": "PenguinParadigm",
                 "repo": "annotot",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T20:57:12.539Z"
             },
             {
               "node_type": "item",
@@ -1599,7 +1697,8 @@
                 "owner": "ipfs-shipyard",
                 "repo": "ipfs-iiif-db",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T20:57:12.539Z"
             },
             {
               "node_type": "item",
@@ -1614,7 +1713,8 @@
                 "owner": "nmaekawa",
                 "repo": "catchpy",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T20:57:12.539Z"
             },
             {
               "node_type": "item",
@@ -1629,7 +1729,8 @@
                 "owner": "europeana",
                 "repo": "annotation",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T20:57:12.539Z"
             }
           ],
           "description": null,
@@ -1651,7 +1752,8 @@
                 "owner": "atomotic",
                 "repo": "iiif-annotation-studio",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T20:57:12.539Z"
             },
             {
               "node_type": "item",
@@ -1666,7 +1768,8 @@
                 "owner": "TETRAS-IIIF",
                 "repo": "mirador-annotation-editor",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T20:57:12.539Z"
             }
           ],
           "description": null,
@@ -1692,7 +1795,8 @@
             "owner": "utlib",
             "repo": "IiifItems",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T20:57:12.539Z"
         },
         {
           "node_type": "item",
@@ -1707,7 +1811,8 @@
             "owner": "Daniel-KM",
             "repo": "Omeka-S-module-Mirador",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T20:57:12.539Z"
         }
       ],
       "title": "CMS Integration"
@@ -1728,7 +1833,8 @@
             "owner": "a-g-van-hamel-foundation",
             "repo": "Mirador",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T20:57:12.539Z"
         }
       ],
       "title": "Wiki Integration"
@@ -1749,7 +1855,8 @@
             "owner": "rsimon",
             "repo": "tiny-iiif",
             "stars": 63
-          }
+          },
+          "first_seen": "2026-08-28T20:57:12.539Z"
         }
       ],
       "title": "Hosting"
@@ -1770,7 +1877,8 @@
             "owner": "glenrobson",
             "repo": "SimpleAnnotationServer",
             "stars": 104
-          }
+          },
+          "first_seen": "2026-08-28T20:57:12.539Z"
         },
         {
           "node_type": "item",
@@ -1785,7 +1893,8 @@
             "owner": "open-oni",
             "repo": "open-oni",
             "stars": 56
-          }
+          },
+          "first_seen": "2026-08-28T20:57:12.539Z"
         },
         {
           "node_type": "item",
@@ -1800,7 +1909,8 @@
             "owner": "umd-mith",
             "repo": "ndnp_iiif",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T20:57:12.539Z"
         }
       ],
       "title": "Newspapers"
@@ -1821,7 +1931,8 @@
             "owner": "pierrz",
             "repo": "brif",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T20:57:12.539Z"
         },
         {
           "node_type": "item",
@@ -1836,14 +1947,15 @@
             "owner": "inveniosoftware",
             "repo": "invenio-iiif",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T20:57:12.539Z"
         }
       ],
       "title": "Collection Management Systems (CMSs) and Digital Asset Management (DAMs) that support IIIF"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T19:53:07.621Z",
+    "last_updated": "2026-08-28T20:57:12.539Z",
     "original_repository_info": {
       "archived": false,
       "id": 58644759,
