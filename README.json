@@ -10,12 +10,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome IIIF-related resources",
+            "homepage": "https://iiif.github.io/awesome-iiif/",
             "id": 58644759,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-19T12:36:39Z",
+            "open_issues": 14,
             "owner": "IIIF",
             "repo": "awesome-iiif",
-            "stars": 560
+            "stars": 560,
+            "topics": [
+              "awesome-list",
+              "community",
+              "iiif",
+              "iiif-apis",
+              "iiif-image",
+              "iiif-presentations"
+            ]
           },
           "first_seen": "2026-08-28T20:57:12.539Z"
         }
@@ -32,12 +44,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Loris IIIF Image Server",
+            "homepage": null,
             "id": 5800709,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-09-07T14:24:42Z",
+            "open_issues": 106,
             "owner": "loris-imageserver",
             "repo": "loris",
-            "stars": 216
+            "stars": 216,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:57:12.539Z"
         },
@@ -48,12 +65,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Go package to implement the IIIF Image API.",
+            "homepage": "https://go-iiif.github.io/go-iiif/",
             "id": 67228421,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-23T23:34:20Z",
+            "open_issues": 50,
             "owner": "go-iiif",
             "repo": "go-iiif",
-            "stars": 98
+            "stars": 98,
+            "topics": [
+              "iiif",
+              "iiif-image"
+            ]
           },
           "first_seen": "2026-08-28T20:57:12.539Z"
         },
@@ -64,12 +89,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RAIS: A IIIF-compliant, 100% open source image server for blazing-fast deep zooming",
+            "homepage": null,
             "id": 35502871,
             "language": "Go",
+            "license": "CC0-1.0",
             "last_commit": "2026-06-16T16:24:05Z",
+            "open_issues": 10,
             "owner": "uoregon-libraries",
             "repo": "rais-image-server",
-            "stars": 84
+            "stars": 84,
+            "topics": [
+              "golang-application",
+              "iiif",
+              "image-server",
+              "jp2",
+              "jpeg2000",
+              "tile-server",
+              "zoomable-images"
+            ]
           },
           "first_seen": "2026-08-28T20:57:12.539Z"
         },
@@ -80,12 +118,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "IIIF image server in ruby",
+            "homepage": null,
             "id": 14399526,
             "language": "Ruby",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-22T23:08:55Z",
+            "open_issues": 19,
             "owner": "sul-dlss",
             "repo": "riiif",
-            "stars": 40
+            "stars": 40,
+            "topics": [
+              "access",
+              "iiif"
+            ]
           },
           "first_seen": "2026-08-28T20:57:12.539Z"
         },
@@ -96,12 +142,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "IIIF Server - Simple Image Presentation Interface",
+            "homepage": "https://sipi.io",
             "id": 54192472,
             "language": "C++",
-            "last_commit": "2026-08-28T20:26:38Z",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-08-29T04:12:00Z",
+            "open_issues": 7,
             "owner": "dasch-swiss",
             "repo": "sipi",
-            "stars": 38
+            "stars": 38,
+            "topics": [
+              "iiif",
+              "image-conversion",
+              "image-processing"
+            ]
           },
           "first_seen": "2026-08-28T20:57:12.539Z"
         },
@@ -112,12 +167,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Hymir is a Java based IIIF Server. It is based on \"IIIF Image API Java Libraries\" and \"IIIF Presentation API Java Libraries\" projects (see https://github.com/dbmdz)",
+            "homepage": null,
             "id": 63786754,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2026-08-18T04:50:57Z",
+            "open_issues": 19,
             "owner": "dbmdz",
             "repo": "iiif-server-hymir",
-            "stars": 34
+            "stars": 34,
+            "topics": [
+              "iiif",
+              "iiif-image",
+              "iiif-presentation",
+              "iiif-server",
+              "mirador"
+            ]
           },
           "first_seen": "2026-08-28T20:57:12.539Z"
         },
@@ -128,12 +194,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A library for generating an IIIF level 0 compatible static server on Amazon S3",
+            "homepage": null,
             "id": 46132445,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2017-11-26T23:24:42Z",
+            "open_issues": 2,
             "owner": "cmoa",
             "repo": "iiif_s3",
-            "stars": 31
+            "stars": 31,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:57:12.539Z"
         },
@@ -144,12 +215,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Wolpi: A fast and extensible IIIF Image Server",
+            "homepage": null,
             "id": 1237675602,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2026-08-04T07:54:05Z",
+            "open_issues": 0,
             "owner": "dbmdz",
             "repo": "wolpi",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "iiif",
+              "iiif-image",
+              "iiif-server",
+              "wolpi"
+            ]
           },
           "first_seen": "2026-08-28T20:57:12.539Z"
         },
@@ -160,12 +241,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A project that demonstrates the use of AWS Batch to create IIIF tiles and manifests. It is used for VTDLP Derivative Service ",
+            "homepage": null,
             "id": 196035356,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-09-24T17:14:33Z",
+            "open_issues": 0,
             "owner": "vt-digital-libraries-platform",
             "repo": "aws-batch-iiif-generator",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "aws-batch",
+              "docker",
+              "iiif",
+              "iiif-image",
+              "iiif-s3-docker",
+              "iiif-tiles",
+              "lambda"
+            ]
           },
           "first_seen": "2026-08-28T20:57:12.539Z"
         },
@@ -176,12 +270,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A bigly good IIIF image server.",
+            "homepage": null,
             "id": 99807595,
             "language": "C#",
+            "license": "AGPL-3.0",
             "last_commit": "2023-08-30T14:32:29Z",
+            "open_issues": 6,
             "owner": "britishlibrary",
             "repo": "TremendousIIIF",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "iiif",
+              "iiif-image",
+              "kakadu"
+            ]
           },
           "first_seen": "2026-08-28T20:57:12.539Z"
         },
@@ -192,12 +295,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A IIIF server with vips image processing",
+            "homepage": "https://libops.github.io/triplet",
             "id": 1220890293,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-26T02:58:09Z",
+            "open_issues": 3,
             "owner": "libops",
             "repo": "triplet",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "docker",
+              "golang",
+              "iiif",
+              "iiif-image",
+              "iiif-image-api",
+              "iiif-presentation",
+              "iiif-presentation-3",
+              "libvips"
+            ]
           },
           "first_seen": "2026-08-28T20:57:12.539Z"
         },
@@ -208,12 +325,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rosa manuscript framework",
+            "homepage": null,
             "id": 11903740,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2014-09-05T19:29:40Z",
+            "open_issues": 1,
             "owner": "jhu-digital-manuscripts",
             "repo": "rosa",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:57:12.539Z"
         },
@@ -224,12 +346,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The first IIIF Image API 3.0 server for Cloudflare Workers — arbitrary region/size/rotation from R2, on a Worker you own",
+            "homepage": null,
             "id": 1314815156,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-31T10:28:57Z",
+            "open_issues": 0,
             "owner": "mkpoli",
             "repo": "iiif-worker",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "cloudflare-workers",
+              "iiif",
+              "iiif-image-api",
+              "image-processing",
+              "image-server",
+              "r2",
+              "webassembly"
+            ]
           },
           "first_seen": "2026-08-28T20:57:12.539Z"
         }
@@ -246,12 +381,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Flask-IIIF is permitting easy integration with the International Image Interoperability Framework (IIIF) API standards.",
+            "homepage": "https://flask-iiif.readthedocs.io",
             "id": 25472022,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-10T08:32:18Z",
+            "open_issues": 8,
             "owner": "inveniosoftware",
             "repo": "flask-iiif",
-            "stars": 27
+            "stars": 27,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:57:12.539Z"
         },
@@ -262,12 +402,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Djatoka image server helpers for Ruby and Rails.",
+            "homepage": "http://github.com/jronallo/djatoka",
             "id": 776662,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2015-11-04T14:26:40Z",
+            "open_issues": 0,
             "owner": "jronallo",
             "repo": "djatoka",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:57:12.539Z"
         },
@@ -278,12 +423,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 43436518,
             "language": "Ruby",
+            "license": "Unlicense",
             "last_commit": "2016-03-21T00:40:53Z",
+            "open_issues": 0,
             "owner": "mejackreed",
             "repo": "shimmy",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:57:12.539Z"
         },
@@ -294,12 +444,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "[MOVED to https://gitlab.com/iiiris-org/djiiif] Simple IIIF integration for Django.",
+            "homepage": "https://gitlab.com/iiiris-org/djiiif",
             "id": 107158583,
             "language": "Python",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-07-08T13:38:03Z",
+            "open_issues": 5,
             "owner": "rogerhoward",
             "repo": "djiiif",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "django",
+              "iiif"
+            ]
           },
           "first_seen": "2026-08-28T20:57:12.539Z"
         },
@@ -310,12 +468,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Validator for the Image API",
+            "homepage": "http://iiif.io/api/image/validator/",
             "id": 72156948,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2016-10-27T23:42:13Z",
+            "open_issues": 0,
             "owner": "azaroth42",
             "repo": "pi3f",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:57:12.539Z"
         }
@@ -332,12 +495,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Internet Archive BookReader",
+            "homepage": "https://openlibrary.org/dev/docs/bookreader",
             "id": 72221,
             "language": "JavaScript",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-18T06:10:05Z",
+            "open_issues": 288,
             "owner": "internetarchive",
             "repo": "bookreader",
-            "stars": 1174
+            "stars": 1174,
+            "topics": [
+              "bookreader",
+              "ebooks",
+              "hacktoberfest",
+              "internetarchive"
+            ]
           },
           "first_seen": "2026-08-28T20:57:12.539Z"
         },
@@ -348,12 +521,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TIFY is a slim and mobile-friendly IIIF document viewer.",
+            "homepage": null,
             "id": 85699528,
             "language": "JavaScript",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-28T11:28:56Z",
+            "open_issues": 25,
             "owner": "tify-iiif-viewer",
             "repo": "tify",
-            "stars": 130
+            "stars": 130,
+            "topics": [
+              "iiif"
+            ]
           },
           "first_seen": "2026-08-28T20:57:12.539Z"
         },
@@ -364,12 +544,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An awesome list for Mirador's projects and plugins.",
+            "homepage": null,
             "id": 90312063,
             "language": null,
+            "license": null,
             "last_commit": "2026-02-11T16:00:30Z",
+            "open_issues": 5,
             "owner": "ProjectMirador",
             "repo": "mirador-awesome",
-            "stars": 45
+            "stars": 45,
+            "topics": [
+              "awesome-list"
+            ]
           },
           "first_seen": "2026-08-28T20:57:12.539Z"
         },
@@ -380,12 +567,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A VUE IIIF viewer",
+            "homepage": null,
             "id": 788357292,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-06-05T05:58:58Z",
+            "open_issues": 0,
             "owner": "Systemik-Solutions",
             "repo": "glycerine-viewer",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:57:12.539Z"
         },
@@ -396,12 +588,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A lightweight IIIF viewer prioritising user experience for annotated resources",
+            "homepage": null,
             "id": 931701090,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-08-03T09:38:48Z",
+            "open_issues": 0,
             "owner": "tamerlaneviewer",
             "repo": "tamerlane",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "iiif-presentation-3",
+              "iiif-viewer",
+              "tamerlane",
+              "w3c-web-annotations"
+            ]
           },
           "first_seen": "2026-08-28T20:57:12.539Z"
         },
@@ -412,12 +614,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Forked From Mirador Viewer. Include now annotation on video support and annotation filtering ",
+            "homepage": "https://tetras-iiif.github.io/mirador-video/",
             "id": 756321922,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-20T13:55:45Z",
+            "open_issues": 9,
             "owner": "TETRAS-IIIF",
             "repo": "mirador-video",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "iiif",
+              "mirador",
+              "mirador4"
+            ]
           },
           "first_seen": "2026-08-28T20:57:12.539Z"
         },
@@ -428,12 +639,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Web-based 3D multi-resolution viewer with dynamic tiling for 2.5D surface data",
+            "homepage": "https://factumfoundation.xyz/tactum-viewer/",
             "id": 1290375721,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-29T13:39:43Z",
+            "open_issues": 5,
             "owner": "FactumFoundation",
             "repo": "tactum-viewer",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:57:12.539Z"
         },
@@ -446,12 +662,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Leaflet plugin for viewing IIIF images",
+                "homepage": "http://mejackreed.github.io/Leaflet-IIIF/examples/example.html",
                 "id": 27697854,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-03-09T14:30:45Z",
+                "open_issues": 16,
                 "owner": "mejackreed",
                 "repo": "Leaflet-IIIF",
-                "stars": 138
+                "stars": 138,
+                "topics": [
+                  "iiif",
+                  "iiif-image",
+                  "leaflet",
+                  "leaflet-iiif",
+                  "zoomable-images"
+                ]
               },
               "first_seen": "2026-08-28T20:57:12.539Z"
             },
@@ -462,12 +689,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[DEPRECATED] IIIF WebGL / Canvas / DOM mobile-ready fast viewer powered by OpenLayers V3",
+                "homepage": "http://klokantech.github.io/iiifviewer/",
                 "id": 23585369,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2019-06-25T10:15:46Z",
+                "open_issues": 5,
                 "owner": "klokantech",
                 "repo": "iiifviewer",
-                "stars": 53
+                "stars": 53,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:57:12.539Z"
             },
@@ -478,12 +710,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 13337305,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-07-20T16:45:41Z",
+                "open_issues": 1,
                 "owner": "msalsbery",
                 "repo": "OpenSeadragonImagingHelper",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:57:12.539Z"
             },
@@ -494,12 +731,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 456632854,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-14T15:55:04Z",
+                "open_issues": 7,
                 "owner": "digirati-co-uk",
                 "repo": "react-iiif-vault",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:57:12.539Z"
             },
@@ -515,12 +757,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 297984354,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2024-09-02T15:35:23Z",
+                    "open_issues": 9,
                     "owner": "vanda",
                     "repo": "curtain-viewer",
-                    "stars": 12
+                    "stars": 12,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:57:12.539Z"
                 },
@@ -531,12 +778,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "OpenSeadragon scalebar plugin",
+                    "homepage": null,
                     "id": 12565599,
                     "language": null,
+                    "license": "NOASSERTION",
                     "last_commit": "2016-04-13T15:36:55Z",
+                    "open_issues": 0,
                     "owner": "NIST-ISG",
                     "repo": "OpenSeadragonScalebar",
-                    "stars": 5
+                    "stars": 5,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:57:12.539Z"
                 }
@@ -560,12 +812,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "IIIF Image API reference implementation and Python library",
+            "homepage": null,
             "id": 3441836,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2021-05-05T18:49:30Z",
+            "open_issues": 11,
             "owner": "zimeon",
             "repo": "iiif",
-            "stars": 56
+            "stars": 56,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:57:12.539Z"
         },
@@ -576,12 +833,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This module provides a full-featured IIIF Image API 2.1 and 3.0 image processor. It covers only the image processing pipeline itself, leaving input and output to the caller.",
+            "homepage": null,
             "id": 160857213,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-10T15:30:50Z",
+            "open_issues": 3,
             "owner": "samvera",
             "repo": "node-iiif",
-            "stars": 33
+            "stars": 33,
+            "topics": [
+              "iiif",
+              "iiif-image",
+              "nodejs"
+            ]
           },
           "first_seen": "2026-08-28T20:57:12.539Z"
         },
@@ -592,12 +858,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Java Domain Models for all IIIF APIs",
+            "homepage": null,
             "id": 103931456,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2026-08-24T20:58:59Z",
+            "open_issues": 11,
             "owner": "dbmdz",
             "repo": "iiif-apis",
-            "stars": 30
+            "stars": 30,
+            "topics": [
+              "iiif",
+              "iiif-annotations",
+              "iiif-auth",
+              "iiif-image",
+              "iiif-presentation",
+              "iiif-search"
+            ]
           },
           "first_seen": "2026-08-28T20:57:12.539Z"
         },
@@ -608,12 +886,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Java based static IIIF tile generator",
+            "homepage": null,
             "id": 200942731,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2025-12-19T23:45:42Z",
+            "open_issues": 6,
             "owner": "glenrobson",
             "repo": "iiif-tiler",
-            "stars": 26
+            "stars": 26,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:57:12.539Z"
         },
@@ -624,12 +907,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PHP package for the IIIF Image API 3",
+            "homepage": "https://iiif.io/api/image/3.0/",
             "id": 134360793,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-06-22T14:22:26Z",
+            "open_issues": 4,
             "owner": "conlect",
             "repo": "image-iiif",
-            "stars": 20
+            "stars": 20,
+            "topics": [
+              "iiif",
+              "image",
+              "intervention-image",
+              "php"
+            ]
           },
           "first_seen": "2026-08-28T20:57:12.539Z"
         },
@@ -640,12 +933,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "python library for working with IIIF Image and Presentation APIs",
+            "homepage": null,
             "id": 64334467,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-15T14:25:06Z",
+            "open_issues": 9,
             "owner": "Princeton-CDH",
             "repo": "piffle",
-            "stars": 20
+            "stars": 20,
+            "topics": [
+              "iiif-image",
+              "python",
+              "python-library",
+              "python27",
+              "python3"
+            ]
           },
           "first_seen": "2026-08-28T20:57:12.539Z"
         },
@@ -656,12 +960,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "IIIF image API and Zoomify viewer for iOS, written in Swift",
+            "homepage": null,
             "id": 70103977,
             "language": "Swift",
+            "license": "Apache-2.0",
             "last_commit": "2018-04-23T06:20:46Z",
+            "open_issues": 3,
             "owner": "moravianlibrary",
             "repo": "iOSTiledViewer",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "iiif",
+              "ios-lib",
+              "swift-library",
+              "tiled-image-viewer",
+              "zoomify"
+            ]
           },
           "first_seen": "2026-08-28T20:57:12.539Z"
         },
@@ -672,12 +987,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Elixir plug implementing the IIIF image API specification.",
+            "homepage": null,
             "id": 950192138,
             "language": "Elixir",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-26T07:23:10Z",
+            "open_issues": 4,
             "owner": "dainst",
             "repo": "iiif_image_plug",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "elixir-lang",
+              "erlang",
+              "iiif",
+              "libvips"
+            ]
           },
           "first_seen": "2026-08-28T20:57:12.539Z"
         },
@@ -688,12 +1013,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create and parse IIIF Image API URLs",
+            "homepage": null,
             "id": 53760998,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2016-08-30T21:44:49Z",
+            "open_issues": 1,
             "owner": "NCSU-Libraries",
             "repo": "iiif_url",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:57:12.539Z"
         }
@@ -710,12 +1040,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Zoomable image downloader for Google Arts & Culture, Zoomify, IIIF, and others",
+            "homepage": "https://dezoomify-rs.ophir.dev",
             "id": 181247435,
             "language": "Rust",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-28T09:25:38Z",
+            "open_issues": 75,
             "owner": "lovasoa",
             "repo": "dezoomify-rs",
-            "stars": 1023
+            "stars": 1023,
+            "topics": [
+              "deepzoom",
+              "dezoomify",
+              "downloader",
+              "google-arts-culture",
+              "iiif",
+              "image",
+              "museum",
+              "piracy",
+              "zoomable-images",
+              "zoomify"
+            ]
           },
           "first_seen": "2026-08-28T20:57:12.539Z"
         },
@@ -726,12 +1072,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Command-line tile downloader/assembler for IIIF endpoints/manifests",
+            "homepage": null,
             "id": 39205588,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-04-08T08:32:14Z",
+            "open_issues": 4,
             "owner": "ryanfb",
             "repo": "iiif-dl",
-            "stars": 35
+            "stars": 35,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:57:12.539Z"
         },
@@ -742,12 +1093,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Stand-alone implementation of UCD's IIIF image re-formatting tool + plugin to integrate with Mirador IIIF-compliant image viewer",
+            "homepage": null,
             "id": 88861213,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-07-31T11:47:11Z",
+            "open_issues": 2,
             "owner": "jbhoward-dublin",
             "repo": "iiif-imageManipulation",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:57:12.539Z"
         },
@@ -758,12 +1114,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A lightweight Python 3 downloader for IIIF documents",
+            "homepage": null,
             "id": 947333303,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-19T19:23:42Z",
+            "open_issues": 0,
             "owner": "ClaudioMartino",
             "repo": "IIIF-Downloader",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "downloader",
+              "gui",
+              "iiif",
+              "iiif-image",
+              "scraping"
+            ]
           },
           "first_seen": "2026-08-28T20:57:12.539Z"
         }
@@ -780,12 +1147,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "IIIF Presentation API client and server utility library.",
+            "homepage": null,
             "id": 35223299,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-11T10:41:49Z",
+            "open_issues": 30,
             "owner": "IIIF-Commons",
             "repo": "manifesto",
-            "stars": 50
+            "stars": 50,
+            "topics": [
+              "iiif",
+              "iiif-presentation",
+              "nodejs",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T20:57:12.539Z"
         },
@@ -796,12 +1173,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "IIIF Presentation API 3 Python Library",
+            "homepage": "https://iiif-prezi.github.io/iiif-prezi3/",
             "id": 414971961,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-03T05:42:58Z",
+            "open_issues": 38,
             "owner": "iiif-prezi",
             "repo": "iiif-prezi3",
-            "stars": 41
+            "stars": 41,
+            "topics": [
+              "iiif",
+              "iiif-presentation",
+              "iiif-presentation-3"
+            ]
           },
           "first_seen": "2026-08-28T20:57:12.539Z"
         },
@@ -812,12 +1198,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "IIIF Presentation API implementation in Python",
+            "homepage": null,
             "id": 47895709,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-04-17T12:34:20Z",
+            "open_issues": 13,
             "owner": "iiif-prezi",
             "repo": "iiif-prezi",
-            "stars": 35
+            "stars": 35,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:57:12.539Z"
         },
@@ -828,12 +1219,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "IIIF Presentation API for Ruby",
+            "homepage": null,
             "id": 26245866,
             "language": "Ruby",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-08-17T19:08:01Z",
+            "open_issues": 28,
             "owner": "iiif-prezi",
             "repo": "osullivan",
-            "stars": 33
+            "stars": 33,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:57:12.539Z"
         },
@@ -844,12 +1240,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Java Domain Models for all IIIF APIs",
+            "homepage": null,
             "id": 103931456,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2026-08-24T20:58:59Z",
+            "open_issues": 11,
             "owner": "dbmdz",
             "repo": "iiif-apis",
-            "stars": 30
+            "stars": 30,
+            "topics": [
+              "iiif",
+              "iiif-annotations",
+              "iiif-auth",
+              "iiif-image",
+              "iiif-presentation",
+              "iiif-search"
+            ]
           },
           "first_seen": "2026-08-28T20:57:12.539Z"
         },
@@ -860,12 +1268,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PHP library to generate Manifest files",
+            "homepage": null,
             "id": 68936685,
             "language": "PHP",
+            "license": "GPL-3.0",
             "last_commit": "2026-01-28T01:01:12Z",
+            "open_issues": 3,
             "owner": "yale-web-technologies",
             "repo": "IIIF-Manifest-Generator",
-            "stars": 23
+            "stars": 23,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:57:12.539Z"
         },
@@ -876,12 +1289,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python module for easing the construction of JSON manifests compliant with IIIF API 3.0.",
+            "homepage": null,
             "id": 333341052,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-01-21T16:03:27Z",
+            "open_issues": 2,
             "owner": "giacomomarchioro",
             "repo": "pyIIIFpres",
-            "stars": 20
+            "stars": 20,
+            "topics": [
+              "api3",
+              "iiif",
+              "iiif-presentation",
+              "python3"
+            ]
           },
           "first_seen": "2026-08-28T20:57:12.539Z"
         },
@@ -892,12 +1315,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "IIIF Presentation 2, 3 + 4 parser",
+            "homepage": null,
             "id": 446212239,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-26T10:07:01Z",
+            "open_issues": 14,
             "owner": "IIIF-Commons",
             "repo": "parser",
-            "stars": 19
+            "stars": 19,
+            "topics": [
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T20:57:12.539Z"
         },
@@ -908,12 +1338,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 461302875,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2024-02-12T15:56:25Z",
+            "open_issues": 7,
             "owner": "IIIF-Commons",
             "repo": "iiif-builder",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:57:12.539Z"
         },
@@ -924,12 +1359,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A developer-friendly collection of abstractions and utilities built on top of @iiif/presentation-3 and @iiif/parser.",
+            "homepage": null,
             "id": 932670938,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-11T08:36:08Z",
+            "open_issues": 0,
             "owner": "rsimon",
             "repo": "cozy-iiif",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:57:12.539Z"
         },
@@ -940,12 +1380,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Java IIIF Presentation library",
+            "homepage": null,
             "id": 100548178,
             "language": null,
+            "license": "BSD-3-Clause",
             "last_commit": "2026-07-10T01:52:45Z",
+            "open_issues": 3,
             "owner": "ksclarke",
             "repo": "jiiify-presentation",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "code4lib",
+              "iiif",
+              "iiif-presentation",
+              "java"
+            ]
           },
           "first_seen": "2026-08-28T20:57:12.539Z"
         },
@@ -956,12 +1406,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Wraps Manifesto to provide viewer state and related utilities",
+            "homepage": null,
             "id": 60095668,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-04-23T10:29:36Z",
+            "open_issues": 10,
             "owner": "IIIF-Commons",
             "repo": "manifold",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "iiif",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T20:57:12.539Z"
         },
@@ -972,12 +1430,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tiny authoring tool for IIIF manifests with the function of serving as a IIIF Image hosting service.",
+            "homepage": null,
             "id": 672206821,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-08-02T21:29:11Z",
+            "open_issues": 0,
             "owner": "yuta1984",
             "repo": "tiny-iiif-manifest-authoring-tool",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:57:12.539Z"
         },
@@ -988,12 +1451,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 699530392,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-10T15:59:23Z",
+            "open_issues": 13,
             "owner": "IIIF-Commons",
             "repo": "iiif-helpers",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:57:12.539Z"
         },
@@ -1004,12 +1472,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "IIIF tree menu sortable by date with multi-select capability",
+            "homepage": null,
             "id": 59562547,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-07-03T13:09:44Z",
+            "open_issues": 7,
             "owner": "IIIF-Commons",
             "repo": "iiif-tree-component",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:57:12.539Z"
         },
@@ -1020,12 +1493,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A IIIF library for Swift",
+            "homepage": null,
             "id": 120544521,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2018-02-07T01:13:52Z",
+            "open_issues": 0,
             "owner": "mejackreed",
             "repo": "Swiiift",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:57:12.539Z"
         }
@@ -1042,12 +1520,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 43436518,
             "language": "Ruby",
+            "license": "Unlicense",
             "last_commit": "2016-03-21T00:40:53Z",
+            "open_issues": 0,
             "owner": "mejackreed",
             "repo": "shimmy",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:57:12.539Z"
         },
@@ -1058,12 +1541,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Validator for the Presentation API",
+            "homepage": "http://iiif.io/api/presentation/validator/",
             "id": 72157268,
             "language": "HTML",
+            "license": null,
             "last_commit": "2016-10-27T23:47:51Z",
+            "open_issues": 0,
             "owner": "azaroth42",
             "repo": "presentation-api-shims",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:57:12.539Z"
         }
@@ -1080,12 +1568,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Organise your files according to a simple naming convention to generate IIIF Presentation API json using nodejs (Dat and IPFS compatible)",
+            "homepage": null,
             "id": 111013903,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-01-09T14:16:02Z",
+            "open_issues": 23,
             "owner": "IIIF-Commons",
             "repo": "biiif",
-            "stars": 94
+            "stars": 94,
+            "topics": [
+              "iiif",
+              "nodejs"
+            ]
           },
           "first_seen": "2026-08-28T20:57:12.539Z"
         },
@@ -1096,12 +1592,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Bodleian's IIIF Manifest Editor",
+            "homepage": "http://dmt.bodleian.ox.ac.uk/",
             "id": 59294405,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-03-01T10:11:47Z",
+            "open_issues": 23,
             "owner": "bodleian",
             "repo": "iiif-manifest-editor",
-            "stars": 84
+            "stars": 84,
+            "topics": [
+              "iiif",
+              "images",
+              "manuscripts"
+            ]
           },
           "first_seen": "2026-08-28T20:57:12.539Z"
         },
@@ -1112,12 +1617,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create PDFs from IIIF manifests, completely client-side (with server-based fallback for unsupported browsers)",
+            "homepage": null,
             "id": 295329463,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-10-04T23:47:48Z",
+            "open_issues": 8,
             "owner": "jbaiter",
             "repo": "pdiiif",
-            "stars": 50
+            "stars": 50,
+            "topics": [
+              "iiif",
+              "ocr",
+              "pdf-generation"
+            ]
           },
           "first_seen": "2026-08-28T20:57:12.539Z"
         },
@@ -1128,12 +1642,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create new IIIF Manifests. Modify existing manifests. Tell stories with IIIF. Read the docs: https://manifest-editor-docs.netlify.app/",
+            "homepage": "https://manifest-editor.digirati.services/",
             "id": 405131946,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-25T16:28:31Z",
+            "open_issues": 62,
             "owner": "digirati-co-uk",
             "repo": "iiif-manifest-editor",
-            "stars": 45
+            "stars": 45,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:57:12.539Z"
         },
@@ -1144,12 +1663,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Web service for creating and hosting IIIF manifests from METS/MODS documents",
+            "homepage": "https://demetsiiify.jbaiter.de",
             "id": 77155925,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2022-12-08T02:56:28Z",
+            "open_issues": 16,
             "owner": "jbaiter",
             "repo": "demetsiiify",
-            "stars": 36
+            "stars": 36,
+            "topics": [
+              "iiif",
+              "iiif-annotations",
+              "iiif-image",
+              "iiif-presentation",
+              "mets",
+              "mods"
+            ]
           },
           "first_seen": "2026-08-28T20:57:12.539Z"
         },
@@ -1160,12 +1691,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Export IIIF collections from Tropy",
+            "homepage": null,
             "id": 692203803,
             "language": "JavaScript",
+            "license": "AGPL-3.0",
             "last_commit": "2025-08-27T17:32:42Z",
+            "open_issues": 7,
             "owner": "arkalab",
             "repo": "tropiiify",
-            "stars": 30
+            "stars": 30,
+            "topics": [
+              "iiif",
+              "tropy-plugin"
+            ]
           },
           "first_seen": "2026-08-28T20:57:12.539Z"
         },
@@ -1176,12 +1715,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A CLI tool that generates IIIF Presentation 2.1 Manifests from METS/MODS",
+            "homepage": null,
             "id": 108101992,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2025-04-17T11:14:22Z",
+            "open_issues": 1,
             "owner": "ubleipzig",
             "repo": "iiif-producer",
-            "stars": 24
+            "stars": 24,
+            "topics": [
+              "iiif",
+              "java",
+              "json",
+              "xml"
+            ]
           },
           "first_seen": "2026-08-28T20:57:12.539Z"
         },
@@ -1192,12 +1741,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Brif is a boilerplate tool based on Docker and FastAPI, designed to streamline the development and deployment of IIIF compliant platforms.",
+            "homepage": "https://brif.muzai.io/demo",
             "id": 455209787,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-05-27T20:28:47Z",
+            "open_issues": 1,
             "owner": "pierrz",
             "repo": "brif",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "celery",
+              "docker-compose",
+              "fastapi",
+              "iiif",
+              "python3"
+            ]
           },
           "first_seen": "2026-08-28T20:57:12.539Z"
         },
@@ -1208,12 +1768,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 210875314,
             "language": "PHP",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-28T07:59:19Z",
+            "open_issues": 1,
             "owner": "LeidenUniversityLibrary",
             "repo": "islandora_iiif_manifests",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:57:12.539Z"
         }
@@ -1230,12 +1795,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 448716810,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-01-22T11:10:21Z",
+            "open_issues": 0,
             "owner": "IIIF-Commons",
             "repo": "vault",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:57:12.539Z"
         }
@@ -1252,12 +1822,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create new IIIF Manifests. Modify existing manifests. Tell stories with IIIF. Read the docs: https://manifest-editor-docs.netlify.app/",
+            "homepage": "https://manifest-editor.digirati.services/",
             "id": 405131946,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-25T16:28:31Z",
+            "open_issues": 62,
             "owner": "digirati-co-uk",
             "repo": "iiif-manifest-editor",
-            "stars": 45
+            "stars": 45,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:57:12.539Z"
         }
@@ -1274,12 +1849,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rails application supporting the creation of OCR and the IIIF Content Search API",
+            "homepage": null,
             "id": 67962976,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2022-12-14T04:41:29Z",
+            "open_issues": 21,
             "owner": "NCSU-Libraries",
             "repo": "ocracoke",
-            "stars": 33
+            "stars": 33,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:57:12.539Z"
         },
@@ -1290,12 +1870,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple IIIF Search service for OCRed texts",
+            "homepage": null,
             "id": 179324514,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2020-12-16T13:06:55Z",
+            "open_issues": 11,
             "owner": "mbennett-uoe",
             "repo": "whiiif",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:57:12.539Z"
         },
@@ -1306,12 +1891,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Blacklight IIIF Content Search plugin",
+            "homepage": null,
             "id": 128404223,
             "language": "Ruby",
+            "license": "NOASSERTION",
             "last_commit": "2026-03-17T16:37:01Z",
+            "open_issues": 6,
             "owner": "boston-library",
             "repo": "blacklight_iiif_search",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:57:12.539Z"
         },
@@ -1322,12 +1912,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "W3C web annotation search using the IIIF content search API",
+            "homepage": null,
             "id": 880942245,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-05-05T14:21:32Z",
+            "open_issues": 2,
             "owner": "nationalarchives",
             "repo": "annosearch",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "iiif-search",
+              "w3c-web-annotations"
+            ]
           },
           "first_seen": "2026-08-28T20:57:12.539Z"
         }
@@ -1344,12 +1942,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple IIIF image server with authentication server.",
+            "homepage": null,
             "id": 196552814,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2019-07-15T15:49:00Z",
+            "open_issues": 0,
             "owner": "robcast",
             "repo": "iiif-image-auth",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:57:12.539Z"
         },
@@ -1360,12 +1963,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "IIIF Authorization Flow 2.0 Client Demo",
+            "homepage": "https://tomcrane.github.io/iiif-auth-client/?collection=https://iiif-auth2-server.herokuapp.com/collection.json",
             "id": 351777678,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-03-26T12:56:58Z",
+            "open_issues": 1,
             "owner": "tomcrane",
             "repo": "iiif-auth-client",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:57:12.539Z"
         },
@@ -1376,12 +1984,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Demo server implementation of IIIF Auth",
+            "homepage": "https://iiifauth.digtest.co.uk/",
             "id": 351723200,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2024-03-12T18:16:44Z",
+            "open_issues": 1,
             "owner": "tomcrane",
             "repo": "iiif-auth-server",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:57:12.539Z"
         }
@@ -1398,12 +2011,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "IIIF experiments with Gallica content",
+            "homepage": "http://altomator.github.io/IIIF/",
             "id": 338267338,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2025-11-16T15:54:59Z",
+            "open_issues": 0,
             "owner": "altomator",
             "repo": "IIIF",
-            "stars": 33
+            "stars": 33,
+            "topics": [
+              "gallica",
+              "iiif",
+              "mirador"
+            ]
           },
           "first_seen": "2026-08-28T20:57:12.539Z"
         },
@@ -1414,12 +2036,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Supports de l'atelier IIIF animé lors de la conférence #DHNord2020 le mercredi 18 novembre 2020",
+            "homepage": null,
             "id": 313716548,
             "language": null,
+            "license": null,
             "last_commit": "2020-11-18T08:33:44Z",
+            "open_issues": 0,
             "owner": "regisrob",
             "repo": "Atelier_IIIF_Conference_DHNord_2020",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "demo",
+              "iiif",
+              "tutorial"
+            ]
           },
           "first_seen": "2026-08-28T20:57:12.539Z"
         }
@@ -1436,12 +2067,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An IIIF Universe for IIIF catalogs",
+            "homepage": "http://ryanfb.github.io/iiif-universe/iiif-universe.json",
             "id": 39510411,
             "language": "Ruby",
+            "license": null,
             "last_commit": "2026-05-08T10:31:29Z",
+            "open_issues": 5,
             "owner": "ryanfb",
             "repo": "iiif-universe",
-            "stars": 27
+            "stars": 27,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:57:12.539Z"
         },
@@ -1452,12 +2088,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "iNQUIRE is a digital research platform, designed to surface any digital repository using any metadata schema. Coded in HTML5, and leveraging the power of a Solr index via RESTful requests, it's a customisable framework designed to fast-track your digital access ambitions, whatever file formats, schemas and repositories you use. Now supporting IIIF.",
+            "homepage": null,
             "id": 58231802,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-03-03T03:09:08Z",
+            "open_issues": 5,
             "owner": "armadillo-systems",
             "repo": "inquire",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:57:12.539Z"
         },
@@ -1470,12 +2111,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Firefox/Chrome extension to open IIIF manifest link in your favorite IIIF viewer.",
+                "homepage": null,
                 "id": 114815250,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2022-07-09T18:30:10Z",
+                "open_issues": 2,
                 "owner": "2SC1815J",
                 "repo": "open-in-iiif-viewer",
-                "stars": 22
+                "stars": 22,
+                "topics": [
+                  "chrome",
+                  "firefox",
+                  "iiif",
+                  "webextension",
+                  "webextensions"
+                ]
               },
               "first_seen": "2026-08-28T20:57:12.539Z"
             },
@@ -1486,12 +2138,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Share a view of a IIIF document with a short link",
+                "homepage": "https://iiif.link",
                 "id": 299343795,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2026-05-24T08:31:43Z",
+                "open_issues": 0,
                 "owner": "atomotic",
                 "repo": "iiif.link",
-                "stars": 14
+                "stars": 14,
+                "topics": [
+                  "iiif",
+                  "tify"
+                ]
               },
               "first_seen": "2026-08-28T20:57:12.539Z"
             }
@@ -1513,12 +2173,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A semantic image annotation tool for researchers, digital humanists and cultural heritage professionals.",
+            "homepage": "https://immarkus.xmarkus.org",
             "id": 684524371,
             "language": "TypeScript",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-11T08:40:36Z",
+            "open_issues": 16,
             "owner": "rsimon",
             "repo": "immarkus",
-            "stars": 63
+            "stars": 63,
+            "topics": [
+              "annotation",
+              "iiif",
+              "image-annotation"
+            ]
           },
           "first_seen": "2026-08-28T20:57:12.539Z"
         },
@@ -1529,12 +2198,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tool for real-time collaborative IIIF image annotation.",
+            "homepage": null,
             "id": 1139700191,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-04-18T07:28:23Z",
+            "open_issues": 0,
             "owner": "rsimon",
             "repo": "liiive",
-            "stars": 50
+            "stars": 50,
+            "topics": [
+              "annotation",
+              "iiif",
+              "image-annotation",
+              "image-annotation-tool",
+              "yjs"
+            ]
           },
           "first_seen": "2026-08-28T20:57:12.539Z"
         },
@@ -1545,12 +2225,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "IIIF Examples and useful code",
+            "homepage": "https://glenrobson.github.io/iiif_stuff/",
             "id": 88563033,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2025-09-10T05:24:25Z",
+            "open_issues": 0,
             "owner": "glenrobson",
             "repo": "iiif_stuff",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:57:12.539Z"
         },
@@ -1561,12 +2246,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Search for images based on their annotations",
+            "homepage": "https://annocoda.onrender.com",
             "id": 608814094,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-10-23T10:43:14Z",
+            "open_issues": 2,
             "owner": "jptmoore",
             "repo": "annocoda",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "annocoda",
+              "annotation",
+              "iiif",
+              "search"
+            ]
           },
           "first_seen": "2026-08-28T20:57:12.539Z"
         },
@@ -1579,12 +2274,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple IIIF and Mirador compatible Annotation Server",
+                "homepage": null,
                 "id": 38398489,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-03-01T23:00:38Z",
+                "open_issues": 25,
                 "owner": "glenrobson",
                 "repo": "SimpleAnnotationServer",
-                "stars": 104
+                "stars": 104,
+                "topics": [
+                  "annotation-server",
+                  "iiif",
+                  "iiif-search"
+                ]
               },
               "first_seen": "2026-08-28T20:57:12.539Z"
             },
@@ -1595,12 +2299,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A W3C and OA compliant Web Annotation server",
+                "homepage": "https://dlcs.info/features.html",
                 "id": 75723141,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2022-01-04T16:32:58Z",
+                "open_issues": 24,
                 "owner": "dlcs",
                 "repo": "elucidate-server",
-                "stars": 55
+                "stars": 55,
+                "topics": [
+                  "annotations",
+                  "dlcs",
+                  "elucidate",
+                  "elucidate-server",
+                  "java",
+                  "json-ld",
+                  "oa",
+                  "open-annotation",
+                  "w3c",
+                  "w3c-annotations",
+                  "web-annotation",
+                  "web-annotation-protocol"
+                ]
               },
               "first_seen": "2026-08-28T20:57:12.539Z"
             },
@@ -1611,12 +2333,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A web annotation server built with the same principles as Git",
+                "homepage": null,
                 "id": 384707134,
                 "language": "OCaml",
+                "license": "MIT",
                 "last_commit": "2026-04-30T14:47:46Z",
+                "open_issues": 0,
                 "owner": "nationalarchives",
                 "repo": "miiify",
-                "stars": 48
+                "stars": 48,
+                "topics": [
+                  "annotations",
+                  "git",
+                  "iiif",
+                  "irmin",
+                  "miiify",
+                  "ocaml",
+                  "web",
+                  "web-annotation"
+                ]
               },
               "first_seen": "2026-08-28T20:57:12.539Z"
             },
@@ -1627,12 +2363,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A MongoDB implementation of the W3C Web Annotation Protocol ",
+                "homepage": null,
                 "id": 41886131,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-06-03T22:43:27Z",
+                "open_issues": 7,
                 "owner": "azaroth42",
                 "repo": "MangoServer",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "annotations",
+                  "standards",
+                  "w3c"
+                ]
               },
               "first_seen": "2026-08-28T20:57:12.539Z"
             },
@@ -1643,12 +2388,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "iiif static annotations via Jekyll. This code is out of date. This repo is not annonatate, if that is what you are looking for, the code is located here: https://github.com/dnoneill/annonatate-sourcecode",
+                "homepage": "https://dnoneill.github.io/annotate/",
                 "id": 151466764,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2024-06-05T14:36:53Z",
+                "open_issues": 0,
                 "owner": "dnoneill",
                 "repo": "annotate",
-                "stars": 16
+                "stars": 16,
+                "topics": [
+                  "annotation-server",
+                  "annotations",
+                  "iiif",
+                  "iiif-annotations"
+                ]
               },
               "first_seen": "2026-08-28T20:57:12.539Z"
             },
@@ -1659,12 +2414,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lightweight and fast IIIF annotation server compatible with Mirador 4",
+                "homepage": null,
                 "id": 1013238172,
                 "language": "JavaScript",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-07-07T16:07:31Z",
+                "open_issues": 0,
                 "owner": "Aikon-platform",
                 "repo": "aiiinotate",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:57:12.539Z"
             },
@@ -1675,12 +2435,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple annotations in Rails",
+                "homepage": null,
                 "id": 121975191,
                 "language": "Ruby",
+                "license": "NOASSERTION",
                 "last_commit": "2025-11-25T18:05:30Z",
+                "open_issues": 2,
                 "owner": "PenguinParadigm",
                 "repo": "annotot",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:57:12.539Z"
             },
@@ -1691,12 +2456,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "IIIF annotations JS client on top of IPFS",
+                "homepage": null,
                 "id": 89004289,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-05-01T08:39:35Z",
+                "open_issues": 4,
                 "owner": "ipfs-shipyard",
                 "repo": "ipfs-iiif-db",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:57:12.539Z"
             },
@@ -1707,12 +2477,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "annotation storage backend",
+                "homepage": null,
                 "id": 98905832,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-08-24T21:53:16Z",
+                "open_issues": 1,
                 "owner": "nmaekawa",
                 "repo": "catchpy",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:57:12.539Z"
             },
@@ -1723,12 +2498,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Source code for the Europeana Annotations API.",
+                "homepage": "https://pro.europeana.eu/resources/apis/annotations",
                 "id": 15039917,
                 "language": "Java",
+                "license": "EUPL-1.2",
                 "last_commit": "2026-06-26T21:23:13Z",
+                "open_issues": 12,
                 "owner": "europeana",
                 "repo": "annotation",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "annotation",
+                  "api",
+                  "code4lib",
+                  "cultural-heritage",
+                  "europeana"
+                ]
               },
               "first_seen": "2026-08-28T20:57:12.539Z"
             }
@@ -1746,12 +2532,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mirador IIIF Viewer packaged as a desktop app with an embedded annotation endpoint",
+                "homepage": null,
                 "id": 145458279,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2019-03-11T19:58:08Z",
+                "open_issues": 0,
                 "owner": "atomotic",
                 "repo": "iiif-annotation-studio",
-                "stars": 15
+                "stars": 15,
+                "topics": [
+                  "annotations",
+                  "iiif",
+                  "mirador",
+                  "mirador-viewer"
+                ]
               },
               "first_seen": "2026-08-28T20:57:12.539Z"
             },
@@ -1762,12 +2558,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mirador annotation Editor - Mirador 4 Plugin - Editor of IIIF annotations ",
+                "homepage": "https://tetras-iiif.github.io/mirador-annotation-editor/",
                 "id": 756274342,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-20T12:25:40Z",
+                "open_issues": 13,
                 "owner": "TETRAS-IIIF",
                 "repo": "mirador-annotation-editor",
-                "stars": 11
+                "stars": 11,
+                "topics": [
+                  "iiif",
+                  "mirador",
+                  "mirador-plugins",
+                  "mirador4"
+                ]
               },
               "first_seen": "2026-08-28T20:57:12.539Z"
             }
@@ -1789,12 +2595,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Embed Mirador in Omeka Classic 2.3+ for building rich IIIF-compliant exhibits",
+            "homepage": null,
             "id": 95489693,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2024-11-08T20:31:44Z",
+            "open_issues": 3,
             "owner": "utlib",
             "repo": "IiifItems",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:57:12.539Z"
         },
@@ -1805,12 +2616,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Omeka S module that integrates Mirador, an advanced viewer, in order to display one or multiple images, local or remote, via the IIIF standard.",
+            "homepage": null,
             "id": 165929160,
             "language": "PHP",
+            "license": "NOASSERTION",
             "last_commit": "2026-05-23T14:32:50Z",
+            "open_issues": 3,
             "owner": "Daniel-KM",
             "repo": "Omeka-S-module-Mirador",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "iiif",
+              "mirador",
+              "omeka-s",
+              "omeka-s-module",
+              "viewer"
+            ]
           },
           "first_seen": "2026-08-28T20:57:12.539Z"
         }
@@ -1827,12 +2649,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mirador 3 extension to MediaWiki",
+            "homepage": null,
             "id": 553149439,
             "language": "JavaScript",
+            "license": "GPL-2.0",
             "last_commit": "2026-06-23T22:51:23Z",
+            "open_issues": 0,
             "owner": "a-g-van-hamel-foundation",
             "repo": "Mirador",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "iiif",
+              "mediawiki-extension",
+              "mirador",
+              "mirador-3"
+            ]
           },
           "first_seen": "2026-08-28T20:57:12.539Z"
         }
@@ -1849,12 +2681,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Turn a folder of images into a working IIIF setup – in a minute or less!",
+            "homepage": "https://tiny-iiif.org",
             "id": 1139024643,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-03-24T11:57:37Z",
+            "open_issues": 10,
             "owner": "rsimon",
             "repo": "tiny-iiif",
-            "stars": 63
+            "stars": 63,
+            "topics": [
+              "deepzoom",
+              "iiif",
+              "iiif-image",
+              "iiif-image-api",
+              "iiif-presentation",
+              "managed-hosting",
+              "self-hosting",
+              "zoomable-images"
+            ]
           },
           "first_seen": "2026-08-28T20:57:12.539Z"
         }
@@ -1871,12 +2717,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple IIIF and Mirador compatible Annotation Server",
+            "homepage": null,
             "id": 38398489,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-03-01T23:00:38Z",
+            "open_issues": 25,
             "owner": "glenrobson",
             "repo": "SimpleAnnotationServer",
-            "stars": 104
+            "stars": 104,
+            "topics": [
+              "annotation-server",
+              "iiif",
+              "iiif-search"
+            ]
           },
           "first_seen": "2026-08-28T20:57:12.539Z"
         },
@@ -1887,12 +2742,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open ONI (Open Online Newspaper Initiative) Django web app",
+            "homepage": "https://open-oni.github.io/",
             "id": 39592974,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-10T21:39:28Z",
+            "open_issues": 88,
             "owner": "open-oni",
             "repo": "open-oni",
-            "stars": 56
+            "stars": 56,
+            "topics": [
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T20:57:12.539Z"
         },
@@ -1903,12 +2765,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "convert NDNP data to IIIF",
+            "homepage": "http://umd-mith.github.io/ndnp_iiif/",
             "id": 42963679,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2016-06-07T21:16:37Z",
+            "open_issues": 5,
             "owner": "umd-mith",
             "repo": "ndnp_iiif",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:57:12.539Z"
         }
@@ -1925,12 +2792,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Brif is a boilerplate tool based on Docker and FastAPI, designed to streamline the development and deployment of IIIF compliant platforms.",
+            "homepage": "https://brif.muzai.io/demo",
             "id": 455209787,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-05-27T20:28:47Z",
+            "open_issues": 1,
             "owner": "pierrz",
             "repo": "brif",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "celery",
+              "docker-compose",
+              "fastapi",
+              "iiif",
+              "python3"
+            ]
           },
           "first_seen": "2026-08-28T20:57:12.539Z"
         },
@@ -1941,12 +2819,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "IIIF API for Invenio.",
+            "homepage": "https://invenio-iiif.readthedocs.io",
             "id": 128040666,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-06-11T03:45:31Z",
+            "open_issues": 6,
             "owner": "inveniosoftware",
             "repo": "invenio-iiif",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:57:12.539Z"
         }
@@ -1955,15 +2838,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T20:57:12.539Z",
+    "last_updated": "2026-08-29T04:40:03.979Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Awesome IIIF-related resources",
+      "homepage": "https://iiif.github.io/awesome-iiif/",
       "id": 58644759,
       "language": null,
+      "license": null,
       "last_commit": "2026-08-19T12:36:39Z",
+      "open_issues": 14,
       "owner": "IIIF",
       "repo": "awesome-iiif",
-      "stars": 560
+      "stars": 560,
+      "topics": [
+        "awesome-list",
+        "community",
+        "iiif",
+        "iiif-apis",
+        "iiif-image",
+        "iiif-presentations"
+      ]
     },
     "original_repository_sha": "c60d10a7b57069f62fcc6e8dcd9dfd56d6278c2f",
     "enhanced_repository": "enhansome/enhansome-iiif",
