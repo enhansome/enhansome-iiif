@@ -147,7 +147,7 @@
             "id": 54192472,
             "language": "C++",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-05T11:38:18Z",
+            "last_commit": "2026-09-06T08:49:03Z",
             "open_issues": 7,
             "owner": "dasch-swiss",
             "repo": "sipi",
@@ -2838,7 +2838,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T12:49:19.823Z",
+    "last_updated": "2026-09-06T12:56:00.024Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome IIIF-related resources",
