@@ -1046,7 +1046,7 @@
             "language": "Rust",
             "license": "GPL-3.0",
             "last_commit": "2026-09-04T11:29:34Z",
-            "open_issues": 74,
+            "open_issues": 75,
             "owner": "lovasoa",
             "repo": "dezoomify-rs",
             "stars": 1029,
@@ -2838,7 +2838,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T12:56:00.024Z",
+    "last_updated": "2026-09-07T15:06:37.341Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome IIIF-related resources",
