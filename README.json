@@ -147,7 +147,7 @@
             "id": 54192472,
             "language": "C++",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-06T08:49:03Z",
+            "last_commit": "2026-09-08T11:28:35Z",
             "open_issues": 7,
             "owner": "dasch-swiss",
             "repo": "sipi",
@@ -2423,7 +2423,7 @@
                 "open_issues": 0,
                 "owner": "Aikon-platform",
                 "repo": "aiiinotate",
-                "stars": 12,
+                "stars": 13,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:12.539Z"
@@ -2838,7 +2838,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T15:06:37.341Z",
+    "last_updated": "2026-09-08T13:42:18.389Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome IIIF-related resources",

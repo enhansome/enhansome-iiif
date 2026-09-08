@@ -95,7 +95,7 @@ These servers support the IIIF Image API. Some may also have support for the Pre
 * [go-iiif](https://github.com/thisisaaronland/go-iiif) ⭐ 98 | 🐛 51 | 🌐 Go | 📅 2026-09-02 - IIIF server written in go (fork of [greut/iiif](https://github.com/greut/iiif) ⭐ 11 | 🐛 3 | 🌐 Go | 📅 2021-02-15).
 * [RAIS](https://github.com/uoregon-libraries/rais-image-server) ⭐ 84 | 🐛 10 | 🌐 Go | 📅 2026-06-16 - 100% open source tile server for JP2 images written in Go.
 * [riiif](https://github.com/curationexperts/riiif) ⭐ 40 | 🐛 19 | 🌐 Ruby | 📅 2026-06-22 - Written in Ruby as a Rails engine.
-* [SIPI](https://github.com/dasch-swiss/sipi) ⭐ 38 | 🐛 7 | 🌐 C++ | 📅 2026-09-06 - IIIFv3 image server written in C++.
+* [SIPI](https://github.com/dasch-swiss/sipi) ⭐ 38 | 🐛 7 | 🌐 C++ | 📅 2026-09-08 - IIIFv3 image server written in C++.
 * [Hymir IIIF Server](https://github.com/dbmdz/iiif-server-hymir) ⚠️ Archived - IIIF server written in Java supporting IIIF Image and Presentation API.
 * [iiif\_s3](https://github.com/cmoa/iiif_s3) ⭐ 31 | 🐛 2 | 🌐 Ruby | 📅 2017-11-26 - Ruby library for generating a static IIIF level 0 Image and Presentation API server on Amazon S3.
 * [Wolpi](https://github.com/dbmdz/wolpi) ⭐ 18 | 🐛 0 | 🌐 Java | 📅 2026-08-04 - A fast and extensible IIIF Image API 2.1 + 3.0 image server based on libvips, supporting Python and JavaScript extensions.
@@ -263,7 +263,7 @@ Libraries and applications that support the Content Search API.
 
 * [Ocracoke](https://github.com/NCSU-Libraries/ocracoke) ⭐ 33 | 🐛 21 | 🌐 Ruby | 📅 2022-12-14 - Rails application to create, index, and search text from page images and provide results in IIIF Content Search API format.
 * [Whiiif](https://github.com/mbennett-uoe/whiiif) ⭐ 17 | 🐛 11 | 🌐 Python | 📅 2020-12-16 - Python/Flask/Solr application to index IIIF manifests alongside ALTO representations and provide a IIIF Content Search API endpoint.
-* [Blacklight IIIF Search](https://github.com/boston-library/blacklight_iiif_search) ⭐ 15 | 🐛 6 | 🌐 Ruby | 📅 2026-03-17 - Plugin that provides IIIF Content Search functionality for [Blacklight](https://github.com/projectblacklight/blacklight) ⭐ 793 | 🐛 198 | 🌐 Ruby | 📅 2026-09-07-based Rails applications.
+* [Blacklight IIIF Search](https://github.com/boston-library/blacklight_iiif_search) ⭐ 15 | 🐛 6 | 🌐 Ruby | 📅 2026-03-17 - Plugin that provides IIIF Content Search functionality for [Blacklight](https://github.com/projectblacklight/blacklight) ⭐ 793 | 🐛 197 | 🌐 Ruby | 📅 2026-09-08-based Rails applications.
 * [Annosearch](https://github.com/nationalarchives/annosearch) ⭐ 8 | 🐛 2 | 🌐 TypeScript | 📅 2026-05-05 - TypeScript tool from The National Archives that indexes W3C Web Annotations from IIIF collections and annotation servers (e.g. Miiify) using Quickwit, exposing them via a IIIF Content Search 2.0 API endpoint.
 
 ## Authentication
@@ -352,7 +352,7 @@ Links to help you discover IIIF resources that have been shared, demonstrations 
 * [Miiify](https://github.com/nationalarchives/miiify) ⭐ 48 | 🐛 0 | 🌐 OCaml | 📅 2026-04-30 - Light-weight annotation server built on the same principles as Git.
 * [MangoServer](https://github.com/azaroth42/MangoServer) ⭐ 18 | 🐛 7 | 🌐 Python | 📅 2022-06-03\[deprecated] - Mongo-backed annotation server written in Python.
 * [Local IIIF Annotation Server](https://github.com/dnoneill/annotate) ⭐ 16 | 🐛 0 | 🌐 HTML | 📅 2024-06-05\[deprecated] - Jekyll front end, Flask backend, equipped with Vagrant Box that provides a Mirador viewer for creating and save annotations into Jekyll site. Annotations are sharable by using GitHub pages with Jekyll front end.
-* [aiiinotate](https://github.com/Aikon-platform/aiiinotate) ⭐ 12 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-07 - IIIF annotation server built for speed and scalability, based on NodeJS and MongoDB. Designed to handle massive quantities of annotations (>10M) produced by computer vision tools.
+* [aiiinotate](https://github.com/Aikon-platform/aiiinotate) ⭐ 13 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-07 - IIIF annotation server built for speed and scalability, based on NodeJS and MongoDB. Designed to handle massive quantities of annotations (>10M) produced by computer vision tools.
 * [annotot](https://github.com/PenguinParadigm/annotot) ⭐ 12 | 🐛 2 | 🌐 Ruby | 📅 2025-11-25 - Simple IIIF annotations mounted in a Ruby on Rails applications.
 * [ipfs-iiif-db](https://github.com/pgte/ipfs-iiif-db) ⚠️ Archived\[deprecated] - IIIF annotations JS client over IPFS.
 * [CatchPy](https://github.com/nmaekawa/catchpy) ⭐ 11 | 🐛 1 | 🌐 Python | 📅 2026-08-24 - Django-based annotation server with support for Web Annotation and AnnotatorJS APIs, using JWT for auth. Originally developed for the AnnotationsX LTI tool, CatchPy also supports tagging and responses.
@@ -488,4 +488,4 @@ To the extent possible under law, all contributors waive all copyright and relat
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
