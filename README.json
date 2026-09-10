@@ -300,7 +300,7 @@
             "id": 1220890293,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-02T23:31:54Z",
+            "last_commit": "2026-09-10T02:38:50Z",
             "open_issues": 4,
             "owner": "libops",
             "repo": "triplet",
@@ -500,11 +500,11 @@
             "id": 72221,
             "language": "JavaScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-09T08:05:35Z",
-            "open_issues": 291,
+            "last_commit": "2026-09-10T04:26:48Z",
+            "open_issues": 290,
             "owner": "internetarchive",
             "repo": "bookreader",
-            "stars": 1176,
+            "stars": 1175,
             "topics": [
               "bookreader",
               "ebooks",
@@ -526,8 +526,8 @@
             "id": 85699528,
             "language": "JavaScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-02T23:28:53Z",
-            "open_issues": 26,
+            "last_commit": "2026-09-10T03:43:03Z",
+            "open_issues": 27,
             "owner": "tify-iiif-viewer",
             "repo": "tify",
             "stars": 130,
@@ -1049,7 +1049,7 @@
             "open_issues": 75,
             "owner": "lovasoa",
             "repo": "dezoomify-rs",
-            "stars": 1029,
+            "stars": 1028,
             "topics": [
               "deepzoom",
               "dezoomify",
@@ -2838,7 +2838,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T13:47:00.761Z",
+    "last_updated": "2026-09-10T13:40:48.050Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome IIIF-related resources",
