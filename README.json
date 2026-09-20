@@ -147,7 +147,7 @@
             "id": 54192472,
             "language": "C++",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-17T10:23:25Z",
+            "last_commit": "2026-09-19T23:08:11Z",
             "open_issues": 6,
             "owner": "dasch-swiss",
             "repo": "sipi",
@@ -300,7 +300,7 @@
             "id": 1220890293,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-19T10:35:40Z",
+            "last_commit": "2026-09-19T19:07:10Z",
             "open_issues": 4,
             "owner": "libops",
             "repo": "triplet",
@@ -504,7 +504,7 @@
             "open_issues": 293,
             "owner": "internetarchive",
             "repo": "bookreader",
-            "stars": 1176,
+            "stars": 1177,
             "topics": [
               "bookreader",
               "ebooks",
@@ -1046,7 +1046,7 @@
             "language": "Rust",
             "license": "GPL-3.0",
             "last_commit": "2026-09-17T23:06:41Z",
-            "open_issues": 73,
+            "open_issues": 74,
             "owner": "lovasoa",
             "repo": "dezoomify-rs",
             "stars": 1034,
@@ -2838,7 +2838,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T13:13:27.700Z",
+    "last_updated": "2026-09-20T13:37:02.513Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome IIIF-related resources",
