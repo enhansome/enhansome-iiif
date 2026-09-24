@@ -500,8 +500,8 @@
             "id": 72221,
             "language": "JavaScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-23T04:08:22Z",
-            "open_issues": 293,
+            "last_commit": "2026-09-23T19:58:48Z",
+            "open_issues": 294,
             "owner": "internetarchive",
             "repo": "bookreader",
             "stars": 1179,
@@ -2838,7 +2838,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T14:17:03.507Z",
+    "last_updated": "2026-09-24T14:15:33.395Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome IIIF-related resources",
