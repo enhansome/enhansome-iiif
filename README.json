@@ -301,7 +301,7 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-09-20T21:10:47Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "libops",
             "repo": "triplet",
             "stars": 4,
@@ -501,10 +501,10 @@
             "language": "JavaScript",
             "license": "AGPL-3.0",
             "last_commit": "2026-09-24T18:29:39Z",
-            "open_issues": 295,
+            "open_issues": 294,
             "owner": "internetarchive",
             "repo": "bookreader",
-            "stars": 1179,
+            "stars": 1178,
             "topics": [
               "bookreader",
               "ebooks",
@@ -2838,7 +2838,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T14:38:56.594Z",
+    "last_updated": "2026-09-26T13:47:03.679Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome IIIF-related resources",
