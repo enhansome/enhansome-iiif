@@ -1,40 +1,6 @@
 {
   "items": [
     {
-      "description": "The lists below are a great place to start for inspiration and tooling, but they are certainly not complete!\nIf you have a link or a resource to add, you have a few options:\nLikewise, there are other ways to see how people are implementing IIIF.\nDisclaimer: The lists below are presented in alphabetical order within each section, and do not suggest any recommendation. Likewise, these lists are created for informational purposes only and any links do not constitute an endorsement, recommendation, or favoring by the IIIF Consortium.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "open a new issue ticket",
-          "description": "mentioning the link or resource you want to add and some description, and the community may be able to help add it",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Awesome IIIF-related resources",
-            "homepage": "https://iiif.github.io/awesome-iiif/",
-            "id": 58644759,
-            "language": null,
-            "license": null,
-            "last_commit": "2026-09-17T16:10:46Z",
-            "open_issues": 14,
-            "owner": "IIIF",
-            "repo": "awesome-iiif",
-            "stars": 562,
-            "topics": [
-              "awesome-list",
-              "community",
-              "iiif",
-              "iiif-apis",
-              "iiif-image",
-              "iiif-presentations"
-            ]
-          },
-          "first_seen": "2026-08-28T20:57:12.539Z"
-        }
-      ],
-      "title": "More Resources"
-    },
-    {
       "description": "These servers support the IIIF Image API. Some may also have support for the Presentation API.",
       "items": [
         {
@@ -300,7 +266,7 @@
             "id": 1220890293,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-02T06:43:47Z",
+            "last_commit": "2026-10-02T18:16:49Z",
             "open_issues": 5,
             "owner": "libops",
             "repo": "triplet",
@@ -1049,7 +1015,7 @@
             "open_issues": 73,
             "owner": "lovasoa",
             "repo": "dezoomify-rs",
-            "stars": 1038,
+            "stars": 1037,
             "topics": [
               "deepzoom",
               "dezoomify",
@@ -2838,7 +2804,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T15:52:58.220Z",
+    "last_updated": "2026-10-03T04:48:29.987Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome IIIF-related resources",

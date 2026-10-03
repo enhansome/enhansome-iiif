@@ -14,8 +14,8 @@ The lists below are a great place to start for inspiration and tooling, but they
 
 If you have a link or a resource to add, you have a few options:
 
-* [open a new issue ticket](https://github.com/IIIF/awesome-iiif/issues/new) ⭐ 562 | 🐛 14 | 📅 2026-09-17 mentioning the link or resource you want to add and some description, and the community may be able to help add it
 * check out the [Contributing Guidelines](./contributing.md) linked just above and submit a pull request yourself if you're familiar with Github worflows
+* [open a new issue ticket](https://github.com/IIIF/awesome-iiif/issues/new) mentioning the link or resource you want to add and some description, and the community may be able to help add it
 
 Likewise, there are other ways to see how people are implementing IIIF.
 
@@ -75,7 +75,7 @@ The IIIF community has developed [several standards](https://iiif.io/api/) for i
 
 ## Additional Lists
 
-* [Implementations](https://github.com/IIIF/awesome-iiif/blob/master/implementations.md) ⭐ 562 | 🐛 14 | 📅 2026-09-17
+* [Implementations](https://github.com/IIIF/awesome-iiif/blob/master/implementations.md)
 
 ## Official Resources
 
@@ -173,7 +173,7 @@ As defined by Wikipedia a shim is a small library that transparently intercepts 
 
 Various tools for working with images such as cropping tools.
 
-* [dezoomify-rs](https://github.com/lovasoa/dezoomify-rs) ⭐ 1,038 | 🐛 73 | 🌐 Rust | 📅 2026-09-17 - A command-line tiled image downloader. Support IIIF, Deepzoom and others zoomable image formats.
+* [dezoomify-rs](https://github.com/lovasoa/dezoomify-rs) ⭐ 1,037 | 🐛 73 | 🌐 Rust | 📅 2026-09-17 - A command-line tiled image downloader. Support IIIF, Deepzoom and others zoomable image formats.
 * [iiif-dl](https://github.com/ryanfb/iiif-dl) ⭐ 35 | 🐛 4 | 🌐 Ruby | 📅 2026-04-08 - Command-line tile downloader/assembler for IIIF endpoints/manifests. Download full-resolution image sequences from any IIIF server. Currently not compatible with IIIF 3.0.
 * [IIIF-imageManipulation](https://github.com/jbhoward-dublin/iiif-imageManipulation) ⭐ 18 | 🐛 2 | 🌐 JavaScript | 📅 2017-07-31 - UCD's tool to crop images and manipulate via IIIF attributes; integrate with Mirador via plugin.
 * [IIIF Downloader](https://github.com/ClaudioMartino/IIIF-Downloader) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2026-08-19 - Lightweight Python image downloader that needs only standard libraries (CLI + API + GUI). Compliant with IIIF API 2.0, 2.1 and 3.0.
@@ -489,4 +489,4 @@ To the extent possible under law, all contributors waive all copyright and relat
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
