@@ -493,7 +493,7 @@
             "language": "JavaScript",
             "license": "AGPL-3.0",
             "last_commit": "2026-09-18T13:08:41Z",
-            "open_issues": 30,
+            "open_issues": 31,
             "owner": "tify-iiif-viewer",
             "repo": "tify",
             "stars": 130,
@@ -1118,8 +1118,8 @@
             "id": 35223299,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-13T04:56:55Z",
-            "open_issues": 32,
+            "last_commit": "2026-10-03T04:56:42Z",
+            "open_issues": 33,
             "owner": "IIIF-Commons",
             "repo": "manifesto",
             "stars": 50,
@@ -2804,7 +2804,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:48:29.987Z",
+    "last_updated": "2026-10-03T14:20:38.614Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome IIIF-related resources",
