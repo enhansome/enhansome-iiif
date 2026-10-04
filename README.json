@@ -113,7 +113,7 @@
             "id": 54192472,
             "language": "C++",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-29T21:19:20Z",
+            "last_commit": "2026-10-03T23:07:33Z",
             "open_issues": 6,
             "owner": "dasch-swiss",
             "repo": "sipi",
@@ -266,7 +266,7 @@
             "id": 1220890293,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-02T18:16:49Z",
+            "last_commit": "2026-10-04T04:57:18Z",
             "open_issues": 5,
             "owner": "libops",
             "repo": "triplet",
@@ -1015,7 +1015,7 @@
             "open_issues": 73,
             "owner": "lovasoa",
             "repo": "dezoomify-rs",
-            "stars": 1037,
+            "stars": 1038,
             "topics": [
               "deepzoom",
               "dezoomify",
@@ -2804,7 +2804,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T14:20:38.614Z",
+    "last_updated": "2026-10-04T14:53:00.724Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome IIIF-related resources",
