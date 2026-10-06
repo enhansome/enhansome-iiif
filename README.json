@@ -266,7 +266,7 @@
             "id": 1220890293,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-04T04:57:18Z",
+            "last_commit": "2026-10-06T10:08:40Z",
             "open_issues": 5,
             "owner": "libops",
             "repo": "triplet",
@@ -1391,6 +1391,27 @@
         },
         {
           "node_type": "item",
+          "title": "IIIF Helpers",
+          "description": "An NPM module with a variety of helpers for working with IIIF Presentation resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 699530392,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-08-10T15:59:23Z",
+            "open_issues": 13,
+            "owner": "IIIF-Commons",
+            "repo": "iiif-helpers",
+            "stars": 6,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T20:57:12.539Z"
+        },
+        {
+          "node_type": "item",
           "title": "tiny-iiif-manifest-authoring-tool",
           "description": "A node.js web app that provides a one-stop solution for publishing IIIF resources, offering various functionalities from image uploading to IIIF manifest authoring.",
           "children": [],
@@ -1406,27 +1427,6 @@
             "owner": "yuta1984",
             "repo": "tiny-iiif-manifest-authoring-tool",
             "stars": 6,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T20:57:12.539Z"
-        },
-        {
-          "node_type": "item",
-          "title": "IIIF Helpers",
-          "description": "An NPM module with a variety of helpers for working with IIIF Presentation resources.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 699530392,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-08-10T15:59:23Z",
-            "open_issues": 13,
-            "owner": "IIIF-Commons",
-            "repo": "iiif-helpers",
-            "stars": 5,
             "topics": []
           },
           "first_seen": "2026-08-28T20:57:12.539Z"
@@ -2804,7 +2804,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T18:35:11.962Z",
+    "last_updated": "2026-10-06T10:37:40.088Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome IIIF-related resources",
