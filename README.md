@@ -173,7 +173,7 @@ As defined by Wikipedia a shim is a small library that transparently intercepts 
 
 Various tools for working with images such as cropping tools.
 
-* [dezoomify-rs](https://github.com/lovasoa/dezoomify-rs) ⭐ 1,038 | 🐛 74 | 🌐 Rust | 📅 2026-09-17 - A command-line tiled image downloader. Support IIIF, Deepzoom and others zoomable image formats.
+* [dezoomify-rs](https://github.com/lovasoa/dezoomify-rs) ⭐ 1,038 | 🐛 75 | 🌐 Rust | 📅 2026-09-17 - A command-line tiled image downloader. Support IIIF, Deepzoom and others zoomable image formats.
 * [iiif-dl](https://github.com/ryanfb/iiif-dl) ⭐ 35 | 🐛 4 | 🌐 Ruby | 📅 2026-04-08 - Command-line tile downloader/assembler for IIIF endpoints/manifests. Download full-resolution image sequences from any IIIF server. Currently not compatible with IIIF 3.0.
 * [IIIF-imageManipulation](https://github.com/jbhoward-dublin/iiif-imageManipulation) ⭐ 18 | 🐛 2 | 🌐 JavaScript | 📅 2017-07-31 - UCD's tool to crop images and manipulate via IIIF attributes; integrate with Mirador via plugin.
 * [IIIF Downloader](https://github.com/ClaudioMartino/IIIF-Downloader) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2026-08-19 - Lightweight Python image downloader that needs only standard libraries (CLI + API + GUI). Compliant with IIIF API 2.0, 2.1 and 3.0.
@@ -263,7 +263,7 @@ Libraries and applications that support the Content Search API.
 
 * [Ocracoke](https://github.com/NCSU-Libraries/ocracoke) ⭐ 33 | 🐛 21 | 🌐 Ruby | 📅 2022-12-14 - Rails application to create, index, and search text from page images and provide results in IIIF Content Search API format.
 * [Whiiif](https://github.com/mbennett-uoe/whiiif) ⭐ 17 | 🐛 11 | 🌐 Python | 📅 2020-12-16 - Python/Flask/Solr application to index IIIF manifests alongside ALTO representations and provide a IIIF Content Search API endpoint.
-* [Blacklight IIIF Search](https://github.com/boston-library/blacklight_iiif_search) ⭐ 15 | 🐛 6 | 🌐 Ruby | 📅 2026-03-17 - Plugin that provides IIIF Content Search functionality for [Blacklight](https://github.com/projectblacklight/blacklight) ⭐ 796 | 🐛 196 | 🌐 Ruby | 📅 2026-10-05-based Rails applications.
+* [Blacklight IIIF Search](https://github.com/boston-library/blacklight_iiif_search) ⭐ 15 | 🐛 6 | 🌐 Ruby | 📅 2026-03-17 - Plugin that provides IIIF Content Search functionality for [Blacklight](https://github.com/projectblacklight/blacklight) ⭐ 796 | 🐛 195 | 🌐 Ruby | 📅 2026-10-06-based Rails applications.
 * [Annosearch](https://github.com/nationalarchives/annosearch) ⭐ 8 | 🐛 2 | 🌐 TypeScript | 📅 2026-05-05 - TypeScript tool from The National Archives that indexes W3C Web Annotations from IIIF collections and annotation servers (e.g. Miiify) using Quickwit, exposing them via a IIIF Content Search 2.0 API endpoint.
 
 ## Authentication
