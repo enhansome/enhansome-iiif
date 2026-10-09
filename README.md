@@ -98,10 +98,10 @@ These servers support the IIIF Image API. Some may also have support for the Pre
 * [SIPI](https://github.com/dasch-swiss/sipi) ⭐ 38 | 🐛 6 | 🌐 C++ | 📅 2026-10-03 - IIIFv3 image server written in C++.
 * [Hymir IIIF Server](https://github.com/dbmdz/iiif-server-hymir) ⚠️ Archived - IIIF server written in Java supporting IIIF Image and Presentation API.
 * [iiif\_s3](https://github.com/cmoa/iiif_s3) ⭐ 31 | 🐛 2 | 🌐 Ruby | 📅 2017-11-26 - Ruby library for generating a static IIIF level 0 Image and Presentation API server on Amazon S3.
-* [Wolpi](https://github.com/dbmdz/wolpi) ⭐ 18 | 🐛 0 | 🌐 Java | 📅 2026-10-08 - A fast and extensible IIIF Image API 2.1 + 3.0 image server based on libvips, supporting Python and JavaScript extensions.
+* [Wolpi](https://github.com/dbmdz/wolpi) ⭐ 18 | 🐛 0 | 🌐 Java | 📅 2026-10-09 - A fast and extensible IIIF Image API 2.1 + 3.0 image server based on libvips, supporting Python and JavaScript extensions.
 * [aws-batch-iiif-generator](https://github.com/vt-digital-libraries-platform/aws-batch-iiif-generator) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2024-09-24 - An automated pipeline to generate IIIF tiles and manifests and use AWS S3 as an IIIF image server.
 * [TremendousIIIF](https://github.com/britishlibrary/TremendousIIIF) ⭐ 8 | 🐛 6 | 🌐 C# | 📅 2023-08-30 - A .NET C# IIIF Image API 2.1 server.
-* [triplet](https://github.com/libops/triplet) ⭐ 4 | 🐛 5 | 🌐 Go | 📅 2026-10-08 - A fast IIIF Image API 3.0 and Presentation API 3.0 server written in Go, powered by [libvips](https://github.com/libvips/libvips) ⭐ 11,711 | 🐛 75 | 🌐 C | 📅 2026-10-06 for image processing.
+* [triplet](https://github.com/libops/triplet) ⭐ 4 | 🐛 5 | 🌐 Go | 📅 2026-10-09 - A fast IIIF Image API 3.0 and Presentation API 3.0 server written in Go, powered by [libvips](https://github.com/libvips/libvips) ⭐ 11,720 | 🐛 76 | 🌐 C | 📅 2026-10-09 for image processing.
 * [FSI Server](https://www.neptunelabs.com/fsi-server/) - FSI Server is a popular commercial solution for serving high resolution images in multiple formats.  It accompanies the Flash-based FSI Viewer for zoom and pan. [IIIF adaptor for FSI server](https://github.com/jhu-digital-manuscripts/rosa/tree/master/rosa-iiif-endpoint) ⭐ 2 | 🐛 1 | 🌐 Java | 📅 2014-09-05
 * [iiif-worker](https://github.com/mkpoli/iiif-worker) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-31 - IIIF Image API 3.0 level 2 server that runs on a Cloudflare Worker with its images in R2, using WebAssembly for the image processing so there is no server process to operate.
 * [Cantaloupe](https://cantaloupe-project.github.io/) - Image server written in Java fully conformant to all IIIF Image API versions through 3.0.
@@ -124,13 +124,13 @@ As defined by Wikipedia a shim is a small library that transparently intercepts 
 
 ## IIIF Viewers
 
-* [Internet Archive BookReader](https://github.com/internetarchive/bookreader) ⭐ 1,180 | 🐛 294 | 🌐 JavaScript | 📅 2026-10-07 - A viewer developed by the Internet Archive, specially suited for viewing books.
+* [Internet Archive BookReader](https://github.com/internetarchive/bookreader) ⭐ 1,182 | 🐛 294 | 🌐 JavaScript | 📅 2026-10-08 - A viewer developed by the Internet Archive, specially suited for viewing books.
 * [Tify](https://github.com/subugoe/tify) ⭐ 130 | 🐛 31 | 🌐 JavaScript | 📅 2026-10-06 - Slim and fast IIIF document viewer built with Vue.js.
 * [Mirador](https://projectmirador.org/) - Multi-up workspace. See also [Awesome Mirador list](https://github.com/ProjectMirador/mirador-awesome) ⭐ 46 | 🐛 5 | 📅 2026-02-11.
 * [Glycerine Viewer](https://github.com/Systemik-Solutions/glycerine-viewer) ⭐ 15 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-31 - An elegant and contemporary Vue 3 Viewer with a comprehensive annotation feature set.
 * [Tamerlane](https://github.com/tamerlaneviewer/tamerlane) ⭐ 14 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-03 - A lightweight IIIF viewer prioritising user experience for annotated resources.
 * [Mirador Video](https://github.com/TETRAS-IIIF/mirador-video) ⭐ 5 | 🐛 12 | 🌐 JavaScript | 📅 2026-09-01 - Mirador 4 fork supporting annotation on videos.
-* [Tactum Viewer](https://github.com/FactumFoundation/tactum-viewer) ⭐ 5 | 🐛 5 | 🌐 JavaScript | 📅 2026-07-29 - A web-based viewer for high-resolution 3D surface scans, streaming albedo and height tiles with interactive relighting and measurement tools, with IIIF Presentation 3 and Image API support.
+* [Tactum Viewer](https://github.com/FactumFoundation/tactum-viewer) ⭐ 5 | 🐛 6 | 🌐 JavaScript | 📅 2026-10-09 - A web-based viewer for high-resolution 3D surface scans, streaming albedo and height tiles with interactive relighting and measurement tools, with IIIF Presentation 3 and Image API support.
 * [Allmaps](https://allmaps.org/) – A set of tools for curating, georeferencing and exploring IIIF maps.
 * [Archive Viewer](https://archiveviewer.org/) - A viewer for scanned images from various archives and repositories. (Presentation API v2 only)
 * [CanvasPanel](http://canvas-panel.netlify.com/) - React library to build IIIF Presentation 3 level viewing experiences including support for annotations.
@@ -165,7 +165,7 @@ As defined by Wikipedia a shim is a small library that transparently intercepts 
 * [image-iiif](https://github.com/conlect/image-iiif) ⭐ 20 | 🐛 4 | 🌐 PHP | 📅 2026-06-22 - PHP 8 package for implementing IIIF Image API 3.
 * [piffle](https://github.com/emory-lits-labs/piffle) ⭐ 20 | 🐛 9 | 🌐 Python | 📅 2026-06-15 - Python library for generating and parsing IIIF Image API URLs.
 * [iOSTiledViewer](https://github.com/moravianlibrary/iOSTiledViewer) ⭐ 7 | 🐛 3 | 🌐 Swift | 📅 2018-04-23 - IIIF image API and Zoomify viewer for iOS, written in Swift.
-* [iiif\_image\_plug](https://github.com/dainst/iiif_image_plug) ⭐ 7 | 🐛 4 | 🌐 Elixir | 📅 2026-06-26 - an Elixir library that implements the IIIF Image API as a [Plug](https://hexdocs.pm/plug/readme.html).
+* [iiif\_image\_plug](https://github.com/dainst/iiif_image_plug) ⭐ 7 | 🐛 4 | 🌐 Elixir | 📅 2026-10-09 - an Elixir library that implements the IIIF Image API as a [Plug](https://hexdocs.pm/plug/readme.html).
 * [iiif\_url](https://github.com/NCSU-Libraries/iiif_url) ⭐ 1 | 🐛 1 | 🌐 Ruby | 📅 2016-08-30 - Ruby library for creating and parsing IIIF Image API URLs.
 * [libvips](https://libvips.github.io/libvips/) - A fast image processing library with low memory needs. Includes an operation that can build image pyramids compatible with IIIF Image API.
 
@@ -173,7 +173,7 @@ As defined by Wikipedia a shim is a small library that transparently intercepts 
 
 Various tools for working with images such as cropping tools.
 
-* [dezoomify-rs](https://github.com/lovasoa/dezoomify-rs) ⭐ 1,039 | 🐛 75 | 🌐 Rust | 📅 2026-09-17 - A command-line tiled image downloader. Support IIIF, Deepzoom and others zoomable image formats.
+* [dezoomify-rs](https://github.com/lovasoa/dezoomify-rs) ⭐ 1,040 | 🐛 75 | 🌐 Rust | 📅 2026-09-17 - A command-line tiled image downloader. Support IIIF, Deepzoom and others zoomable image formats.
 * [iiif-dl](https://github.com/ryanfb/iiif-dl) ⭐ 35 | 🐛 4 | 🌐 Ruby | 📅 2026-04-08 - Command-line tile downloader/assembler for IIIF endpoints/manifests. Download full-resolution image sequences from any IIIF server. Currently not compatible with IIIF 3.0.
 * [IIIF-imageManipulation](https://github.com/jbhoward-dublin/iiif-imageManipulation) ⭐ 18 | 🐛 2 | 🌐 JavaScript | 📅 2017-07-31 - UCD's tool to crop images and manipulate via IIIF attributes; integrate with Mirador via plugin.
 * [IIIF Downloader](https://github.com/ClaudioMartino/IIIF-Downloader) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2026-08-19 - Lightweight Python image downloader that needs only standard libraries (CLI + API + GUI). Compliant with IIIF API 2.0, 2.1 and 3.0.
@@ -203,6 +203,7 @@ Various tools for working with images such as cropping tools.
 * [tiny-iiif-manifest-authoring-tool](https://github.com/yuta1984/tiny-iiif-manifest-authoring-tool) ⭐ 6 | 🐛 0 | 🌐 TypeScript | 📅 2023-08-02 - A node.js web app that provides a one-stop solution for publishing IIIF resources, offering various functionalities from image uploading to IIIF manifest authoring.
 * [iiif-tree-component](https://github.com/edsilv/iiif-tree-component) ⚠️ Archived - IIIF tree menu sortable by date with multi-select capability.
 * [Swiiift](https://github.com/mejackreed/Swiiift) ⭐ 1 | 🐛 0 | 🌐 Swift | 📅 2018-02-07 - IIIF presentation API library for Swift.
+* [IIIF.Manifest.Serializer.Net](https://github.com/KiarashMinoo/IIIF.Manifest.Serializer.Net) ⭐ 0 | 🐛 14 | 🌐 C# | 📅 2026-10-07 - A .NET/C# library for building, parsing, converting, and serializing IIIF Presentation API 2.0, 2.1, and 3.0 manifests and collections, with support for related IIIF service payloads and extensions.
 * [Clover IIIF](https://samvera-labs.github.io/nectar-iiif/) - IIIF front-end React toolkit including a multimedia viewer, image slider, and HTML5 primitives for manifest properties.
 * [tabula-rasa](https://www.npmjs.com/package/tabula-rasa) - npm module for creating and manipulating IIIF manifests.
 * [ViewDir](https://iiif-commons.github.io/) - Documentation on IIIF-related libraries and components, from an open community of designers and developers interested in creating composable and interoperable interfaces for consuming and creating online content.
@@ -263,7 +264,7 @@ Libraries and applications that support the Content Search API.
 
 * [Ocracoke](https://github.com/NCSU-Libraries/ocracoke) ⭐ 33 | 🐛 21 | 🌐 Ruby | 📅 2022-12-14 - Rails application to create, index, and search text from page images and provide results in IIIF Content Search API format.
 * [Whiiif](https://github.com/mbennett-uoe/whiiif) ⭐ 17 | 🐛 11 | 🌐 Python | 📅 2020-12-16 - Python/Flask/Solr application to index IIIF manifests alongside ALTO representations and provide a IIIF Content Search API endpoint.
-* [Blacklight IIIF Search](https://github.com/boston-library/blacklight_iiif_search) ⭐ 15 | 🐛 6 | 🌐 Ruby | 📅 2026-03-17 - Plugin that provides IIIF Content Search functionality for [Blacklight](https://github.com/projectblacklight/blacklight) ⭐ 797 | 🐛 197 | 🌐 Ruby | 📅 2026-10-07-based Rails applications.
+* [Blacklight IIIF Search](https://github.com/boston-library/blacklight_iiif_search) ⭐ 15 | 🐛 6 | 🌐 Ruby | 📅 2026-03-17 - Plugin that provides IIIF Content Search functionality for [Blacklight](https://github.com/projectblacklight/blacklight) ⭐ 797 | 🐛 198 | 🌐 Ruby | 📅 2026-10-09-based Rails applications.
 * [Annosearch](https://github.com/nationalarchives/annosearch) ⭐ 8 | 🐛 2 | 🌐 TypeScript | 📅 2026-05-05 - TypeScript tool from The National Archives that indexes W3C Web Annotations from IIIF collections and annotation servers (e.g. Miiify) using Quickwit, exposing them via a IIIF Content Search 2.0 API endpoint.
 
 ## Authentication
@@ -330,11 +331,10 @@ Links to help you discover IIIF resources that have been shared, demonstrations 
 
 * [Open in IIIF Viewer](https://github.com/2SC1815J/open-in-iiif-viewer) ⭐ 22 | 🐛 2 | 🌐 JavaScript | 📅 2022-07-09 - A web browser extension to open IIIF manifest link in your favorite IIIF viewer.
 * [iiif.link](https://github.com/atomotic/iiif.link) ⭐ 14 | 🐛 0 | 🌐 HTML | 📅 2026-05-24 - A url shortener for sharing a IIIF resource; upon opening the URL the viewer will open at the saved zoom and region of interest.
-*
 
 ## Annotations
 
-* [IMMARKUS](https://github.com/rsimon/immarkus) ⭐ 65 | 🐛 14 | 🌐 TypeScript | 📅 2026-10-08 - A semantic image annotation tool for researchers, digital humanists and cultural heritage professionals.
+* [IMMARKUS](https://github.com/rsimon/immarkus) ⭐ 65 | 🐛 14 | 🌐 TypeScript | 📅 2026-10-09 - A semantic image annotation tool for researchers, digital humanists and cultural heritage professionals.
 * [liiive](https://github.com/rsimon/liiive) ⭐ 50 | 🐛 0 | 🌐 TypeScript | 📅 2026-04-18 - A tool for real-time collaborative IIIF image annotation.
 * [ALTO to Annotation list](https://github.com/glenrobson/iiif_stuff/tree/master/alto2annotations) ⭐ 20 | 🐛 0 | 🌐 JavaScript | 📅 2025-09-10 - This XSLT converts an ALTO xml document to an annotation lists for use with a IIIF manifests.
 * [Annocoda](https://github.com/jptmoore/annocoda) ⚠️ Archived - Mobile-friendly web app that uses IIIF Content Search 2.0 and Presentation 3.0 to provide image search capabilities
@@ -431,7 +431,8 @@ Science, Technology, Engineering, Math/Medicine
 * [cover.boutique](https://cover.boutique) - Award-winning web application to create designs for smartphone cases from IIIF resources.
 * [David Rumsey MapTab](https://chrome.google.com/webstore/detail/david-rumsey-map-collecti/fnheacjohhlddiffbmafmpoblbkfgmde?hl=en) - A IIIF powered, Chrome extension that displays a random map from the David Rumsey Map Collection everytime you open a new tab in your browser. Built using Leaflet-IIIF and React.js. Created by Jack Reed, Stanford University Libraries.
 * [Fractals](http://www.appliediiif.org.uk/live/fractalshome.htm) - Deep zoom into a huge (1bn x 1bn pixel) fractal image, created by Sean Martin, Applied IIIF.
-* [Wallpaper HDR](https://christianmahnke.de/en/post/hdr-iiif/) - Deep zoom of an HDR Image of an 70ies wallpaper - works in Chome-based browsers, with an HDR-capable monitor.
+* [Wallpaper HDR](https://christianmahnke.de/en/post/hdr-iiif/) - Deep zoom of an HDR image of 70s wallpaper - works in Chromium-based browsers with an HDR-capable monitor.
+* [Haptic Feedback for a page from a fabric sample book using IIIF](https://christianmahnke.de/en/post/haptic-feedback/)
 * [IIIF for Dolls](https://iiif-for-dolls.davidnewbury.com/) - use IIIF to create printable versions of your favorite work at a variety of scales.
 * [IIIF Stereographs](https://stereograph.davidnewbury.com/) - Exploring Stereo Photos with IIIF
 * [Image Comparison with a Magnifying Glass](http://resources.digirati.com/iiif/an-introduction-to-iiif/dee-mag.html) - Image comparison using leaflet magnifying glass by Digirati.
@@ -489,4 +490,4 @@ To the extent possible under law, all contributors waive all copyright and relat
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._

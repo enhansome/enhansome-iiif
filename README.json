@@ -186,7 +186,7 @@
             "id": 1237675602,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-10-08T13:55:30Z",
+            "last_commit": "2026-10-09T11:49:32Z",
             "open_issues": 0,
             "owner": "dbmdz",
             "repo": "wolpi",
@@ -266,7 +266,7 @@
             "id": 1220890293,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-08T02:28:59Z",
+            "last_commit": "2026-10-09T14:33:52Z",
             "open_issues": 5,
             "owner": "libops",
             "repo": "triplet",
@@ -466,11 +466,11 @@
             "id": 72221,
             "language": "JavaScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-07T20:28:01Z",
+            "last_commit": "2026-10-08T19:41:50Z",
             "open_issues": 294,
             "owner": "internetarchive",
             "repo": "bookreader",
-            "stars": 1180,
+            "stars": 1182,
             "topics": [
               "bookreader",
               "ebooks",
@@ -610,8 +610,8 @@
             "id": 1290375721,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-07-29T13:39:43Z",
-            "open_issues": 5,
+            "last_commit": "2026-10-09T12:29:01Z",
+            "open_issues": 6,
             "owner": "FactumFoundation",
             "repo": "tactum-viewer",
             "stars": 5,
@@ -958,7 +958,7 @@
             "id": 950192138,
             "language": "Elixir",
             "license": "Apache-2.0",
-            "last_commit": "2026-06-26T07:23:10Z",
+            "last_commit": "2026-10-09T11:11:55Z",
             "open_issues": 4,
             "owner": "dainst",
             "repo": "iiif_image_plug",
@@ -1015,7 +1015,7 @@
             "open_issues": 75,
             "owner": "lovasoa",
             "repo": "dezoomify-rs",
-            "stars": 1039,
+            "stars": 1040,
             "topics": [
               "deepzoom",
               "dezoomify",
@@ -1472,6 +1472,48 @@
             "topics": []
           },
           "first_seen": "2026-08-28T20:57:12.539Z"
+        },
+        {
+          "node_type": "item",
+          "title": "IIIF.Manifest.Serializer.Net",
+          "description": "A .NET/C# library for building, parsing, converting, and serializing IIIF Presentation API 2.0, 2.1, and 3.0 manifests and collections, with support for related IIIF service payloads and extensions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": ".NET SDK for building, reading, validating, converting, serializing, and change-tracking IIIF Presentation 2.x/3.0 resources, with Image, Auth, Search, Discovery, Content State, and extension support.",
+            "homepage": null,
+            "id": 478071120,
+            "language": "C#",
+            "license": "MIT",
+            "last_commit": "2026-10-07T09:38:58Z",
+            "open_issues": 14,
+            "owner": "KiarashMinoo",
+            "repo": "IIIF.Manifest.Serializer.Net",
+            "stars": 0,
+            "topics": [
+              "annotations",
+              "change-discovery",
+              "change-tracking",
+              "content-search",
+              "content-state",
+              "csharp",
+              "digital-humanities",
+              "digital-libraries",
+              "dotnet",
+              "georeferencing",
+              "iiif",
+              "iiif-auth",
+              "iiif-image-api",
+              "iiif-presentation-api",
+              "interoperability",
+              "json-ld",
+              "navplace",
+              "nuget",
+              "serialization",
+              "validation"
+            ]
+          },
+          "first_seen": "2026-10-09T16:20:52.110Z"
         }
       ],
       "title": "Presentation API Libraries"
@@ -2144,7 +2186,7 @@
             "id": 684524371,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-08T14:04:51Z",
+            "last_commit": "2026-10-09T13:35:35Z",
             "open_issues": 14,
             "owner": "rsimon",
             "repo": "immarkus",
@@ -2804,7 +2846,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T16:37:22.817Z",
+    "last_updated": "2026-10-09T16:20:52.110Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome IIIF-related resources",
@@ -2812,8 +2854,8 @@
       "id": 58644759,
       "language": null,
       "license": null,
-      "last_commit": "2026-09-17T16:10:46Z",
-      "open_issues": 14,
+      "last_commit": "2026-10-09T09:53:28Z",
+      "open_issues": 10,
       "owner": "IIIF",
       "repo": "awesome-iiif",
       "stars": 562,
@@ -2826,7 +2868,7 @@
         "iiif-presentations"
       ]
     },
-    "original_repository_sha": "41344272b6cb248563aba16d70c30b79be9dc4e8",
+    "original_repository_sha": "427aa3c1372a808e3196c1a033927ee0deb7a098",
     "enhanced_repository": "enhansome/enhansome-iiif",
     "enhanced_repository_description": null,
     "title": "Awesome International Image Interoperability Framework (IIIF) with stars"
