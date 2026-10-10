@@ -266,7 +266,7 @@
             "id": 1220890293,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-09T14:33:52Z",
+            "last_commit": "2026-10-10T12:58:02Z",
             "open_issues": 5,
             "owner": "libops",
             "repo": "triplet",
@@ -1119,7 +1119,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-07T17:09:59Z",
-            "open_issues": 35,
+            "open_issues": 36,
             "owner": "IIIF-Commons",
             "repo": "manifesto",
             "stars": 50,
@@ -2846,7 +2846,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T16:20:52.110Z",
+    "last_updated": "2026-10-10T15:27:40.101Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome IIIF-related resources",
