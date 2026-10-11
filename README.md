@@ -95,13 +95,13 @@ These servers support the IIIF Image API. Some may also have support for the Pre
 * [go-iiif](https://github.com/thisisaaronland/go-iiif) ⭐ 98 | 🐛 52 | 🌐 Go | 📅 2026-09-18 - IIIF server written in go (fork of [greut/iiif](https://github.com/greut/iiif) ⭐ 11 | 🐛 3 | 🌐 Go | 📅 2021-02-15).
 * [RAIS](https://github.com/uoregon-libraries/rais-image-server) ⭐ 84 | 🐛 10 | 🌐 Go | 📅 2026-09-29 - 100% open source tile server for JP2 images written in Go.
 * [riiif](https://github.com/curationexperts/riiif) ⭐ 40 | 🐛 19 | 🌐 Ruby | 📅 2026-06-22 - Written in Ruby as a Rails engine.
-* [SIPI](https://github.com/dasch-swiss/sipi) ⭐ 38 | 🐛 6 | 🌐 C++ | 📅 2026-10-03 - IIIFv3 image server written in C++.
+* [SIPI](https://github.com/dasch-swiss/sipi) ⭐ 38 | 🐛 6 | 🌐 C++ | 📅 2026-10-10 - IIIFv3 image server written in C++.
 * [Hymir IIIF Server](https://github.com/dbmdz/iiif-server-hymir) ⚠️ Archived - IIIF server written in Java supporting IIIF Image and Presentation API.
 * [iiif\_s3](https://github.com/cmoa/iiif_s3) ⭐ 31 | 🐛 2 | 🌐 Ruby | 📅 2017-11-26 - Ruby library for generating a static IIIF level 0 Image and Presentation API server on Amazon S3.
 * [Wolpi](https://github.com/dbmdz/wolpi) ⭐ 18 | 🐛 0 | 🌐 Java | 📅 2026-10-09 - A fast and extensible IIIF Image API 2.1 + 3.0 image server based on libvips, supporting Python and JavaScript extensions.
 * [aws-batch-iiif-generator](https://github.com/vt-digital-libraries-platform/aws-batch-iiif-generator) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2024-09-24 - An automated pipeline to generate IIIF tiles and manifests and use AWS S3 as an IIIF image server.
 * [TremendousIIIF](https://github.com/britishlibrary/TremendousIIIF) ⭐ 8 | 🐛 6 | 🌐 C# | 📅 2023-08-30 - A .NET C# IIIF Image API 2.1 server.
-* [triplet](https://github.com/libops/triplet) ⭐ 4 | 🐛 5 | 🌐 Go | 📅 2026-10-10 - A fast IIIF Image API 3.0 and Presentation API 3.0 server written in Go, powered by [libvips](https://github.com/libvips/libvips) ⭐ 11,722 | 🐛 77 | 🌐 C | 📅 2026-10-09 for image processing.
+* [triplet](https://github.com/libops/triplet) ⭐ 4 | 🐛 7 | 🌐 Go | 📅 2026-10-11 - A fast IIIF Image API 3.0 and Presentation API 3.0 server written in Go, powered by [libvips](https://github.com/libvips/libvips) ⭐ 11,724 | 🐛 80 | 🌐 C | 📅 2026-10-09 for image processing.
 * [FSI Server](https://www.neptunelabs.com/fsi-server/) - FSI Server is a popular commercial solution for serving high resolution images in multiple formats.  It accompanies the Flash-based FSI Viewer for zoom and pan. [IIIF adaptor for FSI server](https://github.com/jhu-digital-manuscripts/rosa/tree/master/rosa-iiif-endpoint) ⭐ 2 | 🐛 1 | 🌐 Java | 📅 2014-09-05
 * [iiif-worker](https://github.com/mkpoli/iiif-worker) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-31 - IIIF Image API 3.0 level 2 server that runs on a Cloudflare Worker with its images in R2, using WebAssembly for the image processing so there is no server process to operate.
 * [Cantaloupe](https://cantaloupe-project.github.io/) - Image server written in Java fully conformant to all IIIF Image API versions through 3.0.
@@ -130,7 +130,7 @@ As defined by Wikipedia a shim is a small library that transparently intercepts 
 * [Glycerine Viewer](https://github.com/Systemik-Solutions/glycerine-viewer) ⭐ 15 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-31 - An elegant and contemporary Vue 3 Viewer with a comprehensive annotation feature set.
 * [Tamerlane](https://github.com/tamerlaneviewer/tamerlane) ⭐ 14 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-03 - A lightweight IIIF viewer prioritising user experience for annotated resources.
 * [Mirador Video](https://github.com/TETRAS-IIIF/mirador-video) ⭐ 5 | 🐛 12 | 🌐 JavaScript | 📅 2026-09-01 - Mirador 4 fork supporting annotation on videos.
-* [Tactum Viewer](https://github.com/FactumFoundation/tactum-viewer) ⭐ 5 | 🐛 6 | 🌐 JavaScript | 📅 2026-10-09 - A web-based viewer for high-resolution 3D surface scans, streaming albedo and height tiles with interactive relighting and measurement tools, with IIIF Presentation 3 and Image API support.
+* [Tactum Viewer](https://github.com/FactumFoundation/tactum-viewer) ⭐ 5 | 🐛 5 | 🌐 JavaScript | 📅 2026-10-11 - A web-based viewer for high-resolution 3D surface scans, streaming albedo and height tiles with interactive relighting and measurement tools, with IIIF Presentation 3 and Image API support.
 * [Allmaps](https://allmaps.org/) – A set of tools for curating, georeferencing and exploring IIIF maps.
 * [Archive Viewer](https://archiveviewer.org/) - A viewer for scanned images from various archives and repositories. (Presentation API v2 only)
 * [CanvasPanel](http://canvas-panel.netlify.com/) - React library to build IIIF Presentation 3 level viewing experiences including support for annotations.
@@ -264,7 +264,7 @@ Libraries and applications that support the Content Search API.
 
 * [Ocracoke](https://github.com/NCSU-Libraries/ocracoke) ⭐ 33 | 🐛 21 | 🌐 Ruby | 📅 2022-12-14 - Rails application to create, index, and search text from page images and provide results in IIIF Content Search API format.
 * [Whiiif](https://github.com/mbennett-uoe/whiiif) ⭐ 17 | 🐛 11 | 🌐 Python | 📅 2020-12-16 - Python/Flask/Solr application to index IIIF manifests alongside ALTO representations and provide a IIIF Content Search API endpoint.
-* [Blacklight IIIF Search](https://github.com/boston-library/blacklight_iiif_search) ⭐ 15 | 🐛 6 | 🌐 Ruby | 📅 2026-03-17 - Plugin that provides IIIF Content Search functionality for [Blacklight](https://github.com/projectblacklight/blacklight) ⭐ 797 | 🐛 198 | 🌐 Ruby | 📅 2026-10-10-based Rails applications.
+* [Blacklight IIIF Search](https://github.com/boston-library/blacklight_iiif_search) ⭐ 15 | 🐛 6 | 🌐 Ruby | 📅 2026-03-17 - Plugin that provides IIIF Content Search functionality for [Blacklight](https://github.com/projectblacklight/blacklight) ⭐ 797 | 🐛 200 | 🌐 Ruby | 📅 2026-10-10-based Rails applications.
 * [Annosearch](https://github.com/nationalarchives/annosearch) ⭐ 8 | 🐛 2 | 🌐 TypeScript | 📅 2026-05-05 - TypeScript tool from The National Archives that indexes W3C Web Annotations from IIIF collections and annotation servers (e.g. Miiify) using Quickwit, exposing them via a IIIF Content Search 2.0 API endpoint.
 
 ## Authentication
@@ -490,4 +490,4 @@ To the extent possible under law, all contributors waive all copyright and relat
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
