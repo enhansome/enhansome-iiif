@@ -496,7 +496,7 @@
             "open_issues": 31,
             "owner": "tify-iiif-viewer",
             "repo": "tify",
-            "stars": 130,
+            "stars": 131,
             "topics": [
               "iiif"
             ]
@@ -1119,7 +1119,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-07T17:09:59Z",
-            "open_issues": 36,
+            "open_issues": 37,
             "owner": "IIIF-Commons",
             "repo": "manifesto",
             "stars": 50,
@@ -2186,8 +2186,8 @@
             "id": 684524371,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-09T13:35:35Z",
-            "open_issues": 14,
+            "last_commit": "2026-10-12T12:43:29Z",
+            "open_issues": 13,
             "owner": "rsimon",
             "repo": "immarkus",
             "stars": 65,
@@ -2846,7 +2846,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T15:48:32.334Z",
+    "last_updated": "2026-10-12T19:09:05.787Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome IIIF-related resources",
@@ -2854,7 +2854,7 @@
       "id": 58644759,
       "language": null,
       "license": null,
-      "last_commit": "2026-10-09T09:53:28Z",
+      "last_commit": "2026-10-12T13:10:35Z",
       "open_issues": 10,
       "owner": "IIIF",
       "repo": "awesome-iiif",
@@ -2868,7 +2868,7 @@
         "iiif-presentations"
       ]
     },
-    "original_repository_sha": "427aa3c1372a808e3196c1a033927ee0deb7a098",
+    "original_repository_sha": "a3e84763ad6336486c65fcfea87e78a4dc01aa7f",
     "enhanced_repository": "enhansome/enhansome-iiif",
     "enhanced_repository_description": null,
     "title": "Awesome International Image Interoperability Framework (IIIF) with stars"
