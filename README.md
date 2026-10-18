@@ -95,13 +95,13 @@ These servers support the IIIF Image API. Some may also have support for the Pre
 * [go-iiif](https://github.com/thisisaaronland/go-iiif) ⭐ 98 | 🐛 52 | 🌐 Go | 📅 2026-09-18 - IIIF server written in go (fork of [greut/iiif](https://github.com/greut/iiif) ⭐ 11 | 🐛 3 | 🌐 Go | 📅 2021-02-15).
 * [RAIS](https://github.com/uoregon-libraries/rais-image-server) ⭐ 84 | 🐛 10 | 🌐 Go | 📅 2026-09-29 - 100% open source tile server for JP2 images written in Go.
 * [riiif](https://github.com/curationexperts/riiif) ⭐ 40 | 🐛 20 | 🌐 Ruby | 📅 2026-06-22 - Written in Ruby as a Rails engine.
-* [SIPI](https://github.com/dasch-swiss/sipi) ⭐ 38 | 🐛 6 | 🌐 C++ | 📅 2026-10-10 - IIIFv3 image server written in C++.
+* [SIPI](https://github.com/dasch-swiss/sipi) ⭐ 38 | 🐛 6 | 🌐 C++ | 📅 2026-10-17 - IIIFv3 image server written in C++.
 * [Hymir IIIF Server](https://github.com/dbmdz/iiif-server-hymir) ⚠️ Archived - IIIF server written in Java supporting IIIF Image and Presentation API.
 * [iiif\_s3](https://github.com/cmoa/iiif_s3) ⭐ 31 | 🐛 2 | 🌐 Ruby | 📅 2017-11-26 - Ruby library for generating a static IIIF level 0 Image and Presentation API server on Amazon S3.
-* [Wolpi](https://github.com/dbmdz/wolpi) ⭐ 19 | 🐛 2 | 🌐 Java | 📅 2026-10-16 - A fast and extensible IIIF Image API 2.1 + 3.0 image server based on libvips, supporting Python and JavaScript extensions.
+* [Wolpi](https://github.com/dbmdz/wolpi) ⭐ 19 | 🐛 3 | 🌐 Java | 📅 2026-10-17 - A fast and extensible IIIF Image API 2.1 + 3.0 image server based on libvips, supporting Python and JavaScript extensions.
 * [aws-batch-iiif-generator](https://github.com/vt-digital-libraries-platform/aws-batch-iiif-generator) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2024-09-24 - An automated pipeline to generate IIIF tiles and manifests and use AWS S3 as an IIIF image server.
 * [TremendousIIIF](https://github.com/britishlibrary/TremendousIIIF) ⭐ 8 | 🐛 6 | 🌐 C# | 📅 2023-08-30 - A .NET C# IIIF Image API 2.1 server.
-* [triplet](https://github.com/libops/triplet) ⭐ 5 | 🐛 10 | 🌐 Go | 📅 2026-10-17 - A fast IIIF Image API 3.0 and Presentation API 3.0 server written in Go, powered by [libvips](https://github.com/libvips/libvips) ⭐ 11,740 | 🐛 75 | 🌐 C | 📅 2026-10-16 for image processing.
+* [triplet](https://github.com/libops/triplet) ⭐ 5 | 🐛 10 | 🌐 Go | 📅 2026-10-18 - A fast IIIF Image API 3.0 and Presentation API 3.0 server written in Go, powered by [libvips](https://github.com/libvips/libvips) ⭐ 11,742 | 🐛 74 | 🌐 C | 📅 2026-10-18 for image processing.
 * [FSI Server](https://www.neptunelabs.com/fsi-server/) - FSI Server is a popular commercial solution for serving high resolution images in multiple formats.  It accompanies the Flash-based FSI Viewer for zoom and pan. [IIIF adaptor for FSI server](https://github.com/jhu-digital-manuscripts/rosa/tree/master/rosa-iiif-endpoint) ⭐ 2 | 🐛 1 | 🌐 Java | 📅 2014-09-05
 * [iiif-worker](https://github.com/mkpoli/iiif-worker) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-31 - IIIF Image API 3.0 level 2 server that runs on a Cloudflare Worker with its images in R2, using WebAssembly for the image processing so there is no server process to operate.
 * [Cantaloupe](https://cantaloupe-project.github.io/) - Image server written in Java fully conformant to all IIIF Image API versions through 3.0.
@@ -125,7 +125,7 @@ As defined by Wikipedia a shim is a small library that transparently intercepts 
 ## IIIF Viewers
 
 * [Internet Archive BookReader](https://github.com/internetarchive/bookreader) ⭐ 1,180 | 🐛 287 | 🌐 JavaScript | 📅 2026-10-14 - A viewer developed by the Internet Archive, specially suited for viewing books.
-* [Tify](https://github.com/subugoe/tify) ⭐ 131 | 🐛 33 | 🌐 JavaScript | 📅 2026-10-16 - Slim and fast IIIF document viewer built with Vue.js.
+* [Tify](https://github.com/subugoe/tify) ⭐ 131 | 🐛 36 | 🌐 JavaScript | 📅 2026-10-16 - Slim and fast IIIF document viewer built with Vue.js.
 * [Mirador](https://projectmirador.org/) - Multi-up workspace. See also [Awesome Mirador list](https://github.com/ProjectMirador/mirador-awesome) ⭐ 46 | 🐛 5 | 📅 2026-02-11.
 * [Glycerine Viewer](https://github.com/Systemik-Solutions/glycerine-viewer) ⭐ 15 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-31 - An elegant and contemporary Vue 3 Viewer with a comprehensive annotation feature set.
 * [Tamerlane](https://github.com/tamerlaneviewer/tamerlane) ⭐ 14 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-03 - A lightweight IIIF viewer prioritising user experience for annotated resources.
@@ -146,7 +146,7 @@ As defined by Wikipedia a shim is a small library that transparently intercepts 
 
 * [Leaflet-IIIF](https://github.com/mejackreed/Leaflet-IIIF) ⭐ 138 | 🐛 16 | 🌐 JavaScript | 📅 2023-03-09 - Lightweight, extensible IIIF image viewer.
 * [IIIFViewer](https://github.com/klokantech/iiifviewer) ⭐ 53 | 🐛 5 | 🌐 JavaScript | 📅 2019-06-25 - IIIF WebGL / Canvas / DOM mobile-ready fast viewer powered by OpenLayers V3.
-* [Imaging Helper Plugin](https://github.com/msalsbery/OpenSeadragonImagingHelper) ⭐ 18 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-14 - OpenSeadragon plugin with utility functions.
+* [Imaging Helper Plugin](https://github.com/msalsbery/OpenSeadragonImagingHelper) ⭐ 18 | 🐛 2 | 🌐 JavaScript | 📅 2026-10-18 - OpenSeadragon plugin with utility functions.
 * [React Canvas Panel](https://github.com/digirati-co-uk/react-iiif-vault?tab=readme-ov-file#canvas-panel) ⭐ 4 | 🐛 7 | 🌐 TypeScript | 📅 2026-10-16 - A wrapper around [Atlas](https://github.com/atlas-viewer/atlas) ⭐ 6 | 🐛 15 | 🌐 TypeScript | 📅 2026-10-13 with IIIF Image API support for image services, and Manifests.
 * [OpenSeadragon](https://openseadragon.github.io/examples/tilesource-iiif/) - IIIF tile support.
   * [Curtain Viewer](https://github.com/vanda/curtain-viewer) ⭐ 13 | 🐛 9 | 🌐 JavaScript | 📅 2024-09-02 - Viewer based on OpenSeadragon using the curtain-sync plugin for comparing naturally aligned image variants
@@ -490,4 +490,4 @@ To the extent possible under law, all contributors waive all copyright and relat
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
