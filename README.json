@@ -113,7 +113,7 @@
             "id": 54192472,
             "language": "C++",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-17T23:03:01Z",
+            "last_commit": "2026-10-19T16:22:35Z",
             "open_issues": 6,
             "owner": "dasch-swiss",
             "repo": "sipi",
@@ -186,8 +186,8 @@
             "id": 1237675602,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-10-17T16:11:48Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-19T12:23:56Z",
+            "open_issues": 2,
             "owner": "dbmdz",
             "repo": "wolpi",
             "stars": 19,
@@ -283,6 +283,27 @@
             ]
           },
           "first_seen": "2026-08-28T20:57:12.539Z"
+        },
+        {
+          "node_type": "item",
+          "title": "SIPI-2",
+          "description": "SIPI-2 is a new open-source IIIF Image API 3 server written in C++20. Supports Local and S3-compatible storage, TIFF, JPEG 2000 based on Grok, HTJ2K, JPEG and PNG input, and JPEG, PNG and WebP output. Release 1.0.0, https://hub.docker.com/r/lrosenth/sipi-2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "New SIPI (SIPI-2) IIIF server",
+            "homepage": null,
+            "id": 1400737342,
+            "language": "C++",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-10-13T23:04:06Z",
+            "open_issues": 0,
+            "owner": "OMAS-IIIF",
+            "repo": "sipi-2",
+            "stars": 4,
+            "topics": []
+          },
+          "first_seen": "2026-10-19T16:32:21.169Z"
         },
         {
           "node_type": "item",
@@ -466,8 +487,8 @@
             "id": 72221,
             "language": "JavaScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-14T20:18:09Z",
-            "open_issues": 287,
+            "last_commit": "2026-10-18T23:51:51Z",
+            "open_issues": 286,
             "owner": "internetarchive",
             "repo": "bookreader",
             "stars": 1180,
@@ -575,6 +596,61 @@
         },
         {
           "node_type": "item",
+          "title": "Tactum Viewer",
+          "description": "A web-based viewer for high-resolution 3D surface scans, streaming albedo and height tiles with interactive relighting and measurement tools, with IIIF Presentation 3 and Image API support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Web-based 3D multi-resolution viewer with dynamic tiling for 2.5D surface data",
+            "homepage": "https://factumfoundation.xyz/tactum-viewer/",
+            "id": 1290375721,
+            "language": "JavaScript",
+            "license": "Apache-2.0",
+            "last_commit": "2026-10-11T08:39:28Z",
+            "open_issues": 5,
+            "owner": "FactumFoundation",
+            "repo": "tactum-viewer",
+            "stars": 6,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T20:57:12.539Z"
+        },
+        {
+          "node_type": "item",
+          "title": "IIIF Kasane",
+          "description": "A web viewer for IIIF Presentation 3.0 that layers 3D models, images, audio, video and annotations in one view. Supports comparison, maps, IIIF Content State and the IIIF Curation API. Source.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "IIIF Kasane - A viewer that layers 3D models, images, audio, video and annotations from IIIF Manifests / IIIF のマニフェストから 3D モデル・画像・音声・動画と注釈を重ねて表示するビューア",
+            "homepage": "https://kasane.ldas.jp",
+            "id": 1027401250,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-10-19T13:24:47Z",
+            "open_issues": 5,
+            "owner": "nakamura196",
+            "repo": "iiif-kasane",
+            "stars": 5,
+            "topics": [
+              "3d-models",
+              "3d-viewer",
+              "annotation",
+              "iiif",
+              "iiif-3d",
+              "maplibre",
+              "nextjs",
+              "react",
+              "react-three-fiber",
+              "tailwindcss",
+              "threejs",
+              "typescript"
+            ]
+          },
+          "first_seen": "2026-10-19T16:32:21.169Z"
+        },
+        {
+          "node_type": "item",
           "title": "Mirador Video",
           "description": "Mirador 4 fork supporting annotation on videos.",
           "children": [],
@@ -595,27 +671,6 @@
               "mirador",
               "mirador4"
             ]
-          },
-          "first_seen": "2026-08-28T20:57:12.539Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Tactum Viewer",
-          "description": "A web-based viewer for high-resolution 3D surface scans, streaming albedo and height tiles with interactive relighting and measurement tools, with IIIF Presentation 3 and Image API support.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Web-based 3D multi-resolution viewer with dynamic tiling for 2.5D surface data",
-            "homepage": "https://factumfoundation.xyz/tactum-viewer/",
-            "id": 1290375721,
-            "language": "JavaScript",
-            "license": "Apache-2.0",
-            "last_commit": "2026-10-11T08:39:28Z",
-            "open_issues": 5,
-            "owner": "FactumFoundation",
-            "repo": "tactum-viewer",
-            "stars": 5,
-            "topics": []
           },
           "first_seen": "2026-08-28T20:57:12.539Z"
         },
@@ -1286,7 +1341,7 @@
             "id": 446212239,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T14:02:07Z",
+            "last_commit": "2026-10-19T10:36:19Z",
             "open_issues": 14,
             "owner": "IIIF-Commons",
             "repo": "parser",
@@ -1485,8 +1540,8 @@
             "id": 478071120,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-13T01:02:39Z",
-            "open_issues": 15,
+            "last_commit": "2026-10-19T08:37:14Z",
+            "open_issues": 16,
             "owner": "KiarashMinoo",
             "repo": "IIIF.Manifest.Serializer.Net",
             "stars": 0,
@@ -1655,8 +1710,8 @@
             "id": 405131946,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-16T17:56:27Z",
-            "open_issues": 62,
+            "last_commit": "2026-10-19T11:18:27Z",
+            "open_issues": 63,
             "owner": "digirati-co-uk",
             "repo": "iiif-manifest-editor",
             "stars": 45,
@@ -1835,8 +1890,8 @@
             "id": 405131946,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-16T17:56:27Z",
-            "open_issues": 62,
+            "last_commit": "2026-10-19T11:18:27Z",
+            "open_issues": 63,
             "owner": "digirati-co-uk",
             "repo": "iiif-manifest-editor",
             "stars": 45,
@@ -2186,8 +2241,8 @@
             "id": 684524371,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-16T13:49:04Z",
-            "open_issues": 11,
+            "last_commit": "2026-10-19T14:51:20Z",
+            "open_issues": 10,
             "owner": "rsimon",
             "repo": "immarkus",
             "stars": 65,
@@ -2651,30 +2706,62 @@
       "description": "Wiki software tools that implement or leverage the IIIF APIs",
       "items": [
         {
-          "node_type": "item",
-          "title": "Mirador extension to MediaWiki",
-          "description": "MediaWiki extension which offers the Mirador Viewer along with a number of open-source plugins.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Mirador 3 extension to MediaWiki",
-            "homepage": null,
-            "id": 553149439,
-            "language": "JavaScript",
-            "license": "GPL-2.0",
-            "last_commit": "2026-06-23T22:51:23Z",
-            "open_issues": 0,
-            "owner": "a-g-van-hamel-foundation",
-            "repo": "Mirador",
-            "stars": 4,
-            "topics": [
-              "iiif",
-              "mediawiki-extension",
-              "mirador",
-              "mirador-3"
-            ]
-          },
-          "first_seen": "2026-08-28T20:57:12.539Z"
+          "node_type": "group",
+          "title": "MediaWiki extensions developed for the CODECS",
+          "description": "website:",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Mirador",
+              "description": "MediaWiki extension which offers the Mirador Viewer along with a number of open-source plugins.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Mirador 3 extension to MediaWiki",
+                "homepage": null,
+                "id": 553149439,
+                "language": "JavaScript",
+                "license": "GPL-2.0",
+                "last_commit": "2026-06-23T22:51:23Z",
+                "open_issues": 0,
+                "owner": "a-g-van-hamel-foundation",
+                "repo": "Mirador",
+                "stars": 4,
+                "topics": [
+                  "iiif",
+                  "mediawiki-extension",
+                  "mirador",
+                  "mirador-3"
+                ]
+              },
+              "first_seen": "2026-08-28T20:57:12.539Z"
+            },
+            {
+              "node_type": "item",
+              "title": "IIIF",
+              "description": "a suite of tools and API services for working with IIIF on a wiki. Its features focus on annotations, collections, range editing, customisable forms, image files from MediaWiki sites and integration with Semantic MediaWiki.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "MediaWiki extension offering API services and associated tools for working with IIIF",
+                "homepage": null,
+                "id": 852270257,
+                "language": "JavaScript",
+                "license": null,
+                "last_commit": "2026-10-18T15:31:57Z",
+                "open_issues": 0,
+                "owner": "a-g-van-hamel-foundation",
+                "repo": "IIIF",
+                "stars": 3,
+                "topics": [
+                  "api",
+                  "iiif",
+                  "mediawiki-extension"
+                ]
+              },
+              "first_seen": "2026-10-19T16:32:21.169Z"
+            }
+          ]
         }
       ],
       "title": "Wiki Integration"
@@ -2846,7 +2933,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T13:22:19.104Z",
+    "last_updated": "2026-10-19T16:32:21.169Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome IIIF-related resources",
@@ -2854,8 +2941,8 @@
       "id": 58644759,
       "language": null,
       "license": null,
-      "last_commit": "2026-10-12T13:10:35Z",
-      "open_issues": 12,
+      "last_commit": "2026-10-19T14:25:23Z",
+      "open_issues": 10,
       "owner": "IIIF",
       "repo": "awesome-iiif",
       "stars": 562,
@@ -2868,7 +2955,7 @@
         "iiif-presentations"
       ]
     },
-    "original_repository_sha": "a3e84763ad6336486c65fcfea87e78a4dc01aa7f",
+    "original_repository_sha": "0732e6a53d17096b4b09fe4731fef4d12c45d76b",
     "enhanced_repository": "enhansome/enhansome-iiif",
     "enhanced_repository_description": null,
     "title": "Awesome International Image Interoperability Framework (IIIF) with stars"
