@@ -113,7 +113,7 @@
             "id": 54192472,
             "language": "C++",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-23T11:55:17Z",
+            "last_commit": "2026-10-24T23:08:49Z",
             "open_issues": 6,
             "owner": "dasch-swiss",
             "repo": "sipi",
@@ -186,7 +186,7 @@
             "id": 1237675602,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-10-24T02:24:49Z",
+            "last_commit": "2026-10-24T21:37:21Z",
             "open_issues": 4,
             "owner": "dbmdz",
             "repo": "wolpi",
@@ -627,7 +627,7 @@
             "id": 1027401250,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-24T04:53:01Z",
+            "last_commit": "2026-10-25T08:30:53Z",
             "open_issues": 7,
             "owner": "nakamura196",
             "repo": "iiif-kasane",
@@ -2933,7 +2933,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T13:23:56.306Z",
+    "last_updated": "2026-10-25T13:46:05.132Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome IIIF-related resources",
