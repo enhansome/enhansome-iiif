@@ -94,15 +94,15 @@ These servers support the IIIF Image API. Some may also have support for the Pre
 * [Loris](https://github.com/loris-imageserver/loris) ⭐ 216 | 🐛 107 | 🌐 Python | 📅 2023-09-07 - Written in Python.
 * [go-iiif](https://github.com/thisisaaronland/go-iiif) ⭐ 98 | 🐛 52 | 🌐 Go | 📅 2026-09-18 - IIIF server written in go (fork of [greut/iiif](https://github.com/greut/iiif) ⭐ 11 | 🐛 3 | 🌐 Go | 📅 2021-02-15).
 * [RAIS](https://github.com/uoregon-libraries/rais-image-server) ⭐ 84 | 🐛 10 | 🌐 Go | 📅 2026-09-29 - 100% open source tile server for JP2 images written in Go.
-* [riiif](https://github.com/curationexperts/riiif) ⭐ 40 | 🐛 19 | 🌐 Ruby | 📅 2026-10-26 - Written in Ruby as a Rails engine.
+* [riiif](https://github.com/curationexperts/riiif) ⭐ 40 | 🐛 17 | 🌐 Ruby | 📅 2026-10-26 - Written in Ruby as a Rails engine.
 * [SIPI](https://github.com/dasch-swiss/sipi) ⭐ 38 | 🐛 6 | 🌐 C++ | 📅 2026-10-24 - IIIFv3 image server written in C++.
 * [Hymir IIIF Server](https://github.com/dbmdz/iiif-server-hymir) ⚠️ Archived - IIIF server written in Java supporting IIIF Image and Presentation API.
 * [iiif\_s3](https://github.com/cmoa/iiif_s3) ⭐ 31 | 🐛 2 | 🌐 Ruby | 📅 2017-11-26 - Ruby library for generating a static IIIF level 0 Image and Presentation API server on Amazon S3.
-* [Wolpi](https://github.com/dbmdz/wolpi) ⭐ 19 | 🐛 3 | 🌐 Java | 📅 2026-10-26 - A fast and extensible IIIF Image API 2.1 + 3.0 image server based on libvips, supporting Python and JavaScript extensions.
+* [Wolpi](https://github.com/dbmdz/wolpi) ⭐ 19 | 🐛 3 | 🌐 Java | 📅 2026-10-27 - A fast and extensible IIIF Image API 2.1 + 3.0 image server based on libvips, supporting Python and JavaScript extensions.
 * [aws-batch-iiif-generator](https://github.com/vt-digital-libraries-platform/aws-batch-iiif-generator) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2024-09-24 - An automated pipeline to generate IIIF tiles and manifests and use AWS S3 as an IIIF image server.
 * [TremendousIIIF](https://github.com/britishlibrary/TremendousIIIF) ⭐ 8 | 🐛 6 | 🌐 C# | 📅 2023-08-30 - A .NET C# IIIF Image API 2.1 server.
 * [SIPI-2](https://github.com/OMAS-IIIF/sipi-2) ⭐ 5 | 🐛 0 | 🌐 C++ | 📅 2026-10-13 - SIPI-2 is a new open-source IIIF Image API 3 server written in C++20. Supports Local and S3-compatible storage, TIFF, JPEG 2000 based on Grok, HTJ2K, JPEG and PNG input, and JPEG, PNG and WebP output. [Release 1.0.0](https://github.com/OMAS-IIIF/sipi-2/releases/tag/v1.0.0) ⭐ 5 | 🐛 0 | 🌐 C++ | 📅 2026-10-13, <https://hub.docker.com/r/lrosenth/sipi-2>
-* [triplet](https://github.com/libops/triplet) ⭐ 5 | 🐛 6 | 🌐 Go | 📅 2026-10-22 - A fast IIIF Image API 3.0 and Presentation API 3.0 server written in Go, powered by [libvips](https://github.com/libvips/libvips) ⭐ 11,765 | 🐛 69 | 🌐 C | 📅 2026-10-26 for image processing.
+* [triplet](https://github.com/libops/triplet) ⭐ 5 | 🐛 6 | 🌐 Go | 📅 2026-10-22 - A fast IIIF Image API 3.0 and Presentation API 3.0 server written in Go, powered by [libvips](https://github.com/libvips/libvips) ⭐ 11,768 | 🐛 69 | 🌐 C | 📅 2026-10-27 for image processing.
 * [FSI Server](https://www.neptunelabs.com/fsi-server/) - FSI Server is a popular commercial solution for serving high resolution images in multiple formats.  It accompanies the Flash-based FSI Viewer for zoom and pan. [IIIF adaptor for FSI server](https://github.com/jhu-digital-manuscripts/rosa/tree/master/rosa-iiif-endpoint) ⭐ 2 | 🐛 1 | 🌐 Java | 📅 2014-09-05
 * [iiif-worker](https://github.com/mkpoli/iiif-worker) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-31 - IIIF Image API 3.0 level 2 server that runs on a Cloudflare Worker with its images in R2, using WebAssembly for the image processing so there is no server process to operate.
 * [Cantaloupe](https://cantaloupe-project.github.io/) - Image server written in Java fully conformant to all IIIF Image API versions through 3.0.
@@ -125,8 +125,8 @@ As defined by Wikipedia a shim is a small library that transparently intercepts 
 
 ## IIIF Viewers
 
-* [Internet Archive BookReader](https://github.com/internetarchive/bookreader) ⭐ 1,184 | 🐛 293 | 🌐 JavaScript | 📅 2026-10-24 - A viewer developed by the Internet Archive, specially suited for viewing books.
-* [Tify](https://github.com/subugoe/tify) ⭐ 131 | 🐛 38 | 🌐 JavaScript | 📅 2026-10-20 - Slim and fast IIIF document viewer built with Vue.js.
+* [Internet Archive BookReader](https://github.com/internetarchive/bookreader) ⭐ 1,185 | 🐛 293 | 🌐 JavaScript | 📅 2026-10-24 - A viewer developed by the Internet Archive, specially suited for viewing books.
+* [Tify](https://github.com/subugoe/tify) ⭐ 131 | 🐛 39 | 🌐 JavaScript | 📅 2026-10-26 - Slim and fast IIIF document viewer built with Vue.js.
 * [Mirador](https://projectmirador.org/) - Multi-up workspace. See also [Awesome Mirador list](https://github.com/ProjectMirador/mirador-awesome) ⭐ 46 | 🐛 5 | 📅 2026-02-11.
 * [Glycerine Viewer](https://github.com/Systemik-Solutions/glycerine-viewer) ⭐ 15 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-31 - An elegant and contemporary Vue 3 Viewer with a comprehensive annotation feature set.
 * [Tamerlane](https://github.com/tamerlaneviewer/tamerlane) ⭐ 14 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-03 - A lightweight IIIF viewer prioritising user experience for annotated resources.
@@ -149,7 +149,7 @@ As defined by Wikipedia a shim is a small library that transparently intercepts 
 * [Leaflet-IIIF](https://github.com/mejackreed/Leaflet-IIIF) ⭐ 138 | 🐛 16 | 🌐 JavaScript | 📅 2023-03-09 - Lightweight, extensible IIIF image viewer.
 * [IIIFViewer](https://github.com/klokantech/iiifviewer) ⭐ 53 | 🐛 5 | 🌐 JavaScript | 📅 2019-06-25 - IIIF WebGL / Canvas / DOM mobile-ready fast viewer powered by OpenLayers V3.
 * [Imaging Helper Plugin](https://github.com/msalsbery/OpenSeadragonImagingHelper) ⭐ 18 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-19 - OpenSeadragon plugin with utility functions.
-* [React Canvas Panel](https://github.com/digirati-co-uk/react-iiif-vault?tab=readme-ov-file#canvas-panel) ⭐ 4 | 🐛 7 | 🌐 TypeScript | 📅 2026-10-16 - A wrapper around [Atlas](https://github.com/atlas-viewer/atlas) ⭐ 6 | 🐛 15 | 🌐 TypeScript | 📅 2026-10-13 with IIIF Image API support for image services, and Manifests.
+* [React Canvas Panel](https://github.com/digirati-co-uk/react-iiif-vault?tab=readme-ov-file#canvas-panel) ⭐ 4 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-27 - A wrapper around [Atlas](https://github.com/atlas-viewer/atlas) ⭐ 6 | 🐛 15 | 🌐 TypeScript | 📅 2026-10-13 with IIIF Image API support for image services, and Manifests.
 * [OpenSeadragon](https://openseadragon.github.io/examples/tilesource-iiif/) - IIIF tile support.
   * [Curtain Viewer](https://github.com/vanda/curtain-viewer) ⭐ 13 | 🐛 9 | 🌐 JavaScript | 📅 2024-09-02 - Viewer based on OpenSeadragon using the curtain-sync plugin for comparing naturally aligned image variants
   * [Scalebar Plugin](https://github.com/NIST-ISG/OpenSeadragonScalebar) ⭐ 5 | 🐛 0 | 📅 2016-04-13 - OpenSeadragon plugin for physical scale overlay.
@@ -190,7 +190,7 @@ Various tools for working with images such as cropping tools.
 ## Presentation API Libraries
 
 * [Manifesto](https://github.com/UniversalViewer/manifesto) ⭐ 50 | 🐛 32 | 🌐 TypeScript | 📅 2026-10-22 - IIIF Presentation API client and server utility library.
-* [iiif-prezi3](https://github.com/iiif-prezi/iiif-prezi3) ⭐ 42 | 🐛 34 | 🌐 Python | 📅 2026-10-26 - Presentation 3 Python library.
+* [iiif-prezi3](https://github.com/iiif-prezi/iiif-prezi3) ⭐ 42 | 🐛 35 | 🌐 Python | 📅 2026-10-26 - Presentation 3 Python library.
 * [iiif-prezi](https://github.com/iiif-prezi/iiif-prezi) ⭐ 35 | 🐛 13 | 🌐 Python | 📅 2024-04-17 - Presentation 2 Python library providing a reference implementation.
 * [O'Sullivan](https://github.com/IIIF/osullivan) ⭐ 33 | 🐛 28 | 🌐 Ruby | 📅 2026-08-17 - Ruby API for creating IIIF manifests.
 * [iiif-apis](https://github.com/dbmdz/iiif-apis) ⚠️ Archived - Java IIIF API libraries.
@@ -336,7 +336,7 @@ Links to help you discover IIIF resources that have been shared, demonstrations 
 
 ## Annotations
 
-* [IMMARKUS](https://github.com/rsimon/immarkus) ⭐ 65 | 🐛 11 | 🌐 TypeScript | 📅 2026-10-26 - A semantic image annotation tool for researchers, digital humanists and cultural heritage professionals.
+* [IMMARKUS](https://github.com/rsimon/immarkus) ⭐ 65 | 🐛 10 | 🌐 TypeScript | 📅 2026-10-27 - A semantic image annotation tool for researchers, digital humanists and cultural heritage professionals.
 * [liiive](https://github.com/rsimon/liiive) ⭐ 50 | 🐛 0 | 🌐 TypeScript | 📅 2026-04-18 - A tool for real-time collaborative IIIF image annotation.
 * [ALTO to Annotation list](https://github.com/glenrobson/iiif_stuff/tree/master/alto2annotations) ⭐ 20 | 🐛 0 | 🌐 JavaScript | 📅 2025-09-10 - This XSLT converts an ALTO xml document to an annotation lists for use with a IIIF manifests.
 * [Annocoda](https://github.com/jptmoore/annocoda) ⚠️ Archived - Mobile-friendly web app that uses IIIF Content Search 2.0 and Presentation 3.0 to provide image search capabilities
@@ -412,7 +412,7 @@ Internet file hosting that provides IIIF support (including both paid and free o
 These are resources that are specifically useful for working with newspapers. Many of them are outputs of the [IIIF Newspaper Community Group](http://iiif.io/community/groups/newspapers/) (now on hiatus).
 
 * [Populating the Annotation Store with IIIF Annotation List](https://github.com/glenrobson/SimpleAnnotationServer/blob/master/doc/PopulatingAnnotations.md) ⭐ 104 | 🐛 25 | 🌐 JavaScript | 📅 2026-03-01 - Provides instructions on how to edit OCR text using annotations in Mirador.
-* [Open ONI (Open Online Newspaper Initiative)](https://github.com/open-oni/open-oni) ⭐ 57 | 🐛 88 | 🌐 Python | 📅 2026-09-15 - Open Online Newspaper Initiative (Open ONI) is a community-maintained project to make historic American newspapers browsable and searchable on the web.
+* [Open ONI (Open Online Newspaper Initiative)](https://github.com/open-oni/open-oni) ⭐ 58 | 🐛 88 | 🌐 Python | 📅 2026-09-15 - Open Online Newspaper Initiative (Open ONI) is a community-maintained project to make historic American newspapers browsable and searchable on the web.
 * [ndnp\_iiif](https://github.com/umd-mith/ndnp_iiif) ⭐ 12 | 🐛 5 | 🌐 JavaScript | 📅 2016-06-07 - Python program for turning [National Digital Newspaper Program data](https://www.loc.gov/ndnp/) into static IIIF JSON that is ready for mounting on the Web.
 * [IIIF Newspapers Google Drive Folder](https://goo.gl/jNFfVw) - Working documents of the Interest Group for meeting minutes, and working drafts of best practices, etc.
 * [Welsh Newspapers Online](http://newspapers.library.wales/) - Provides access to over 1 million newspaper pages using the IIIF Image API.
@@ -494,4 +494,4 @@ To the extent possible under law, all contributors waive all copyright and relat
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
