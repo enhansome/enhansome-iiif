@@ -97,10 +97,10 @@ These servers support the IIIF Image API. Some may also have support for the Pre
 * [riiif](https://github.com/curationexperts/riiif) ⭐ 40 | 🐛 17 | 🌐 Ruby | 📅 2026-10-26 - Written in Ruby as a Rails engine.
 * [Hymir IIIF Server](https://github.com/dbmdz/iiif-server-hymir) ⚠️ Archived - IIIF server written in Java supporting IIIF Image and Presentation API.
 * [iiif\_s3](https://github.com/cmoa/iiif_s3) ⭐ 31 | 🐛 2 | 🌐 Ruby | 📅 2017-11-26 - Ruby library for generating a static IIIF level 0 Image and Presentation API server on Amazon S3.
-* [Wolpi](https://github.com/dbmdz/wolpi) ⭐ 19 | 🐛 2 | 🌐 Java | 📅 2026-11-06 - A fast and extensible IIIF Image API 2.1 + 3.0 image server based on libvips, supporting Python and JavaScript extensions.
+* [Wolpi](https://github.com/dbmdz/wolpi) ⭐ 19 | 🐛 3 | 🌐 Java | 📅 2026-11-07 - A fast and extensible IIIF Image API 2.1 + 3.0 image server based on libvips, supporting Python and JavaScript extensions.
 * [aws-batch-iiif-generator](https://github.com/vt-digital-libraries-platform/aws-batch-iiif-generator) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2024-09-24 - An automated pipeline to generate IIIF tiles and manifests and use AWS S3 as an IIIF image server.
 * [TremendousIIIF](https://github.com/britishlibrary/TremendousIIIF) ⭐ 8 | 🐛 6 | 🌐 C# | 📅 2023-08-30 - A .NET C# IIIF Image API 2.1 server.
-* [triplet](https://github.com/libops/triplet) ⭐ 6 | 🐛 9 | 🌐 Go | 📅 2026-11-06 - A fast IIIF Image API 3.0 and Presentation API 3.0 server written in Go, powered by [libvips](https://github.com/libvips/libvips) ⭐ 11,789 | 🐛 71 | 🌐 C | 📅 2026-11-05 for image processing.
+* [triplet](https://github.com/libops/triplet) ⭐ 6 | 🐛 9 | 🌐 Go | 📅 2026-11-06 - A fast IIIF Image API 3.0 and Presentation API 3.0 server written in Go, powered by [libvips](https://github.com/libvips/libvips) ⭐ 11,791 | 🐛 71 | 🌐 C | 📅 2026-11-05 for image processing.
 * [SIPI-2](https://github.com/OMAS-IIIF/sipi-2) ⭐ 5 | 🐛 0 | 🌐 C++ | 📅 2026-10-13 - SIPI-2 is a new open-source IIIF Image API 3 server written in C++20. Supports Local and S3-compatible storage, TIFF, JPEG 2000 based on Grok, HTJ2K, JPEG and PNG input, and JPEG, PNG and WebP output. [Release 1.0.0](https://github.com/OMAS-IIIF/sipi-2/releases/tag/v1.0.0) ⭐ 5 | 🐛 0 | 🌐 C++ | 📅 2026-10-13, <https://hub.docker.com/r/lrosenth/sipi-2>
 * [FSI Server](https://www.neptunelabs.com/fsi-server/) - FSI Server is a popular commercial solution for serving high resolution images in multiple formats.  It accompanies the Flash-based FSI Viewer for zoom and pan. [IIIF adaptor for FSI server](https://github.com/jhu-digital-manuscripts/rosa/tree/master/rosa-iiif-endpoint) ⭐ 2 | 🐛 1 | 🌐 Java | 📅 2014-09-05
 * [SIPI](https://github.com/dasch-swiss/sipi) ⭐ 2 | 🐛 4 | 🌐 C++ | 📅 2026-11-06 - IIIFv3 image server written in C++.
@@ -196,12 +196,12 @@ Various tools for working with images such as cropping tools.
 * [iiif-apis](https://github.com/dbmdz/iiif-apis) ⚠️ Archived - Java IIIF API libraries.
 * [IIIF Manifest Generator](https://github.com/yale-web-technologies/IIIF-Manifest-Generator) ⭐ 23 | 🐛 3 | 🌐 PHP | 📅 2026-01-28 - PHP library for generating IIIF manifests.
 * [pyIIIFpres](https://github.com/giacomomarchioro/pyIIIFpres) ⭐ 20 | 🐛 2 | 🌐 Python | 📅 2026-01-21 - A Python module built for easing the construction of JSON manifests compliant with IIIF API 3.0 in a production environment, similarly to iiif-prezi for earlier versions of the protocol.
-* [IIIF Parser](https://github.com/iiif-commons/parser) ⭐ 19 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-03 - An NPM module (Node + Browser) for parsing IIIF Presentation 2.1, 3.0, 4.0 and upgrading from v2 to v3. [demo](https://iiif-studio.netlify.app/)
+* [IIIF Parser](https://github.com/iiif-commons/parser) ⭐ 19 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-06 - An NPM module (Node + Browser) for parsing IIIF Presentation 2.1, 3.0, 4.0 and upgrading from v2 to v3. [demo](https://iiif-studio.netlify.app/)
 * [IIIF Builder](https://github.com/iiif-commons/iiif-builder) ⭐ 17 | 🐛 7 | 🌐 TypeScript | 📅 2024-02-12 - An NPM module for building IIIF Manifests programatically
 * [jiiify-presentation](https://github.com/ksclarke/jiiify-presentation) ⭐ 13 | 🐛 3 | 📅 2026-09-11 - A Java IIIF Presentation library.
 * [cozy-iiif](https://github.com/rsimon/cozy-iiif) ⭐ 12 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-06 - A developer-friendly TypeScript API for working with IIIF resources.
 * [Manifold](https://github.com/UniversalViewer/manifold) ⭐ 7 | 🐛 11 | 🌐 TypeScript | 📅 2026-04-23 - Wraps Manifesto to provide viewer state and related utilities.
-* [IIIF Helpers](https://github.com/IIIF-Commons/iiif-helpers) ⭐ 6 | 🐛 13 | 🌐 TypeScript | 📅 2026-11-05 - An NPM module with a variety of helpers for working with IIIF Presentation resources.
+* [IIIF Helpers](https://github.com/IIIF-Commons/iiif-helpers) ⭐ 6 | 🐛 13 | 🌐 TypeScript | 📅 2026-11-06 - An NPM module with a variety of helpers for working with IIIF Presentation resources.
 * [tiny-iiif-manifest-authoring-tool](https://github.com/yuta1984/tiny-iiif-manifest-authoring-tool) ⭐ 6 | 🐛 0 | 🌐 TypeScript | 📅 2023-08-02 - A node.js web app that provides a one-stop solution for publishing IIIF resources, offering various functionalities from image uploading to IIIF manifest authoring.
 * [iiif-tree-component](https://github.com/edsilv/iiif-tree-component) ⚠️ Archived - IIIF tree menu sortable by date with multi-select capability.
 * [Swiiift](https://github.com/mejackreed/Swiiift) ⭐ 1 | 🐛 0 | 🌐 Swift | 📅 2018-02-07 - IIIF presentation API library for Swift.
@@ -495,4 +495,4 @@ To the extent possible under law, all contributors waive all copyright and relat
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
