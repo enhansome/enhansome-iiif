@@ -488,7 +488,7 @@
             "language": "JavaScript",
             "license": "AGPL-3.0",
             "last_commit": "2026-11-06T01:56:48Z",
-            "open_issues": 294,
+            "open_issues": 295,
             "owner": "internetarchive",
             "repo": "bookreader",
             "stars": 1188,
@@ -627,7 +627,7 @@
             "id": 1027401250,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-02T23:47:11Z",
+            "last_commit": "2026-11-08T14:45:05Z",
             "open_issues": 7,
             "owner": "nakamura196",
             "repo": "iiif-kasane",
@@ -2933,7 +2933,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T15:45:47.239Z",
+    "last_updated": "2026-11-08T16:05:22.944Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome IIIF-related resources",
