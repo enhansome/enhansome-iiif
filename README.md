@@ -100,7 +100,7 @@ These servers support the IIIF Image API. Some may also have support for the Pre
 * [Wolpi](https://github.com/dbmdz/wolpi) ⭐ 19 | 🐛 3 | 🌐 Java | 📅 2026-11-07 - A fast and extensible IIIF Image API 2.1 + 3.0 image server based on libvips, supporting Python and JavaScript extensions.
 * [aws-batch-iiif-generator](https://github.com/vt-digital-libraries-platform/aws-batch-iiif-generator) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2024-09-24 - An automated pipeline to generate IIIF tiles and manifests and use AWS S3 as an IIIF image server.
 * [TremendousIIIF](https://github.com/britishlibrary/TremendousIIIF) ⭐ 8 | 🐛 6 | 🌐 C# | 📅 2023-08-30 - A .NET C# IIIF Image API 2.1 server.
-* [triplet](https://github.com/libops/triplet) ⭐ 6 | 🐛 9 | 🌐 Go | 📅 2026-11-06 - A fast IIIF Image API 3.0 and Presentation API 3.0 server written in Go, powered by [libvips](https://github.com/libvips/libvips) ⭐ 11,795 | 🐛 72 | 🌐 C | 📅 2026-11-09 for image processing.
+* [triplet](https://github.com/libops/triplet) ⭐ 6 | 🐛 9 | 🌐 Go | 📅 2026-11-09 - A fast IIIF Image API 3.0 and Presentation API 3.0 server written in Go, powered by [libvips](https://github.com/libvips/libvips) ⭐ 11,796 | 🐛 72 | 🌐 C | 📅 2026-11-10 for image processing.
 * [SIPI-2](https://github.com/OMAS-IIIF/sipi-2) ⭐ 5 | 🐛 0 | 🌐 C++ | 📅 2026-10-13 - SIPI-2 is a new open-source IIIF Image API 3 server written in C++20. Supports Local and S3-compatible storage, TIFF, JPEG 2000 based on Grok, HTJ2K, JPEG and PNG input, and JPEG, PNG and WebP output. [Release 1.0.0](https://github.com/OMAS-IIIF/sipi-2/releases/tag/v1.0.0) ⭐ 5 | 🐛 0 | 🌐 C++ | 📅 2026-10-13, <https://hub.docker.com/r/lrosenth/sipi-2>
 * [FSI Server](https://www.neptunelabs.com/fsi-server/) - FSI Server is a popular commercial solution for serving high resolution images in multiple formats.  It accompanies the Flash-based FSI Viewer for zoom and pan. [IIIF adaptor for FSI server](https://github.com/jhu-digital-manuscripts/rosa/tree/master/rosa-iiif-endpoint) ⭐ 2 | 🐛 1 | 🌐 Java | 📅 2014-09-05
 * [SIPI](https://github.com/dasch-swiss/sipi) ⭐ 2 | 🐛 3 | 🌐 C++ | 📅 2026-11-08 - IIIFv3 image server written in C++.
@@ -222,7 +222,7 @@ These shims allow you to use systems with presentation metadata (e.g. structure 
 * [biiif](https://github.com/edsilv/biiif/) ⭐ 94 | 🐛 23 | 🌐 JavaScript | 📅 2025-01-09 - Organise your files according to a simple naming convention to generate IIIF v3 manifests.
 * [Manifest Editor](https://github.com/bodleian/iiif-manifest-editor) ⭐ 84 | 🐛 23 | 🌐 JavaScript | 📅 2023-03-01 - Web application for importing, viewing, updating, and exporting manifests. See a [demo](https://digital.bodleian.ox.ac.uk/manifest-editor/).
 * [pdiiif](https://github.com/jbaiter/pdiiif) ⭐ 50 | 🐛 8 | 🌐 TypeScript | 📅 2025-10-04 - a JavaScript library to create PDFs from IIIF manifests, completely client-side (with server-based fallback for unsupported browsers).
-* [Digirati Manifest Editor](https://manifest-editor-docs.netlify.app/) - An open-source, IIIF editing tool, designed to provide a visually intuitive interface for creating, editing and updating IIIF Manifests and more. [View on Github](https://github.com/digirati-co-uk/iiif-manifest-editor) ⭐ 45 | 🐛 71 | 🌐 TypeScript | 📅 2026-11-09 | [Demo](https://manifest-editor.digirati.services/)
+* [Digirati Manifest Editor](https://manifest-editor-docs.netlify.app/) - An open-source, IIIF editing tool, designed to provide a visually intuitive interface for creating, editing and updating IIIF Manifests and more. [View on Github](https://github.com/digirati-co-uk/iiif-manifest-editor) ⭐ 45 | 🐛 60 | 🌐 TypeScript | 📅 2026-11-10 | [Demo](https://manifest-editor.digirati.services/)
 * [demetsiiify](https://github.com/jbaiter/demetsiiify) ⭐ 36 | 🐛 16 | 🌐 Python | 📅 2022-12-08 - Web service for creating IIIF manifests from METS/MODS documents.
 * [tropiiify](https://github.com/martimpassos/tropiiify) ⭐ 30 | 🐛 7 | 🌐 JavaScript | 📅 2025-08-27 Tropy plugin that exports images, metadata and annotations as a (level0) IIIF collection.
 * [iiif-producer](https://github.com/ubleipzig/iiif-producer) ⭐ 24 | 🐛 1 | 🌐 Java | 📅 2025-04-17 - A CLI tool that generates IIIF Presentation 2.1 Manifests from METS/MODS (produced by Kitodo).
@@ -244,7 +244,7 @@ These shims allow you to use systems with presentation metadata (e.g. structure 
 
 Tools and resources that provide functionality for presenting IIIF materials in an exhibition-like setting (and potentially other functionality).
 
-* [Exhibition Editor](https://manifest-editor-docs.netlify.app/docs/exhibition-building) - an extension to the [Digirati Manifest Editor](https://github.com/digirati-co-uk/iiif-manifest-editor) ⭐ 45 | 🐛 71 | 🌐 TypeScript | 📅 2026-11-09 which supports the creation and development of IIIF content for storytelling or exhibition style presentations.
+* [Exhibition Editor](https://manifest-editor-docs.netlify.app/docs/exhibition-building) - an extension to the [Digirati Manifest Editor](https://github.com/digirati-co-uk/iiif-manifest-editor) ⭐ 45 | 🐛 60 | 🌐 TypeScript | 📅 2026-11-10 which supports the creation and development of IIIF content for storytelling or exhibition style presentations.
 * [Adno](https://adno.app/en/) - a web application for viewing, editing and sharing narratives and pathways on IIIF images.
 * [Anaver.se](https://anaver.se/) - a web application for loading generative 3D spaces in which users can build exhibitions by hanging IIIF images as frames.
 * [Annona Range Storyboard](https://ncsu-libraries.github.io/annona/range/) - [Annona](https://ncsu-libraries.github.io/annona/) toolkit which allows for the guided viewing of segments of a manifest, in addition to the [Annona Multi Storyboard Viewer](https://ncsu-libraries.github.io/annona/multistoryboard/) for guided comparison of multiple manifests.
@@ -337,7 +337,7 @@ Links to help you discover IIIF resources that have been shared, demonstrations 
 
 ## Annotations
 
-* [IMMARKUS](https://github.com/rsimon/immarkus) ⭐ 65 | 🐛 10 | 🌐 TypeScript | 📅 2026-11-06 - A semantic image annotation tool for researchers, digital humanists and cultural heritage professionals.
+* [IMMARKUS](https://github.com/rsimon/immarkus) ⭐ 65 | 🐛 11 | 🌐 TypeScript | 📅 2026-11-06 - A semantic image annotation tool for researchers, digital humanists and cultural heritage professionals.
 * [liiive](https://github.com/rsimon/liiive) ⭐ 50 | 🐛 0 | 🌐 TypeScript | 📅 2026-04-18 - A tool for real-time collaborative IIIF image annotation.
 * [ALTO to Annotation list](https://github.com/glenrobson/iiif_stuff/tree/master/alto2annotations) ⭐ 20 | 🐛 0 | 🌐 JavaScript | 📅 2025-09-10 - This XSLT converts an ALTO xml document to an annotation lists for use with a IIIF manifests.
 * [Annocoda](https://github.com/jptmoore/annocoda) ⚠️ Archived - Mobile-friendly web app that uses IIIF Content Search 2.0 and Presentation 3.0 to provide image search capabilities
@@ -495,4 +495,4 @@ To the extent possible under law, all contributors waive all copyright and relat
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
