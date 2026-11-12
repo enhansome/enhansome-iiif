@@ -100,10 +100,10 @@ These servers support the IIIF Image API. Some may also have support for the Pre
 * [Wolpi](https://github.com/dbmdz/wolpi) ⭐ 19 | 🐛 3 | 🌐 Java | 📅 2026-11-07 - A fast and extensible IIIF Image API 2.1 + 3.0 image server based on libvips, supporting Python and JavaScript extensions.
 * [aws-batch-iiif-generator](https://github.com/vt-digital-libraries-platform/aws-batch-iiif-generator) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2024-09-24 - An automated pipeline to generate IIIF tiles and manifests and use AWS S3 as an IIIF image server.
 * [TremendousIIIF](https://github.com/britishlibrary/TremendousIIIF) ⭐ 8 | 🐛 6 | 🌐 C# | 📅 2023-08-30 - A .NET C# IIIF Image API 2.1 server.
-* [triplet](https://github.com/libops/triplet) ⭐ 6 | 🐛 9 | 🌐 Go | 📅 2026-11-11 - A fast IIIF Image API 3.0 and Presentation API 3.0 server written in Go, powered by [libvips](https://github.com/libvips/libvips) ⭐ 11,798 | 🐛 75 | 🌐 C | 📅 2026-11-11 for image processing.
+* [triplet](https://github.com/libops/triplet) ⭐ 6 | 🐛 9 | 🌐 Go | 📅 2026-11-12 - A fast IIIF Image API 3.0 and Presentation API 3.0 server written in Go, powered by [libvips](https://github.com/libvips/libvips) ⭐ 11,801 | 🐛 74 | 🌐 C | 📅 2026-11-12 for image processing.
 * [SIPI-2](https://github.com/OMAS-IIIF/sipi-2) ⭐ 5 | 🐛 0 | 🌐 C++ | 📅 2026-10-13 - SIPI-2 is a new open-source IIIF Image API 3 server written in C++20. Supports Local and S3-compatible storage, TIFF, JPEG 2000 based on Grok, HTJ2K, JPEG and PNG input, and JPEG, PNG and WebP output. [Release 1.0.0](https://github.com/OMAS-IIIF/sipi-2/releases/tag/v1.0.0) ⭐ 5 | 🐛 0 | 🌐 C++ | 📅 2026-10-13, <https://hub.docker.com/r/lrosenth/sipi-2>
 * [FSI Server](https://www.neptunelabs.com/fsi-server/) - FSI Server is a popular commercial solution for serving high resolution images in multiple formats.  It accompanies the Flash-based FSI Viewer for zoom and pan. [IIIF adaptor for FSI server](https://github.com/jhu-digital-manuscripts/rosa/tree/master/rosa-iiif-endpoint) ⭐ 2 | 🐛 1 | 🌐 Java | 📅 2014-09-05
-* [SIPI](https://github.com/dasch-swiss/sipi) ⭐ 2 | 🐛 4 | 🌐 C++ | 📅 2026-11-11 - IIIFv3 image server written in C++.
+* [SIPI](https://github.com/dasch-swiss/sipi) ⭐ 2 | 🐛 2 | 🌐 C++ | 📅 2026-11-12 - IIIFv3 image server written in C++.
 * [iiif-worker](https://github.com/mkpoli/iiif-worker) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-29 - IIIF Image API 3.0 level 2 server that runs on a Cloudflare Worker with its images in R2, using WebAssembly for the image processing so there is no server process to operate.
 * [Cantaloupe](https://cantaloupe-project.github.io/) - Image server written in Java fully conformant to all IIIF Image API versions through 3.0.
 * [digilib](https://robcast.github.io/digilib/) - Image server written in Java.
@@ -125,13 +125,13 @@ As defined by Wikipedia a shim is a small library that transparently intercepts 
 
 ## IIIF Viewers
 
-* [Internet Archive BookReader](https://github.com/internetarchive/bookreader) ⭐ 1,189 | 🐛 295 | 🌐 JavaScript | 📅 2026-11-11 - A viewer developed by the Internet Archive, specially suited for viewing books.
+* [Internet Archive BookReader](https://github.com/internetarchive/bookreader) ⭐ 1,190 | 🐛 296 | 🌐 JavaScript | 📅 2026-11-12 - A viewer developed by the Internet Archive, specially suited for viewing books.
 * [Tify](https://github.com/subugoe/tify) ⭐ 131 | 🐛 42 | 🌐 JavaScript | 📅 2026-11-04 - Slim and fast IIIF document viewer built with Vue.js.
 * [Mirador](https://projectmirador.org/) - Multi-up workspace. See also [Awesome Mirador list](https://github.com/ProjectMirador/mirador-awesome) ⭐ 46 | 🐛 5 | 📅 2026-02-11.
 * [Glycerine Viewer](https://github.com/Systemik-Solutions/glycerine-viewer) ⭐ 15 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-30 - An elegant and contemporary Vue 3 Viewer with a comprehensive annotation feature set.
 * [Tamerlane](https://github.com/tamerlaneviewer/tamerlane) ⭐ 14 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-11 - A lightweight IIIF viewer prioritising user experience for annotated resources.
 * [Tactum Viewer](https://github.com/FactumFoundation/tactum-viewer) ⭐ 7 | 🐛 5 | 🌐 JavaScript | 📅 2026-11-01 - A web-based viewer for high-resolution 3D surface scans, streaming albedo and height tiles with interactive relighting and measurement tools, with IIIF Presentation 3 and Image API support.
-* [IIIF Kasane](https://kasane.ldas.jp/) - A web viewer for IIIF Presentation 3.0 that layers 3D models, images, audio, video and annotations in one view. Supports comparison, maps, IIIF Content State and the IIIF Curation API. [Source](https://github.com/nakamura196/iiif-kasane) ⭐ 6 | 🐛 7 | 🌐 TypeScript | 📅 2026-11-09.
+* [IIIF Kasane](https://kasane.ldas.jp/) - A web viewer for IIIF Presentation 3.0 that layers 3D models, images, audio, video and annotations in one view. Supports comparison, maps, IIIF Content State and the IIIF Curation API. [Source](https://github.com/nakamura196/iiif-kasane) ⭐ 6 | 🐛 6 | 🌐 TypeScript | 📅 2026-11-12.
 * [Mirador Video](https://github.com/TETRAS-IIIF/mirador-video) ⭐ 5 | 🐛 9 | 🌐 JavaScript | 📅 2026-11-06 - Mirador 4 fork supporting annotation on videos.
 * [Allmaps](https://allmaps.org/) – A set of tools for curating, georeferencing and exploring IIIF maps.
 * [Archive Viewer](https://archiveviewer.org/) - A viewer for scanned images from various archives and repositories. (Presentation API v2 only)
@@ -267,7 +267,7 @@ Libraries and applications that support the Content Search API.
 
 * [Ocracoke](https://github.com/NCSU-Libraries/ocracoke) ⭐ 33 | 🐛 21 | 🌐 Ruby | 📅 2022-12-14 - Rails application to create, index, and search text from page images and provide results in IIIF Content Search API format.
 * [Whiiif](https://github.com/mbennett-uoe/whiiif) ⭐ 17 | 🐛 11 | 🌐 Python | 📅 2020-12-16 - Python/Flask/Solr application to index IIIF manifests alongside ALTO representations and provide a IIIF Content Search API endpoint.
-* [Blacklight IIIF Search](https://github.com/boston-library/blacklight_iiif_search) ⭐ 15 | 🐛 6 | 🌐 Ruby | 📅 2026-03-17 - Plugin that provides IIIF Content Search functionality for [Blacklight](https://github.com/projectblacklight/blacklight) ⭐ 797 | 🐛 198 | 🌐 Ruby | 📅 2026-11-04-based Rails applications.
+* [Blacklight IIIF Search](https://github.com/boston-library/blacklight_iiif_search) ⭐ 15 | 🐛 6 | 🌐 Ruby | 📅 2026-03-17 - Plugin that provides IIIF Content Search functionality for [Blacklight](https://github.com/projectblacklight/blacklight) ⭐ 798 | 🐛 198 | 🌐 Ruby | 📅 2026-11-04-based Rails applications.
 * [Annosearch](https://github.com/nationalarchives/annosearch) ⭐ 8 | 🐛 2 | 🌐 TypeScript | 📅 2026-05-05 - TypeScript tool from The National Archives that indexes W3C Web Annotations from IIIF collections and annotation servers (e.g. Miiify) using Quickwit, exposing them via a IIIF Content Search 2.0 API endpoint.
 
 ## Authentication
@@ -382,7 +382,7 @@ Links to help you discover IIIF resources that have been shared, demonstrations 
 Content Management Systems (CMS) modules that implement or leverage the IIIF APIs.
 
 * [IIIF Toolkit](https://github.com/utlib/IiifItems) ⭐ 18 | 🐛 3 | 🌐 JavaScript | 📅 2024-11-08 - IIIF Toolkit by University of Toronto Libraries is a plugin for Omeka Classic (2.3+) that integrates Mirador with a built-in annotator, a manifest generator, Simple Pages shortcodes and Exhibit Builder blocks for a rich presentation experience.
-* [Mirador Viewer Omeka S Module](https://github.com/Daniel-KM/Omeka-S-module-Mirador) ⭐ 9 | 🐛 3 | 🌐 PHP | 📅 2026-05-23 - Omeka S module that integrates the Mirador image viewer.
+* [Mirador Viewer Omeka S Module](https://github.com/Daniel-KM/Omeka-S-module-Mirador) ⭐ 9 | 🐛 2 | 🌐 PHP | 📅 2026-11-12 - Omeka S module that integrates the Mirador image viewer.
 * [IIIF Image Field](https://www.drupal.org/sandbox/sdellis/2421047) - Drupal 7 module that provides an easy way to add IIIF Images to content types, and configure their display. Supports Image API versions 1.0 or 2.0.
 * [IIIF Server Omeka S Module](https://omeka.org/s/modules/IiifServer/) - Omeka S module that implements the IIIF Image and Presentation APIs.
 * [inseri core](https://wordpress.org/plugins/inseri-core/) - a WordPress plugin that introduces scientific and interactive Gutenberg blocks to facilitate open science. The [IIIF Viewer block](https://docs.inseri.swiss/blocks/iiifViewer/) can be fed with a IIIF Manifest. It relies on [Clover](https://samvera-labs.github.io/clover-iiif/) viewer and allows the usage of the API Manifest to view images and audio/visual content.
@@ -495,4 +495,4 @@ To the extent possible under law, all contributors waive all copyright and relat
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
