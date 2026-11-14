@@ -36,11 +36,11 @@
             "id": 67228421,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-18T00:22:21Z",
-            "open_issues": 52,
+            "last_commit": "2026-11-14T03:34:19Z",
+            "open_issues": 53,
             "owner": "go-iiif",
             "repo": "go-iiif",
-            "stars": 97,
+            "stars": 98,
             "topics": [
               "iiif",
               "iiif-image"
@@ -491,7 +491,7 @@
             "open_issues": 297,
             "owner": "internetarchive",
             "repo": "bookreader",
-            "stars": 1190,
+            "stars": 1189,
             "topics": [
               "bookreader",
               "ebooks",
@@ -627,8 +627,8 @@
             "id": 1027401250,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-13T17:14:32Z",
-            "open_issues": 9,
+            "last_commit": "2026-11-14T06:14:09Z",
+            "open_issues": 7,
             "owner": "nakamura196",
             "repo": "iiif-kasane",
             "stars": 6,
@@ -1070,7 +1070,7 @@
             "open_issues": 75,
             "owner": "lovasoa",
             "repo": "dezoomify-rs",
-            "stars": 1047,
+            "stars": 1046,
             "topics": [
               "deepzoom",
               "dezoomify",
@@ -1245,8 +1245,8 @@
             "id": 26245866,
             "language": "Ruby",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-11-13T17:06:52Z",
-            "open_issues": 28,
+            "last_commit": "2026-11-13T21:32:34Z",
+            "open_issues": 25,
             "owner": "iiif-prezi",
             "repo": "osullivan",
             "stars": 33,
@@ -2684,7 +2684,7 @@
             "id": 165929160,
             "language": "PHP",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-12T08:34:40Z",
+            "last_commit": "2026-11-13T19:07:16Z",
             "open_issues": 2,
             "owner": "Daniel-KM",
             "repo": "Omeka-S-module-Mirador",
@@ -2933,7 +2933,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T17:16:20.311Z",
+    "last_updated": "2026-11-14T15:53:03.964Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome IIIF-related resources",
