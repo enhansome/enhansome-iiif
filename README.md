@@ -100,7 +100,7 @@ These servers support the IIIF Image API. Some may also have support for the Pre
 * [Wolpi](https://github.com/dbmdz/wolpi) ⭐ 19 | 🐛 3 | 🌐 Java | 📅 2026-11-07 - A fast and extensible IIIF Image API 2.1 + 3.0 image server based on libvips, supporting Python and JavaScript extensions.
 * [aws-batch-iiif-generator](https://github.com/vt-digital-libraries-platform/aws-batch-iiif-generator) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2024-09-24 - An automated pipeline to generate IIIF tiles and manifests and use AWS S3 as an IIIF image server.
 * [TremendousIIIF](https://github.com/britishlibrary/TremendousIIIF) ⭐ 8 | 🐛 6 | 🌐 C# | 📅 2023-08-30 - A .NET C# IIIF Image API 2.1 server.
-* [triplet](https://github.com/libops/triplet) ⭐ 6 | 🐛 9 | 🌐 Go | 📅 2026-11-12 - A fast IIIF Image API 3.0 and Presentation API 3.0 server written in Go, powered by [libvips](https://github.com/libvips/libvips) ⭐ 11,810 | 🐛 79 | 🌐 C | 📅 2026-11-14 for image processing.
+* [triplet](https://github.com/libops/triplet) ⭐ 6 | 🐛 9 | 🌐 Go | 📅 2026-11-12 - A fast IIIF Image API 3.0 and Presentation API 3.0 server written in Go, powered by [libvips](https://github.com/libvips/libvips) ⭐ 11,811 | 🐛 80 | 🌐 C | 📅 2026-11-15 for image processing.
 * [SIPI-2](https://github.com/OMAS-IIIF/sipi-2) ⭐ 5 | 🐛 0 | 🌐 C++ | 📅 2026-10-13 - SIPI-2 is a new open-source IIIF Image API 3 server written in C++20. Supports Local and S3-compatible storage, TIFF, JPEG 2000 based on Grok, HTJ2K, JPEG and PNG input, and JPEG, PNG and WebP output. [Release 1.0.0](https://github.com/OMAS-IIIF/sipi-2/releases/tag/v1.0.0) ⭐ 5 | 🐛 0 | 🌐 C++ | 📅 2026-10-13, <https://hub.docker.com/r/lrosenth/sipi-2>
 * [FSI Server](https://www.neptunelabs.com/fsi-server/) - FSI Server is a popular commercial solution for serving high resolution images in multiple formats.  It accompanies the Flash-based FSI Viewer for zoom and pan. [IIIF adaptor for FSI server](https://github.com/jhu-digital-manuscripts/rosa/tree/master/rosa-iiif-endpoint) ⭐ 2 | 🐛 1 | 🌐 Java | 📅 2014-09-05
 * [SIPI](https://github.com/dasch-swiss/sipi) ⭐ 2 | 🐛 1 | 🌐 C++ | 📅 2026-11-12 - IIIFv3 image server written in C++.
@@ -131,7 +131,7 @@ As defined by Wikipedia a shim is a small library that transparently intercepts 
 * [Glycerine Viewer](https://github.com/Systemik-Solutions/glycerine-viewer) ⭐ 15 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-30 - An elegant and contemporary Vue 3 Viewer with a comprehensive annotation feature set.
 * [Tamerlane](https://github.com/tamerlaneviewer/tamerlane) ⭐ 14 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-11 - A lightweight IIIF viewer prioritising user experience for annotated resources.
 * [Tactum Viewer](https://github.com/FactumFoundation/tactum-viewer) ⭐ 7 | 🐛 5 | 🌐 JavaScript | 📅 2026-11-01 - A web-based viewer for high-resolution 3D surface scans, streaming albedo and height tiles with interactive relighting and measurement tools, with IIIF Presentation 3 and Image API support.
-* [IIIF Kasane](https://kasane.ldas.jp/) - A web viewer for IIIF Presentation 3.0 that layers 3D models, images, audio, video and annotations in one view. Supports comparison, maps, IIIF Content State and the IIIF Curation API. [Source](https://github.com/nakamura196/iiif-kasane) ⭐ 6 | 🐛 7 | 🌐 TypeScript | 📅 2026-11-14.
+* [IIIF Kasane](https://kasane.ldas.jp/) - A web viewer for IIIF Presentation 3.0 that layers 3D models, images, audio, video and annotations in one view. Supports comparison, maps, IIIF Content State and the IIIF Curation API. [Source](https://github.com/nakamura196/iiif-kasane) ⭐ 6 | 🐛 8 | 🌐 TypeScript | 📅 2026-11-15.
 * [Mirador Video](https://github.com/TETRAS-IIIF/mirador-video) ⭐ 5 | 🐛 9 | 🌐 JavaScript | 📅 2026-11-06 - Mirador 4 fork supporting annotation on videos.
 * [Allmaps](https://allmaps.org/) – A set of tools for curating, georeferencing and exploring IIIF maps.
 * [Archive Viewer](https://archiveviewer.org/) - A viewer for scanned images from various archives and repositories. (Presentation API v2 only)
@@ -178,7 +178,7 @@ Various tools for working with images such as cropping tools.
 * [dezoomify-rs](https://github.com/lovasoa/dezoomify-rs) ⚠️ Archived - A command-line tiled image downloader. Support IIIF, Deepzoom and others zoomable image formats.
 * [iiif-dl](https://github.com/ryanfb/iiif-dl) ⭐ 35 | 🐛 4 | 🌐 Ruby | 📅 2026-04-08 - Command-line tile downloader/assembler for IIIF endpoints/manifests. Download full-resolution image sequences from any IIIF server. Currently not compatible with IIIF 3.0.
 * [IIIF-imageManipulation](https://github.com/jbhoward-dublin/iiif-imageManipulation) ⭐ 18 | 🐛 2 | 🌐 JavaScript | 📅 2017-07-31 - UCD's tool to crop images and manipulate via IIIF attributes; integrate with Mirador via plugin.
-* [IIIF Downloader](https://github.com/ClaudioMartino/IIIF-Downloader) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2026-08-19 - Lightweight Python image downloader that needs only standard libraries (CLI + API + GUI). Compliant with IIIF API 2.0, 2.1 and 3.0.
+* [IIIF Downloader](https://github.com/ClaudioMartino/IIIF-Downloader) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2026-11-15 - Lightweight Python image downloader that needs only standard libraries (CLI + API + GUI). Compliant with IIIF API 2.0, 2.1 and 3.0.
 * [CanvasFinder](https://glenrobson.github.io/CanvasFinder/) - allows you to paste a IIIF Manifest URL into the box below and it will show you all of the Canvases which are present in that manifest.
 * [Compariscope](https://vanda.github.io/iiif-features/) - A demo app by the Victoria & Albert useful for the alignment of overlayed images, served by the IIIF Image API, and providing an interactive viewer for overlayed images, presented fluidly, using responsive image tags.
 * [IIIF cropping tool](https://ncsu-libraries.github.io/iiif-crop-tool/) - Website using [Leaflet-IIIF Cropping](https://bl.ocks.org/mejackreed/6936585f435b60aa9451ae2bc1c199f2) and Jekyll that allow users to enter the URL of a IIIF image and get the URL for the cropped section of the image.
@@ -226,7 +226,7 @@ These shims allow you to use systems with presentation metadata (e.g. structure 
 * [demetsiiify](https://github.com/jbaiter/demetsiiify) ⭐ 36 | 🐛 16 | 🌐 Python | 📅 2022-12-08 - Web service for creating IIIF manifests from METS/MODS documents.
 * [tropiiify](https://github.com/martimpassos/tropiiify) ⭐ 30 | 🐛 7 | 🌐 JavaScript | 📅 2025-08-27 Tropy plugin that exports images, metadata and annotations as a (level0) IIIF collection.
 * [iiif-producer](https://github.com/ubleipzig/iiif-producer) ⭐ 24 | 🐛 1 | 🌐 Java | 📅 2025-04-17 - A CLI tool that generates IIIF Presentation 2.1 Manifests from METS/MODS (produced by Kitodo).
-* [Brif](https://github.com/pierrz/brif) ⭐ 11 | 🐛 1 | 🌐 Python | 📅 2026-05-27 - A boilerplate tool based on Docker and FastAPI, designed to streamline the development and deployment of IIIF compliant platforms. Powering up muzai.io. See live [demo](https://brif-demo.muzai.io/dashboard).
+* [Brif](https://github.com/pierrz/brif) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2026-11-15 - A boilerplate tool based on Docker and FastAPI, designed to streamline the development and deployment of IIIF compliant platforms. Powering up muzai.io. See live [demo](https://brif-demo.muzai.io/dashboard).
 * [Leiden's Islandora IIIF Manifest Generator](https://github.com/LeidenUniversityLibrary/islandora_iiif_manifests) ⭐ 0 | 🐛 1 | 🌐 PHP | 📅 2026-08-28 - A module to generate IIIF Manifest for Islandora.
 * [IIIF Download](https://www.lizmfischer.com/iiif-tools/download) - Input a IIIF Manifest URL to and the desired image size to download a zip of all that Manifest's images
 * [IIIF Manifest Explorer](https://www.lizmfischer.com/iiif-tools/manifest) - Input a IIIF manifest link to see basic object and image metadata in a human-friendly format.
@@ -467,7 +467,7 @@ IIIF is a community-based initiative that relies on active participation, discus
 
 ## Collection Management Systems (CMSs) and Digital Asset Management (DAMs) that support IIIF
 
-* [Muzai.io platform](https://muzai.io) (based on [Brif](https://github.com/pierrz/brif) ⭐ 11 | 🐛 1 | 🌐 Python | 📅 2026-05-27)
+* [Muzai.io platform](https://muzai.io) (based on [Brif](https://github.com/pierrz/brif) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2026-11-15)
 * [Invenio](https://invenio-software.org/products/framework/) (Image API implementation via [invenio-iiif](https://github.com/inveniosoftware/invenio-iiif) ⭐ 5 | 🐛 6 | 🌐 Python | 📅 2026-06-11)
 * [Archipelago](https://archipelago.nyc/)
 * [Axiell Collections](https://www.axiell.com/solutions/product/axiell-collections/)
@@ -495,4 +495,4 @@ To the extent possible under law, all contributors waive all copyright and relat
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
