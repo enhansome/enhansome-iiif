@@ -97,7 +97,7 @@ These servers support the IIIF Image API. Some may also have support for the Pre
 * [riiif](https://github.com/curationexperts/riiif) ⭐ 40 | 🐛 17 | 🌐 Ruby | 📅 2026-10-26 - Written in Ruby as a Rails engine.
 * [Hymir IIIF Server](https://github.com/dbmdz/iiif-server-hymir) ⚠️ Archived - IIIF server written in Java supporting IIIF Image and Presentation API.
 * [iiif\_s3](https://github.com/cmoa/iiif_s3) ⭐ 31 | 🐛 2 | 🌐 Ruby | 📅 2017-11-26 - Ruby library for generating a static IIIF level 0 Image and Presentation API server on Amazon S3.
-* [Wolpi](https://github.com/dbmdz/wolpi) ⭐ 19 | 🐛 5 | 🌐 Java | 📅 2026-11-20 - A fast and extensible IIIF Image API 2.1 + 3.0 image server based on libvips, supporting Python and JavaScript extensions.
+* [Wolpi](https://github.com/dbmdz/wolpi) ⭐ 19 | 🐛 6 | 🌐 Java | 📅 2026-11-21 - A fast and extensible IIIF Image API 2.1 + 3.0 image server based on libvips, supporting Python and JavaScript extensions.
 * [aws-batch-iiif-generator](https://github.com/vt-digital-libraries-platform/aws-batch-iiif-generator) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2024-09-24 - An automated pipeline to generate IIIF tiles and manifests and use AWS S3 as an IIIF image server.
 * [TremendousIIIF](https://github.com/britishlibrary/TremendousIIIF) ⭐ 8 | 🐛 6 | 🌐 C# | 📅 2023-08-30 - A .NET C# IIIF Image API 2.1 server.
 * [triplet](https://github.com/libops/triplet) ⭐ 6 | 🐛 9 | 🌐 Go | 📅 2026-11-17 - A fast IIIF Image API 3.0 and Presentation API 3.0 server written in Go, powered by [libvips](https://github.com/libvips/libvips) ⭐ 11,828 | 🐛 77 | 🌐 C | 📅 2026-11-20 for image processing.
@@ -125,13 +125,13 @@ As defined by Wikipedia a shim is a small library that transparently intercepts 
 
 ## IIIF Viewers
 
-* [Internet Archive BookReader](https://github.com/internetarchive/bookreader) ⭐ 1,189 | 🐛 297 | 🌐 JavaScript | 📅 2026-11-18 - A viewer developed by the Internet Archive, specially suited for viewing books.
+* [Internet Archive BookReader](https://github.com/internetarchive/bookreader) ⭐ 1,189 | 🐛 297 | 🌐 JavaScript | 📅 2026-11-21 - A viewer developed by the Internet Archive, specially suited for viewing books.
 * [Tify](https://github.com/subugoe/tify) ⭐ 131 | 🐛 42 | 🌐 JavaScript | 📅 2026-11-04 - Slim and fast IIIF document viewer built with Vue.js.
 * [Mirador](https://projectmirador.org/) - Multi-up workspace. See also [Awesome Mirador list](https://github.com/ProjectMirador/mirador-awesome) ⭐ 46 | 🐛 5 | 📅 2026-02-11.
 * [Glycerine Viewer](https://github.com/Systemik-Solutions/glycerine-viewer) ⭐ 15 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-30 - An elegant and contemporary Vue 3 Viewer with a comprehensive annotation feature set.
 * [Tamerlane](https://github.com/tamerlaneviewer/tamerlane) ⭐ 14 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-11 - A lightweight IIIF viewer prioritising user experience for annotated resources.
 * [Tactum Viewer](https://github.com/FactumFoundation/tactum-viewer) ⭐ 7 | 🐛 5 | 🌐 JavaScript | 📅 2026-11-01 - A web-based viewer for high-resolution 3D surface scans, streaming albedo and height tiles with interactive relighting and measurement tools, with IIIF Presentation 3 and Image API support.
-* [IIIF Kasane](https://kasane.ldas.jp/) - A web viewer for IIIF Presentation 3.0 that layers 3D models, images, audio, video and annotations in one view. Supports comparison, maps, IIIF Content State and the IIIF Curation API. [Source](https://github.com/nakamura196/iiif-kasane) ⭐ 6 | 🐛 8 | 🌐 TypeScript | 📅 2026-11-20.
+* [IIIF Kasane](https://kasane.ldas.jp/) - A web viewer for IIIF Presentation 3.0 that layers 3D models, images, audio, video and annotations in one view. Supports comparison, maps, IIIF Content State and the IIIF Curation API. [Source](https://github.com/nakamura196/iiif-kasane) ⭐ 6 | 🐛 8 | 🌐 TypeScript | 📅 2026-11-21.
 * [Mirador Video](https://github.com/TETRAS-IIIF/mirador-video) ⭐ 5 | 🐛 9 | 🌐 JavaScript | 📅 2026-11-06 - Mirador 4 fork supporting annotation on videos.
 * [Allmaps](https://allmaps.org/) – A set of tools for curating, georeferencing and exploring IIIF maps.
 * [Archive Viewer](https://archiveviewer.org/) - A viewer for scanned images from various archives and repositories. (Presentation API v2 only)
@@ -189,7 +189,7 @@ Various tools for working with images such as cropping tools.
 
 ## Presentation API Libraries
 
-* [Manifesto](https://github.com/UniversalViewer/manifesto) ⭐ 50 | 🐛 33 | 🌐 TypeScript | 📅 2026-11-13 - IIIF Presentation API client and server utility library.
+* [Manifesto](https://github.com/UniversalViewer/manifesto) ⭐ 50 | 🐛 34 | 🌐 TypeScript | 📅 2026-11-13 - IIIF Presentation API client and server utility library.
 * [iiif-prezi3](https://github.com/iiif-prezi/iiif-prezi3) ⭐ 42 | 🐛 37 | 🌐 Python | 📅 2026-11-19 - Presentation 3 Python library.
 * [iiif-prezi](https://github.com/iiif-prezi/iiif-prezi) ⭐ 35 | 🐛 13 | 🌐 Python | 📅 2024-04-17 - Presentation 2 Python library providing a reference implementation.
 * [O'Sullivan](https://github.com/IIIF/osullivan) ⭐ 33 | 🐛 25 | 🌐 Ruby | 📅 2026-11-13 - Ruby API for creating IIIF manifests.
@@ -495,4 +495,4 @@ To the extent possible under law, all contributors waive all copyright and relat
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
