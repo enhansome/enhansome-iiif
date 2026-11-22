@@ -627,7 +627,7 @@
             "id": 1027401250,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-21T06:55:21Z",
+            "last_commit": "2026-11-22T14:44:19Z",
             "open_issues": 8,
             "owner": "nakamura196",
             "repo": "iiif-kasane",
@@ -1809,7 +1809,7 @@
             "id": 455209787,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-20T04:43:30Z",
+            "last_commit": "2026-11-22T15:11:13Z",
             "open_issues": 0,
             "owner": "pierrz",
             "repo": "brif",
@@ -2892,7 +2892,7 @@
             "id": 455209787,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-20T04:43:30Z",
+            "last_commit": "2026-11-22T15:11:13Z",
             "open_issues": 0,
             "owner": "pierrz",
             "repo": "brif",
@@ -2933,7 +2933,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T16:51:18.555Z",
+    "last_updated": "2026-11-22T17:14:03.097Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome IIIF-related resources",
