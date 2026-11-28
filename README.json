@@ -241,7 +241,7 @@
             "id": 1220890293,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-11-27T16:59:51Z",
+            "last_commit": "2026-11-28T10:47:59Z",
             "open_issues": 9,
             "owner": "libops",
             "repo": "triplet",
@@ -488,7 +488,7 @@
             "language": "JavaScript",
             "license": "AGPL-3.0",
             "last_commit": "2026-11-26T22:45:57Z",
-            "open_issues": 299,
+            "open_issues": 301,
             "owner": "internetarchive",
             "repo": "bookreader",
             "stars": 1192,
@@ -1804,7 +1804,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Brif is a boilerplate tool based on Docker and FastAPI, designed to streamline the development and deployment of IIIF compliant platforms.",
+            "description": "Brif is a boilerplate tool based on Kubernetes, Celery and FastAPI, designed to streamline the development and deployment of IIIF compliant platforms.",
             "homepage": "https://brif.muzai.io/demo",
             "id": 455209787,
             "language": "Python",
@@ -2887,7 +2887,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Brif is a boilerplate tool based on Docker and FastAPI, designed to streamline the development and deployment of IIIF compliant platforms.",
+            "description": "Brif is a boilerplate tool based on Kubernetes, Celery and FastAPI, designed to streamline the development and deployment of IIIF compliant platforms.",
             "homepage": "https://brif.muzai.io/demo",
             "id": 455209787,
             "language": "Python",
@@ -2933,7 +2933,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T19:04:10.104Z",
+    "last_updated": "2026-11-28T17:39:17.400Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome IIIF-related resources",
